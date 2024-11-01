@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jakob's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="logo">Portfolio</div>
+        <ul class="nav-links" id="navLinks">
+            <li><a href="#home">🏠</a></li>
+            <li><a href="#about">👤</a></li>
+            <li><a href="#projects">📚</a></li>
+            <li><a href="#skills">🛠️</a></li>
+            <li><a href="#contact">📩</a></li>
+            <li id="togglemode">🌞</li>
+        </ul>
+    </nav>
+
+    <!-- Forside -->
+    <header id="home" class="hero">
+        <div class="hero-content">
+            <h1>Jakob Brodersen Gugel</h1>
+            <p>Udvikler med fokus på effektivitet og funktionalitet.</p>
+            <a href="#projects" class="cta">Se mine projekter</a>
+            <a href="#contact" class="cta secondary">Kontakt mig</a>
+        </div>
+    </header>
+
+    <!-- Om Mig Sektion -->
+    <section id="about" class="about">
+        <h2>Om Mig</h2>
+        <p>Passioneret udvikler med erfaring i at skabe innovative løsninger og scripts til både intern og ekstern brug. 
+            <br>Jeg har speciale i full-stack udvikling, hvor jeg kombinerer backend-logikker med intuitive frontend-designs for at levere løsninger, der opfylder forretningsbehov.
+            <br>Med en stor interesse for cykling, både som hobby og livsstil, nyder jeg at anvende en datadrevet tilgang til min træning og løbsforberedelse, hvor jeg optimerer min præstation ved hjælp af avancerede metrikker og analyser.
+            <br>Jeg arbejder i øjeblikket på projekter, der spænder fra softwareudvikling, automatisering og visualisering og bearbejdning af forretningsdata. Jeg søger altid efter måder at kombinere teknologi med virkelige anvendelser for at skabe effektivitet og resultater.
+        </p>
+    </section>
+
+    <!-- Projekter Sektion -->
+    <section id="projects" class="projects">
+        <h2>Projekter</h2>
+        <p>Her er nogle af mine projekter.</p>
+    </section>
+
+    <!-- Teknologier Sektion -->
+    <section id="skills" class="skills-section">
+        <h2>Teknologier</h2>
+        <p>En liste af de teknologier, jeg arbejder med.</p>
+    </section>
+
+    <!-- Kontakt Sektion -->
+    <section id="contact" class="contact">
+        <h2>Kontakt</h2>
+        <form>
+            <label for="name">Navn</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Besked</label>
+            <textarea id="message" name="message" required></textarea>
+
+            <button type="submit">Send</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 - Jakob Brodersen Gugel</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
