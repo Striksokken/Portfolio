@@ -1,11 +1,10 @@
 /* Dark Mode */
 :root {
-    --color-background: #00151f; /* Komplementær af #FEFAE0 */
---color-text: #daccce;       /* Komplementær af #253031 */
---color-link: #ca9a96;       /* Komplementær af #315659 */
---color-button: #332a51;     /* Komplementær af #CCD5AE */
---color-button-hover: #160e36; /* Komplementær af #E9EDC9 */
-
+    --color-background: #00151f;
+    --color-text: #daccce;
+    --color-link: #ca9a96;
+    --color-button: #332a51;
+    --color-button-hover: #160e36;
 }
 
 /* Light Mode */
@@ -16,6 +15,7 @@
     --color-button: #CCD5AE;
     --color-button-hover: #E9EDC9;
 }
+
 
 /* Global Styling */
 body {
@@ -34,26 +34,36 @@ body {
 /* Navbar Styling */
 .navbar {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1rem 2rem;
-    background-color: var(--color-button);
+    flex-direction: row;
     color: var(--color-text);
-    position: fixed;
     width: 100%;
     top: 0;
-    z-index: 1000;
-    
+    z-index: 10000;
+    margin-top: -4rem;
+    margin-left: -1rem;
+    cursor: pointer;
 }
 
-.logo {
-    font-size: 1.5rem;
+.intro{
+    display: flex;
+    margin-top: -1rem;
 }
+
+.image {
+    padding: 1rem;
+    border-radius: 50rem;
+    max-width: 400px;
+    width: 60%;
+    height: auto;
+}
+
+
 
 .nav-links {
-    list-style: none;
     display: flex;
+    flex-direction: row;
     gap: 1.5rem;
+    list-style: none;
     cursor: pointer;
 }
 
@@ -64,49 +74,11 @@ body {
     transition: color 0.3s;
 }
 
-.nav-links li a:hover {
-    color: #ddd;
-}
-
-@media (max-width: 768px) {
-    .nav-links {
-        position: fixed;
-        top: 0;
-        right: 0;
-        width: 200px;
-        height: 100vh;
-        background-color: var(--color-button);
-        flex-direction: column;
-        gap: 2rem;
-        justify-content: center;
-        align-items: center;
-        transform: translateX(80%);
-        transition: transform 0.3s ease;
-        
-    }
-
-    .nav-links.active {
-        transform: translateX(0);
-    }
-}
-
 
 /* Footer */
 footer {
     text-align: center;
-    padding: 2rem;
-    background: var(--color-background);
+    padding: 3rem;
     color: var(--color-text-secondary);
 }
 
-/* Dark/Light Toggle Button */
-#togglemode {
-    width: 80px;
-    height: 100%;
-    font-size: 1.5rem;
-    background: none;
-    border: none;
-    color: var(--color-text);
-    cursor: pointer;
-    transition: color 0.3s ease;
-}
