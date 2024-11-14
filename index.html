@@ -3,24 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jakob's Portfolio</title>
+    <title>Jakob B. Gugel - Developer from Haderslev, DK</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <!-- Navigation Bar -->
     <nav class="navbar">
         <ul class="nav-links" id="navlinks">
-            <li><a href="#home"></a><img src="home.svg"></li>
-            <li><a href="#about"><img src="person.svg"></a></li>
-            <li><a href="#projects"><img src="menu_book.svg"></a></li>
-            <li><a href="#skills"><img src="tools.svg"></a></li>
-            <li><a href="#contact"><img src="mail.svg"></a></li>
-            <li><img id="togglemode" src="lightmode.svg"></li>
+            <li><a href="#home"></a><img src="assets/home.svg"></li>
+            <li><a href="#about"><img src="assets/person.svg"></a></li>
+            <li><a href="#projects"><img src="assets/menu_book.svg"></a></li>
+            <li><a href="#skills"><img src="assets/tools.svg"></a></li>
+            <li><a href="#contact"><img src="assets/mail.svg"></a></li>
+            <li><img id="togglemode" src="assets/lightmode.svg"></li>
         </ul>
     </nav>
     <header id="home" class="intro"></headerid>
         <div><img src="profileimage.jpg" alt="ProfileImage" class="image"></div>
     </header>
+    <section id="contact" class="contact">
+        <h2>Kontakt mig</h2>
+        <form>
+            <label for="name">Navn</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Besked</label>
+            <textarea id="message" name="message" required></textarea>
+
+            <button type="submit">Send</button>
+        </form>
+    </section>
     <footer>
         <p>&copy; 2024 - Jakob Brodersen Gugel</p>
     </footer>
