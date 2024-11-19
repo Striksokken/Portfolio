@@ -5,12 +5,14 @@ function setInitialMode() {
   const savedMode = localStorage.getItem('theme');
   if (savedMode === 'light') {
       document.body.classList.add('light-mode');
-      toggleButton.src = 'assets/lightmode.svg';
+      toggleButton.src = 'assets/darkmode.svg';
+      toggleButton.title = 'Change to darkmode';
       icon.style.filter = 'invert(70%) brightness(0%) contrast(100%)';
       
     } else {
       document.body.classList.remove('light-mode');
-      toggleButton.src = 'assets/darkmode.svg';
+      toggleButton.src = 'assets/lightmode.svg';
+      toggleButton.title = 'Change to lightmode';
       icon.style.filter = 'invert(0%) brightness(70%) contrast(100%)';
 
   }
@@ -23,11 +25,13 @@ function toggleMode() {
 
   if (isLightMode) {
       localStorage.setItem('theme', 'light');
-      toggleButton.src = 'assets/lightmode.svg';
+      toggleButton.src = 'assets/darkmode.svg'; 
+      toggleButton.title = 'Change to darkmode';
       icon.style.filter = 'invert(70%) brightness(0%) contrast(100%)';
     } else {
       localStorage.setItem('theme', 'dark');
-      toggleButton.src = 'assets/darkmode.svg'; 
+      toggleButton.src = 'assets/lightmode.svg';
+      toggleButton.title = 'Change to lightmode';
       icon.style.filter = 'invert(0%) brightness(70%) contrast(100%)';
     }
 }
