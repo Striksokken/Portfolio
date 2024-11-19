@@ -68,6 +68,22 @@ body {
     border-radius: 50rem;
 }
 
+.image:hover{
+    animation-duration: 10s;
+    animation-name: image;
+}
+
+
+@keyframes image {
+    from{ 
+        rotate: 0deg;
+    }
+    to{
+        rotate: 360deg;
+    }
+}
+
+
 .nav-links {
     display: flex;
     flex-direction: row;
