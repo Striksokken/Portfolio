@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function() {
   function createSnowflake() {
       const snowflake = document.createElement("div");
       snowflake.classList.add("snowflake");
-      snowflake.style.backgroundImage = 'url(assets/snowflake.svg)';
+      snowflake.style.backgroundImage = "url('assets/snowflake.svg')";
       snowflake.style.backgroundSize = 'contain';
       snowflake.style.backgroundRepeat = 'no-repeat';
       snowflake.style.left = `${Math.random() * 95}vw`; 
