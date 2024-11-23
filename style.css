@@ -31,6 +31,7 @@
 h2{
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 
 /* Global Styling */
@@ -63,6 +64,32 @@ body {
     background: var(--color-background);
 }
 
+
+
+/* Nav-links */
+.nav-links {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+    list-style: none;
+    cursor: pointer;
+}
+
+.nav-links li:hover{
+    animation-duration: 0.5s;
+    animation-name: image;
+    animation-iteration-count: 2;
+    animation-timing-function: linear;
+}
+
+.nav-links li a {
+    color: var(--color-text);
+    text-decoration: none;
+    font-size: 1rem;
+    transition: color 0.3s;
+}
+
+/* Home */
 .image {
     padding: 1rem;
     border-radius: 50rem;
@@ -71,7 +98,7 @@ body {
 .image:hover{
     animation-duration: 0.5s;
     animation-name: image;
-    animation-iteration-count: infinite;
+    animation-iteration-count: 2;
     animation-timing-function: linear;
 }
 
@@ -89,22 +116,6 @@ body {
     to{
         rotate: 0deg;
     }
-}
-
-
-.nav-links {
-    display: flex;
-    flex-direction: row;
-    gap: 1.5rem;
-    list-style: none;
-    cursor: pointer;
-}
-
-.nav-links li a {
-    color: var(--color-text);
-    text-decoration: none;
-    font-size: 1rem;
-    transition: color 0.3s;
 }
 
 /* about */
@@ -125,7 +136,29 @@ body {
 .some-links li:hover{
     animation-duration: 0.5s;
     animation-name: image;
-    animation-iteration-count: infinite;
+    animation-iteration-count: 2;
+    animation-timing-function: linear;
+}
+
+/* Skills */
+.tools{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+}
+
+.tools li img {
+    text-decoration: none;
+    margin-right: 1rem;
+    height: 3rem;
+}
+
+.tools li:hover{
+    animation-duration: 0.5s;
+    animation-name: image;
+    animation-iteration-count: 2;
     animation-timing-function: linear;
 }
 
@@ -173,8 +206,15 @@ body {
 
 /* Footer */
 footer {
+    display: flex;
+    justify-content: center;
     text-align: center;
     padding: 3rem;
     color: var(--color-text-secondary);
+}
+
+.signature {
+    font-family: CustomFont;
+    margin-left: 0.3rem;
 }
 

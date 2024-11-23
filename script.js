@@ -2,22 +2,25 @@ const savedMode = localStorage.getItem('theme') || 'dark'; // Default to dark mo
 const toggleButton = document.getElementById('togglemode');
 const icon = document.getElementById('navlinks');
 const some = document.getElementById('some-links');
+const tools = document.getElementById('tools');
 
 function setInitialMode() {
   const savedMode = localStorage.getItem('theme');
   if (savedMode === 'light') {
       document.body.classList.add('light-mode');
       toggleButton.src = 'assets/darkmode.svg';
-      toggleButton.title = 'Change to darkmode';
+      toggleButton.title = 'Skift sidens udseende til mørk-tilstand';
       icon.style.filter = 'invert(70%) brightness(0%) contrast(100%)';
       some.style.filter = 'grayscale(0%) invert(0%)';
+      tools.style.filter = 'grayscale(0%) invert(0%)';
       
     } else {
       document.body.classList.remove('light-mode');
       toggleButton.src = 'assets/lightmode.svg';
-      toggleButton.title = 'Change to lightmode';
+      toggleButton.title = 'Skift sidens udseende til lys-tilstand';
       icon.style.filter = 'invert(0%) brightness(70%) contrast(100%)';
       some.style.filter = 'grayscale(100%) brightness(70%) invert(100%)';
+      tools.style.filter = 'grayscale(100%) brightness(70%) invert(100%)';
   }
 }
 
@@ -29,15 +32,17 @@ function toggleMode() {
   if (isLightMode) {
       localStorage.setItem('theme', 'light');
       toggleButton.src = 'assets/darkmode.svg'; 
-      toggleButton.title = 'Change to darkmode';
+      toggleButton.title = 'Skift sidens udseende til mørk-tilstand';
       icon.style.filter = 'invert(70%) brightness(0%) contrast(100%)';
       some.style.filter = 'grayscale(0%) invert(0%)';
+      tools.style.filter = 'grayscale(0%) invert(0%)';
     } else {
       localStorage.setItem('theme', 'dark');
       toggleButton.src = 'assets/lightmode.svg';
-      toggleButton.title = 'Change to lightmode';
+      toggleButton.title = 'Skift sidens udseende til lys-tilstand';
       icon.style.filter = 'invert(0%) brightness(70%) contrast(100%)';
       some.style.filter = 'grayscale(100%) brightness(70%) invert(100%)';
+      tools.style.filter = 'grayscale(100%) brightness(70%) invert(100%)';
     }
 }
 
