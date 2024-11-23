@@ -119,6 +119,10 @@ body {
 }
 
 /* about */
+.about{
+    margin-top: 5rem;
+}
+
 .some-links{
     display: flex;
     justify-content: center;
@@ -141,6 +145,10 @@ body {
 }
 
 /* Skills */
+.skills{
+    margin-top: 5rem;
+}
+
 .tools{
     display: flex;
     justify-content: center;
@@ -153,6 +161,7 @@ body {
     text-decoration: none;
     margin-right: 1rem;
     height: 3rem;
+    max-height: 3rem;
 }
 
 .tools li:hover{
@@ -163,6 +172,10 @@ body {
 }
 
 /* Kontakt Sektion */
+.contact{
+    margin-top: 5rem;
+}
+
 .contact form{
     max-width: 600px;
     margin: auto;
