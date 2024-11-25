@@ -46,7 +46,9 @@ function toggleMode() {
     }
 }
 
-document.addEventListener("DOMContentLoaded", function() {
+
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("DOM indlæst - sneflager initialiseres");
   // Opret container til sneflager og placer den bagest
   const snowContainer = document.createElement("div");
   snowContainer.id = "snowContainer";
@@ -54,31 +56,32 @@ document.addEventListener("DOMContentLoaded", function() {
   
   // Funktion til at oprette sneflager
   function createSnowflake() {
-      const snowflake = document.createElement("div");
-      snowflake.classList.add("snowflake");
-      snowflake.style.backgroundImage = "url('assets/snowflake.svg')";
-      snowflake.style.backgroundSize = 'contain';
-      snowflake.style.backgroundRepeat = 'no-repeat';
-      snowflake.style.left = `${Math.random() * 95}vw`; 
-      snowflake.style.animationDuration = `${20 + Math.random() * 5}s`; 
-      snowflake.style.filter = 'blur(2px)';
-      snowflake.style.opacity = Math.random();
-      snowflake.style.width = `${5 + Math.random() * 10}px`; // Width between 5px and 15px
-      snowContainer.appendChild(snowflake);
-      if (localStorage.getItem('theme') == "light") {
-        snowContainer.style.filter = 'invert(70%) brightness(0%) contrast(100%)';
-      } else {
-        snowContainer.style.filter = 'invert(0%) brightness(70%) contrast(100%)';
-      }
-      
-      // Fjern sneflagen efter animationen er færdig
-      setTimeout(() => {
-          snowflake.remove();
-      }, 40000); // Fjern efter 40 sekunder for langsommere snefald
+    const snowflake = document.createElement("div");
+    snowflake.classList.add("snowflake");
+    snowflake.style.backgroundImage = "url('assets/snowflake.svg')";
+    snowflake.style.backgroundSize = 'contain';
+    snowflake.style.backgroundRepeat = 'no-repeat';
+    snowflake.style.left = `${Math.random() * 95}vw`; 
+    snowflake.style.animationDuration = `${20 + Math.random() * 5}s`; 
+    snowflake.style.filter = 'blur(2px)';
+    snowflake.style.opacity = Math.random();
+    snowflake.style.width = `${5 + Math.random() * 10}px`; // Width between 5px and 15px
+    snowflake.style.zIndex = 1001;
+    snowContainer.appendChild(snowflake);
+    snowflake.style.filter =
+    localStorage.getItem('theme') === "light"
+      ? 'invert(70%) brightness(0%) contrast(100%)'
+      : 'invert(0%) brightness(70%) contrast(100%)';
+
+    
+    // Fjern sneflagen efter animationen er færdig
+    setTimeout(() => {
+        snowflake.remove();
+    }, 20000); // Fjern efter 40 sekunder for langsommere snefald
   }
 
   // Opret en ny sneflage hvert 300 ms
-  setInterval(createSnowflake, 900);
+  setInterval(createSnowflake, 300);
 });
 
 // Eventlistener til knappen
@@ -86,3 +89,4 @@ toggleButton.addEventListener('click', toggleMode);
 
 // Initial tilstand ved load
 setInitialMode();
+
