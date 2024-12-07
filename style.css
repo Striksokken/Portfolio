@@ -359,16 +359,5 @@ footer {
         text-align: center;
         font-size: 1.5rem; /* Juster skriftstørrelse */
     }
-
-    .navbar {
-        flex-direction: column; /* Stak navbar-elementerne vertikalt */
-        padding-top: 1rem;
-        padding-bottom: 1rem;
-    }
-
-    .nav-links {
-        flex-direction: column; /* Stak nav-links */
-        gap: 1rem;
-    }
 }
 
