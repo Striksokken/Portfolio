@@ -46,6 +46,8 @@ function toggleMode() {
     }
 }
 
+
+//Cookies-window
 document.addEventListener("DOMContentLoaded", function () {
   const banner = document.getElementById("cookie-banner");
   const acceptBtn = document.getElementById("accept-cookies");
@@ -81,6 +83,30 @@ document.addEventListener("DOMContentLoaded", function () {
     console.log("Cookies er afvist.");
     // Bloker evt. tredjeparts cookies
   }
+});
+
+
+//Contact-form
+document.getElementById("contactForm").addEventListener("submit", function (e) {
+  e.preventDefault(); // Stopper formularens standard handling (sideskift)
+
+  // Indsamler formularens data
+  const formData = new FormData(this);
+
+  // Sender data med fetch til mail.php
+  fetch("mail.php", {
+      method: "POST",
+      body: formData
+  })
+  .then(response => response.text()) // Læser svaret som tekst
+  .then(data => {
+      document.getElementById("responseMessage").innerText = data; // Viser svaret på siden
+      document.getElementById("contactForm").reset(); // Nulstiller formularen
+  })
+  .catch(error => {
+      document.getElementById("responseMessage").innerText = "Der opstod en fejl. Prøv igen senere.";
+      console.error("Fejl:", error);
+  });
 });
 
 
