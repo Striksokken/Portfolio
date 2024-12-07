@@ -10,9 +10,10 @@ require 'vendor/PHPMailer-master/src/SMTP.php';
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $name = htmlspecialchars($_POST['name']);
     $email = filter_var($_POST['email'], FILTER_VALIDATE_EMAIL);
+    $telefon = htmlspecialchars($_POST['telefon']);
     $message = htmlspecialchars($_POST['message']);
 
-    if (!$name || !$email || !$message) {
+    if (!$name || !$email || !$telefon || !$message) {
         echo "Alle felter skal udfyldes korrekt!";
         exit;
     }
@@ -41,6 +42,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         $mail->Body    = "Du har modtaget en ny besked fra din portfolio:\n\n"
                        . "Navn: $name\n"
                        . "Email: $email\n"
+                       . "Telefon: $telefon\n"
                        . "Besked:\n$message";
 
         // Send e-mail
