@@ -100,7 +100,7 @@ document.getElementById("contactForm").addEventListener("submit", function (e) {
   })
   .then(response => response.text()) // Læser svaret som tekst
   .then(data => {
-      document.getElementById("responseMessage").innerText = data; // Viser svaret på siden
+      alert(data);
       document.getElementById("contactForm").reset(); // Nulstiller formularen
   })
   .catch(error => {
