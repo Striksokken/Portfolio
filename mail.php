@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     try {
         // Serverindstillinger
         $mail->isSMTP();
-        $mail->Host       = 'smtp.simply.com';
+        $mail->Host       = 'websmtp.simply.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'DIN_EMAIL_BRUGERNAVN';
         $mail->Password = 'DIN_EMAIL_ADGANGSKODE';
