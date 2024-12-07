@@ -140,11 +140,19 @@ body {
     margin-bottom: 3rem;
 }
 
-.funfacts {
+.descriptionII {
     background: var(--color-backgroundII);
     padding: 3rem;
     border-radius: 2rem;
     margin-left: 40%;
+    margin-bottom: 3rem;
+}
+
+.funfacts {
+    background: var(--color-backgroundII);
+    padding: 3rem;
+    border-radius: 2rem;
+    margin-right: 40%;
 }
 
 .funfactshead {
@@ -310,6 +318,30 @@ footer {
 .signature {
     font-family: CustomFont;
 }
+
+#cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--color-button);
+    color: var(--color-text);
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 -2px 5px var(--color-background);
+    z-index: 9999;
+  }
+  
+  #cookie-banner button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #accept-cookies { background-color: #4CAF50; color: var(--color-background); }
+  #reject-cookies { background-color: #f44336; color: var(--color-background); }
+  
 
 #snowContainer {
     position: fixed; /* Sørg for, at containeren dækker hele skærmen */

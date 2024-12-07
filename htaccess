@@ -1,3 +1,7 @@
+RewriteEngine On 
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
 <RequireAny>
 	Require ip 2.16.63.0/24
 	Require ip 2.17.0.0/22

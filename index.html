@@ -19,7 +19,7 @@
             <li title="Kontakt mig"><a href="#contact"><img src="assets/mail.svg"></a></li>
             <li title="Skift sidens udseende til lys-tilstand"><img id="togglemode" src="assets/lightmode.svg"></li>
         </ul>
-    </nav>
+    </nav>      
     <section id="home" class="home">
         <div><img src="profileimage.jpg" alt="ProfileImage" class="image"></div>
     </section>
@@ -27,7 +27,17 @@
         <h2>Hvem er udvikleren Jakob?</h2>
         <div class="aboutcontainer">
             <div class="description">
-
+                <p>Jeg er en alsidig udvikler med erfaring i både backend og frontend programmering, 
+                    hvor jeg udvikler apps og scripts til både interne og eksterne formål. 
+                    <br><br>Jeg arbejder primært med PHP, MySQL, JavaScript og har fokus på integrationer, 
+                    bl.a. med Microsoft Business Central. Jeg trives med at løse komplekse udfordringer og skabe løsninger, 
+                    der er både effektive og brugervenlige.</p>
+            </div>
+            <div class="descriptionII">
+                <p>Når jeg ikke sidder foran computeren, 
+                    bruger jeg tid på cykling, hvor jeg konstant arbejder på at forbedre min form og mine resultater. 
+                    <br><br>Jeg går altid efter at kombinere innovation, performance og effektivitet 
+                    <br>– både i mit arbejde og i min træning.</p>
             </div>
             <div class="funfacts">
                 <h3 class="funfactshead">Fun facts:</h3>
@@ -80,7 +90,7 @@
     </section>
     <section id="contact" class="contact">
         <h2>Kontakt mig</h2>
-        <form>
+        <form action="mail.php" method="POST">
             <label for="name">Navn</label>
             <input type="text" id="name" name="name" required>
 
@@ -94,6 +104,14 @@
         </form>
     </section>
     <footer>
+        <div id="cookie-banner" style="display: none;">
+            <p>
+              Jeg bruger cookies til at forbedre din oplevelse.<br>Du kan acceptere alle cookies eller 
+              afvise dem.
+            </p>
+            <button id="accept-cookies">Accepter alle</button>
+            <button id="reject-cookies">Afvis</button>
+          </div>
         <p class="signature">Jakob Brodersen Gugel</p>
     </footer>
 

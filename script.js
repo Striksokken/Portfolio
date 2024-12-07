@@ -46,6 +46,44 @@ function toggleMode() {
     }
 }
 
+document.addEventListener("DOMContentLoaded", function () {
+  const banner = document.getElementById("cookie-banner");
+  const acceptBtn = document.getElementById("accept-cookies");
+  const rejectBtn = document.getElementById("reject-cookies");
+
+  // Tjek om samtykke allerede er givet
+  const consent = localStorage.getItem("cookieConsent");
+
+  if (!consent) {
+    banner.style.display = "block"; // Vis banner
+  }
+
+  // Accepter cookies
+  acceptBtn.addEventListener("click", function () {
+    localStorage.setItem("cookieConsent", "accepted");
+    banner.style.display = "none";
+    enableCookies();
+  });
+
+  // Afvis cookies
+  rejectBtn.addEventListener("click", function () {
+    localStorage.setItem("cookieConsent", "rejected");
+    banner.style.display = "none";
+    blockCookies();
+  });
+
+  function enableCookies() {
+    // Indsæt scripts til cookies her, f.eks. Google Analytics
+    console.log("Cookies er accepteret.");
+  }
+
+  function blockCookies() {
+    console.log("Cookies er afvist.");
+    // Bloker evt. tredjeparts cookies
+  }
+});
+
+
 
 document.addEventListener("DOMContentLoaded", function () {
   console.log("DOM indlæst - sneflager initialiseres");
