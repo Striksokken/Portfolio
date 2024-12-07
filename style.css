@@ -343,23 +343,32 @@ footer {
   #reject-cookies { background-color: #f44336; color: var(--color-background); }
   
 
-#snowContainer {
-    position: fixed; /* Sørg for, at containeren dækker hele skærmen */
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    pointer-events: none; /* Tillader interaktion med elementer bag sneen */
-    z-index: 9999; /* Sørg for, at sneen er øverst */
-}
+/* Media query til mindre skærme */
+@media (max-width: 768px) {
+    .description, .descriptionI, .funfacts, .projectitem, .projectitemII {
+        margin-left: 5%; /* Reducer marginer */
+        margin-right: 5%;
+        padding: 1.5rem; /* Mindre padding for små skærme */
+    }
 
-.snowflake {
-    position: absolute; /* Sneflagerne skal være absolut placeret */
-    top: -10px; /* Start uden for skærmen */
-    animation: fall linear infinite; /* Animation for at falde ned */
-    width: 10px; /* Test med faste værdier først */
-    height: 10px;
-    background-size: contain;
-    background-repeat: no-repeat;
+    .contact form {
+        width: 90%; /* Sørg for formularen ikke fylder hele bredden */
+    }
+
+    h2, h3 {
+        text-align: center;
+        font-size: 1.5rem; /* Juster skriftstørrelse */
+    }
+
+    .navbar {
+        flex-direction: column; /* Stak navbar-elementerne vertikalt */
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+
+    .nav-links {
+        flex-direction: column; /* Stak nav-links */
+        gap: 1rem;
+    }
 }
 
