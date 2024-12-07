@@ -38,14 +38,6 @@ function setFilters(isLightMode) {
     tools.style.filter = isLightMode ? 'grayscale(0%) invert(0%)' : grayscaleFilter;
 }
 
-// Snowflake filter
-function setSnowflakeFilter(snowflake) {
-    const isLightMode = localStorage.getItem('theme') === "light";
-    snowflake.style.filter = isLightMode 
-        ? 'invert(70%) brightness(0%) contrast(100%)' 
-        : 'invert(0%) brightness(70%) contrast(100%)';
-}
-
 document.addEventListener("DOMContentLoaded", function () {
     console.log("DOM indlæst");
 
@@ -87,24 +79,4 @@ document.addEventListener("DOMContentLoaded", function () {
         banner.style.display = "none";
         console.log("Cookies afvist.");
     });
-
-    // Sneflager
-    const snowContainer = document.createElement("div");
-    snowContainer.id = "snowContainer";
-    document.body.appendChild(snowContainer);
-
-    function createSnowflake() {
-        const snowflake = document.createElement("div");
-        snowflake.classList.add("snowflake");
-        snowflake.style.backgroundImage = "url('assets/snowflake.svg')";
-        snowflake.style.left = `${Math.random() * 95}vw`;
-        snowflake.style.animationDuration = `${20 + Math.random() * 5}s`;
-        snowflake.style.width = `${5 + Math.random() * 10}px`;
-        snowflake.style.opacity = Math.random();
-        setSnowflakeFilter(snowflake);
-        snowContainer.appendChild(snowflake);
-        setTimeout(() => snowflake.remove(), 20000);
-    }
-
-    setInterval(createSnowflake, 300);
 });
