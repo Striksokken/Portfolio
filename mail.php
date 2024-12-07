@@ -3,6 +3,9 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
 require 'vendor/PHPMailer-master/src/PHPMailer.php';
+require 'vendor/PHPMailer-master/src/Exception.php';
+require 'vendor/PHPMailer-master/src/SMTP.php';
+
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $name = htmlspecialchars($_POST['name']);

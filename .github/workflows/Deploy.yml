@@ -17,6 +17,11 @@ jobs:
         with:
           node-version: '16'
 
+      - name: Replace SMTP credentials in PHP file
+        run: |
+          sed -i 's/DIN_EMAIL_BRUGERNAVN/${{ secrets.MAIL_SMTP_USERNAME }}/g' mail.php
+          sed -i 's/DIN_EMAIL_ADGANGSKODE/${{ secrets.MAIL_SMTP_PASSWORD }}/g' mail.php
+
       - name: Deploy to FTP server
         uses: SamKirkland/FTP-Deploy-Action@4.3.1
         with:
@@ -26,8 +31,3 @@ jobs:
           local-dir: ./
           server-dir: /Portfolio/
           protocol: ftps
-
-      - name: Replace SMTP credentials in PHP file
-        run: |
-          sed -i 's/DIN_EMAIL_BRUGERNAVN/${{ secrets.MAIL_SMTP_USERNAME }}/g' mail.php
-          sed -i 's/DIN_EMAIL_ADGANGSKODE/${{ secrets.MAIL_SMTP_PASSWORD }}/g' mail.php
