@@ -30,6 +30,7 @@
     box-sizing: border-box;
   }
 
+
 h2, h3{
     display: flex;
     justify-content: center;
@@ -37,6 +38,12 @@ h2, h3{
 }
 
 /* Global Styling */
+html {
+    scroll-padding-top: 6rem; /* Tilpas til navbar-højden */
+    scroll-behavior: smooth; /* Valgfri for glidende scroll */
+}
+
+
 body {
     height: 100%;
     display: flex;
