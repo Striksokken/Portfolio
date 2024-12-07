@@ -177,6 +177,29 @@ body {
     margin-top: 0.6rem;
 }
 
+.download {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin-top: 2rem;
+    padding: 1rem;
+    border-radius: 5rem;
+    background: var(--color-button);
+    border-color: var(--color-button);
+    color: var(--color-text);
+}
+
+button:hover{
+    background: var(--color-button-hover);
+    border-color: var(--color-button-hover);
+}
+
+button {
+    text-align: center;
+}
+
 .some-links{
     display: flex;
     justify-content: center;
