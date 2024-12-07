@@ -346,9 +346,45 @@ footer {
 /* Media query til mindre skærme */
 @media (max-width: 768px) {
     .description, .descriptionI, .funfacts, .projectitem, .projectitemII {
-        margin-left: 5%; /* Reducer marginer */
-        margin-right: 5%;
-        padding: 1.5rem; /* Mindre padding for små skærme */
+        margin-left: 0%; 
+        margin-right: 0%;
+        padding: 1.5rem;
+    }
+
+    .some-links{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+        list-style: none;
+        margin-top: 1rem;
+        margin-bottom: 5rem;
+    }
+    
+    .some-links li img {
+        text-decoration: none;
+        margin-right: 2rem;
+        height: 3rem;
+        max-height: 3rem;
+        margin-top: 1rem;
+    }
+
+    .tools{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+        list-style: none;
+        margin-top: 1rem;
+        margin-bottom: 5rem;
+    }
+    
+    .tools li img {
+        text-decoration: none;
+        margin-right: 2rem;
+        height: 3rem;
+        max-height: 3rem;
+        margin-top: 1rem;
     }
 
     .contact form {
