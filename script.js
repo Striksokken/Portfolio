@@ -22,7 +22,10 @@ function setInitialMode() {
 // Skift mellem dark og light mode
 function toggleMode() {
     const isLightMode = document.body.classList.toggle('light-mode');
-    localStorage.setItem('theme', isLightMode ? 'light' : 'dark');
+    //sæt cookie, hvis cookies er accepteret.
+    if (localStorage.getItem('cookieConsent') === 'accepted') {
+        localStorage.setItem('theme', isLightMode ? 'light' : 'dark');
+    }
     toggleButton.src = isLightMode ? 'assets/darkmode.svg' : 'assets/lightmode.svg';
     toggleButton.title = isLightMode ? 'Skift til mørk-tilstand' : 'Skift til lys-tilstand';
     setFilters(isLightMode);
@@ -32,15 +35,13 @@ function setFilters(isLightMode) {
     const lightFilter = 'invert(70%) brightness(0%) contrast(100%)';
     const darkFilter = 'invert(0%) brightness(70%) contrast(100%)';
     const grayscaleFilter = 'grayscale(100%) brightness(70%) invert(100%)';
-
+    
     icon.style.filter = isLightMode ? lightFilter : darkFilter;
     some.style.filter = isLightMode ? 'grayscale(0%) invert(0%)' : grayscaleFilter;
     tools.style.filter = isLightMode ? 'grayscale(0%) invert(0%)' : grayscaleFilter;
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-    console.log("DOM indlæst");
-
     setInitialMode();
     toggleButton?.addEventListener('click', toggleMode);
 
@@ -75,7 +76,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     rejectBtn?.addEventListener("click", () => {
-        localStorage.setItem("cookieConsent", "rejected");
+        //localStorage.setItem("cookieConsent", "rejected");
         banner.style.display = "none";
         console.log("Cookies afvist.");
     });

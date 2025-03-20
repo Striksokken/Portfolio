@@ -12,6 +12,7 @@
     --color-button: #332a51;
     --color-button-hover: #160e36;
     --color-backgroundII: #001b27;
+    --color-gradientbackground: linear-gradient(58deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 69%, rgba(0,212,255,1) 100%);
 }
 
 /* Light Mode */
@@ -22,6 +23,7 @@
     --color-button: #CCD5AE;
     --color-button-hover: #E9EDC9;
     --color-backgroundII: #f4efd1;
+    --color-gradientbackground: linear-gradient(58deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 69%, rgba(0,212,255,1) 100%);
 }
 
 * {
