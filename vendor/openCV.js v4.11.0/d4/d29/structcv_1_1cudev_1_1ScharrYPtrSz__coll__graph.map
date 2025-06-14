@@ -1,9 +1,0 @@
-<map id="cv::cudev::ScharrYPtrSz&lt; SrcPtr &gt;" name="cv::cudev::ScharrYPtrSz&lt; SrcPtr &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="55,291,219,371"/>
-<area shape="rect" id="Node000002" href="$d0/d70/structcv_1_1cudev_1_1ScharrYPtr.html" title=" " alt="" coords="5,133,155,213"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,225,125,289,120,291,97,227"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="54,5,106,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,71,83,117,77,117,77,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="179,141,210,206"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,207,160,276,155,274,180,205"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="cv::cuda::multiplyWithScalar" name="cv::cuda::multiplyWithScalar">
-<area shape="rect" id="Node000001" title="Computes a matrix&#45;scalar per&#45;element product." alt="" coords="5,5,212,31"/>
-<area shape="rect" id="Node000002" href="$d8/d34/group__cudaarithm__elem.html#ga497cc0615bf717e1e615143b56f00591" title="Computes a matrix&#45;matrix or matrix&#45;scalar per&#45;element product." alt="" coords="260,5,397,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,15,246,15,246,21,212,21"/>
-</map>

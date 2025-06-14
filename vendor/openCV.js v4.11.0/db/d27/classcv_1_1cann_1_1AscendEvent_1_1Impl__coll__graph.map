@@ -1,7 +1,0 @@
-<map id="cv::cann::AscendEvent::Impl" name="cv::cann::AscendEvent::Impl">
-<area shape="rect" id="Node000001" title="Warpper of CANN event." alt="" coords="9,133,167,253"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,85,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,70,51,109,53,117,48,119,45,110,41,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="109,5,152,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,72,111,118,106,117,119,70"/>
-</map>

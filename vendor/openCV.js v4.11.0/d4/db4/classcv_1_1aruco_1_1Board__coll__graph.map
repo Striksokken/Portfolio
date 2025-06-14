@@ -1,5 +1,0 @@
-<map id="cv::aruco::Board" name="cv::aruco::Board">
-<area shape="rect" id="Node000001" title="Board of ArUco markers." alt="" coords="5,133,191,359"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="53,5,143,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,71,101,117,95,117,95,71"/>
-</map>

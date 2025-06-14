@@ -1,5 +1,0 @@
-<map id="cv::gapi::own::Mat::elemSize" name="cv::gapi::own::Mat::elemSize">
-<area shape="rect" id="Node000001" title="Returns the matrix element size in bytes." alt="" coords="5,5,145,45"/>
-<area shape="rect" id="Node000002" href="$d1/d24/classcv_1_1gapi_1_1own_1_1Mat.html#abff622ef7ef3019c18800de316c08963" title="Returns the type of a matrix element." alt="" coords="193,5,333,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,23,179,23,179,28,146,28"/>
-</map>

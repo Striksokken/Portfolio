@@ -4,8 +4,10 @@
 }
 
 
+
 /* Dark Mode */
 :root {
+    --maxTextboxWidth: 50%;
     --color-background: #00151f;
     --color-text: #daccce;
     --color-link: #ca9a96;
@@ -17,6 +19,7 @@
 
 /* Light Mode */
 .light-mode {
+    --maxTextboxWidth: 50%;
     --color-background: #FEFAE0;
     --color-text: #253031;
     --color-link: #315659;
@@ -147,6 +150,8 @@ body {
     border-radius: 2rem;
     margin-right: 40%;
     margin-bottom: 3rem;
+    margin-top: 2rem;
+    max-width: var(--maxTextboxWidth);
 }
 
 .descriptionI {
@@ -155,13 +160,18 @@ body {
     border-radius: 2rem;
     margin-left: 40%;
     margin-bottom: 3rem;
+    margin-top: 2rem;
+    max-width: var(--maxTextboxWidth);
 }
 
 .funfacts {
     background: var(--color-backgroundII);
     padding: 3rem;
     border-radius: 2rem;
-    margin-right: 40%;
+    margin-left: 40%;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    max-width: var(--maxTextboxWidth);
 }
 
 .funfactshead {
@@ -231,6 +241,7 @@ button {
     margin-right: 40%;
     margin-bottom: 3rem;
     margin-top: 2rem;
+    max-width: var(--maxTextboxWidth);
 }
 
 .projectitemII {
@@ -240,6 +251,7 @@ button {
     margin-left: 40%;
     margin-bottom: 3rem;
     margin-top: 2rem;
+    max-width: var(--maxTextboxWidth);
 }
 
 .projectyear {
@@ -381,6 +393,7 @@ footer {
         margin-left: 0%; 
         margin-right: 0%;
         padding: 1.5rem;
+        max-width: 100%;
     }
 
     .some-links{

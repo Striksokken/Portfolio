@@ -1,6 +1,0 @@
-<map id="cv::fisheye::distortPoints" name="cv::fisheye::distortPoints">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,187,55"/>
-<area shape="rect" id="Node000002" href="$db/d58/group__calib3d__fisheye.html#ga75d8877a98e38d0b29b6892c5f8d7765" title="Distorts 2D points using fisheye model." alt="" coords="235,29,416,55"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,39,221,39,221,45,187,45"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="288,31,280,21,284,11,300,5,325,3,358,7,370,16,367,20,356,11,325,8,301,10,288,15,285,20,292,27"/>
-</map>

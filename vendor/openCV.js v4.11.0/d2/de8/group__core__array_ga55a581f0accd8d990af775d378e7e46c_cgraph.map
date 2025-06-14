@@ -1,6 +1,0 @@
-<map id="cv::norm" name="cv::norm">
-<area shape="rect" id="Node000001" title="Calculates the absolute norm of an array." alt="" coords="5,29,84,55"/>
-<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="22,30,17,21,20,11,29,5,45,3,63,6,71,14,67,18,60,11,45,8,31,10,24,14,22,20,26,28"/>
-<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="132,29,227,55"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,39,118,39,118,45,84,45"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="cv::cuda::minWithScalar" name="cv::cuda::minWithScalar">
-<area shape="rect" id="Node000001" title="Computes the per&#45;element minimum or a matrix and a scalar." alt="" coords="5,5,184,31"/>
-<area shape="rect" id="Node000002" href="$d8/d34/group__cudaarithm__elem.html#ga74f0b05a65b3d949c237abb5e6c60867" title="Computes the per&#45;element minimum of two matrices (or a matrix and a scalar)." alt="" coords="232,5,340,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,15,218,15,218,21,184,21"/>
-</map>

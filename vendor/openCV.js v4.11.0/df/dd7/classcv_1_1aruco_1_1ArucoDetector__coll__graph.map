@@ -1,7 +1,0 @@
-<map id="cv::aruco::ArucoDetector" name="cv::aruco::ArucoDetector">
-<area shape="rect" id="Node000001" title="The main functionality of ArucoDetector class is detection of markers in an image with detectMarkers(..." alt="" coords="79,393,268,679"/>
-<area shape="rect" id="Node000002" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="5,5,152,331"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,344,139,392,134,394,121,345"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="176,135,360,201"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,202,217,378,212,377,257,200"/>
-</map>

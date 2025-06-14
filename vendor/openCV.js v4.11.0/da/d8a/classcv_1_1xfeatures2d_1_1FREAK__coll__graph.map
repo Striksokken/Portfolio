@@ -1,9 +1,0 @@
-<map id="cv::xfeatures2d::FREAK" name="cv::xfeatures2d::FREAK">
-<area shape="rect" id="Node000001" title="Class implementing the FREAK (Fast Retina Keypoint) keypoint descriptor, described in aov12 ." alt="" coords="74,737,282,983"/>
-<area shape="rect" id="Node000002" href="$d0/d13/classcv_1_1Feature2D.html" title="Abstract base class for 2D image feature detectors and descriptor extractors." alt="" coords="5,380,169,645"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,658,149,736,143,738,123,660"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="14,5,161,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,344,90,380,85,380,85,344"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="193,480,224,545"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,546,193,721,188,721,203,546"/>
-</map>

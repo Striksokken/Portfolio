@@ -1,9 +1,0 @@
-<map id="cv::cudev::SobelXPtrSz&lt; SrcPtr &gt;" name="cv::cudev::SobelXPtrSz&lt; SrcPtr &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="82,291,242,371"/>
-<area shape="rect" id="Node000002" href="$de/dc8/structcv_1_1cudev_1_1SobelXPtr.html" title=" " alt="" coords="5,133,151,213"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,224,143,289,138,292,103,227"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="52,5,104,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,71,81,117,75,117,75,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="175,141,205,206"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="187,207,175,275,169,274,182,206"/>
-</map>

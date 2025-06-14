@@ -1,7 +1,0 @@
-<map id="cv::gapi::kernels" name="cv::gapi::kernels">
-<area shape="rect" id="Node000001" title="Create a kernel package object containing kernels and transformations specified in variadic template ..." alt="" coords="5,45,132,70"/>
-<area shape="rect" id="Node000002" href="$d4/d3a/classcv_1_1GKernelPackage.html#a56cf73c1596af673052c6efffe15eac3" title=" " alt="" coords="180,5,328,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,44,166,38,167,43,133,49"/>
-<area shape="rect" id="Node000003" href="$d3/dce/namespacecv_1_1util.html#a5f00f5a230b8dc4f63bdd1c8057ace44" title="Utility template function to prevent &quot;unused&quot; warnings by various compilers." alt="" coords="187,69,321,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,66,173,73,172,78,132,71"/>
-</map>

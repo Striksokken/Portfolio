@@ -1,3 +1,0 @@
-<map id="cv::cann::AscendStream" name="cv::cann::AscendStream">
-<area shape="rect" id="Node000001" title="In AscendCL Stream(AscendStream) is a task queue. Stream is used to manage the parallelism of tasks...." alt="" coords="5,5,175,151"/>
-</map>

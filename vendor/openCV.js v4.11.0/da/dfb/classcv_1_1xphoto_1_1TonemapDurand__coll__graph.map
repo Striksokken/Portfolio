@@ -1,7 +1,0 @@
-<map id="cv::xphoto::TonemapDurand" name="cv::xphoto::TonemapDurand">
-<area shape="rect" id="Node000001" title="This algorithm decomposes image into two layers: base layer and detail layer using bilateral filter a..." alt="" coords="5,532,200,737"/>
-<area shape="rect" id="Node000002" href="$d8/d5e/classcv_1_1Tonemap.html" title="Base class for tonemapping algorithms &#45; tools that are used to map HDR image to 8&#45;bit range." alt="" coords="47,379,159,484"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,498,105,532,100,532,100,498"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="29,5,176,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,344,105,378,100,378,100,344"/>
-</map>

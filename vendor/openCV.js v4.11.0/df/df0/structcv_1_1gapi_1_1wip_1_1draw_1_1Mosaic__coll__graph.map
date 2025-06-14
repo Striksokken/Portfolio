@@ -1,9 +1,0 @@
-<map id="cv::gapi::wip::draw::Mosaic" name="cv::gapi::wip::draw::Mosaic">
-<area shape="rect" id="Node000001" title="This structure represents a mosaicing operation." alt="" coords="105,600,239,700"/>
-<area shape="rect" id="Node000002" href="$d2/d44/classcv_1_1Rect__.html" title="Template class for 2D rectangles." alt="" coords="5,177,200,523"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,522,151,575,153,583,148,585,145,577,132,524"/>
-<area shape="rect" id="Node000003" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="84,5,121,71"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,71,105,161,100,161,100,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="225,317,255,383"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="239,384,229,448,215,523,197,584,192,583,209,522,224,447,234,383"/>
-</map>

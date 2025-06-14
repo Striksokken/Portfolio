@@ -1,7 +1,0 @@
-<map id="cv::cudev::bit_or&lt; T &gt;" name="cv::cudev::bit_or&lt; T &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="18,277,175,343"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,148,188,228"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,242,99,277,94,277,94,242"/>
-<area shape="rect" id="Node000003" href="$d6/ddf/structcv_1_1cudev_1_1binary__function.html" title=" " alt="" coords="5,5,188,85"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,99,99,148,94,148,94,99"/>
-</map>

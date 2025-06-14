@@ -1,8 +1,0 @@
-<map id="opencv2/rgbd/kinfu.hpp" name="opencv2/rgbd/kinfu.hpp">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,180,31"/>
-<area shape="rect" id="Node000002" href="$dd/dd3/rgbd_8hpp.html" title=" " alt="" coords="23,152,162,177"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,43,64,60,55,79,54,99,61,118,83,150,79,153,56,121,49,100,50,78,59,58,71,40"/>
-<area shape="rect" id="Node000003" href="$dc/dcf/dynafu_8hpp.html" title=" " alt="" coords="65,79,251,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,39,149,77,145,80,111,43"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="140,116,105,154,101,150,136,113"/>
-</map>

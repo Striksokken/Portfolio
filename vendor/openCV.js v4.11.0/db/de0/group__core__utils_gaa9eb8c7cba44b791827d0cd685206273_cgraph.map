@@ -1,9 +1,0 @@
-<map id="cv::Mat::forEach_impl" name="cv::Mat::forEach_impl">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,168,80"/>
-<area shape="rect" id="Node000002" href="$d3/d63/classcv_1_1Mat.html#abbec3525a852e77998aba034813fded4" title="Returns true if the array has no elements." alt="" coords="219,5,338,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,52,214,32,216,37,137,57"/>
-<area shape="rect" id="Node000003" href="$d3/d89/group__core__parallel.html#gaa42ec9937b847cb52a97c613fc894c4a" title="Parallel data processor." alt="" coords="216,55,341,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,65,202,65,202,70,168,70"/>
-<area shape="rect" id="Node000004" href="$d3/d63/classcv_1_1Mat.html#aa4d317d43fb0cba9c2503f3c61b866c8" title="Returns the total number of array elements." alt="" coords="225,104,332,129"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,77,216,98,214,103,136,83"/>
-</map>

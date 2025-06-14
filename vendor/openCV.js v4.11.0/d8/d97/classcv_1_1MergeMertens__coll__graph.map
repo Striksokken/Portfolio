@@ -1,7 +1,0 @@
-<map id="cv::MergeMertens" name="cv::MergeMertens">
-<area shape="rect" id="Node000001" title="Pixels are weighted using contrast, saturation and well&#45;exposedness measures, than images are combine..." alt="" coords="5,492,177,697"/>
-<area shape="rect" id="Node000002" href="$d6/d5e/classcv_1_1MergeExposures.html" title="The base class algorithms that can merge exposure sequence to a single image." alt="" coords="19,379,163,444"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,458,94,492,89,492,89,458"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="18,5,165,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,344,94,379,89,379,89,344"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="cv::cudev::magnitude_direction_interleaved_func&lt; T2, angleInDegrees &gt;" name="cv::cudev::magnitude_direction_interleaved_func&lt; T2, angleInDegrees &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,307,211,401"/>
-<area shape="rect" id="Node000002" href="$df/d11/structcv_1_1cudev_1_1unary__function.html" title=" " alt="" coords="19,163,197,257"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,271,111,306,105,306,105,271"/>
-<area shape="rect" id="Node000003" href="$df/d11/structcv_1_1cudev_1_1unary__function.html" title=" " alt="" coords="19,5,197,85"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,99,111,162,105,162,105,99"/>
-</map>

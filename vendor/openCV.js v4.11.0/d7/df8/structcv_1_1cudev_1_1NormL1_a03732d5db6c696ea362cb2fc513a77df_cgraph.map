@@ -1,7 +1,0 @@
-<map id="cv::cudev::NormL1::reduceWarp" name="cv::cudev::NormL1::reduceWarp">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,155,45"/>
-<area shape="rect" id="Node000002" href="$df/dfc/group__cudev.html#gad05e1b53750e6693dcd4159a90e316e0" title=" " alt="" coords="203,13,373,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,23,189,23,189,28,155,28"/>
-<area shape="rect" id="Node000003" href="$d5/de6/group__cudaarithm__reduce.html#ga21d57f661db7be093caf2c4378be2007" title="Reduces a matrix to a vector." alt="" coords="421,13,548,38"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,23,408,23,408,28,374,28"/>
-</map>

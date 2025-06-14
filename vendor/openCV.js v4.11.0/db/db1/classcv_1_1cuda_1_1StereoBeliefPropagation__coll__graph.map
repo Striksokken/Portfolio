@@ -1,7 +1,0 @@
-<map id="cv::cuda::StereoBeliefPropagation" name="cv::cuda::StereoBeliefPropagation">
-<area shape="rect" id="Node000001" title="Class computing stereo correspondence using the belief propagation algorithm. :" alt="" coords="5,732,248,1017"/>
-<area shape="rect" id="Node000002" href="$d2/d6e/classcv_1_1StereoMatcher.html" title="The base class for stereo correspondence algorithms." alt="" coords="32,379,221,684"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,697,129,732,124,732,124,697"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="53,5,200,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,344,129,379,124,379,124,344"/>
-</map>

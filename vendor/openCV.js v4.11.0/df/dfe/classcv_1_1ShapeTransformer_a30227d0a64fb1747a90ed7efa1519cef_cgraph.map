@@ -1,5 +1,0 @@
-<map id="cv::ShapeTransformer::applyTransformation" name="cv::ShapeTransformer::applyTransformation">
-<area shape="rect" id="Node000001" title="Apply a transformation, given a pre&#45;estimated transformation parameters." alt="" coords="5,5,169,45"/>
-<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="217,13,312,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,23,204,23,204,28,169,28"/>
-</map>

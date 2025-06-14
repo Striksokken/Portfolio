@@ -1,5 +1,0 @@
-<map id="cv::structured_light::StructuredLightPattern::decode" name="cv::structured_light::StructuredLightPattern::decode">
-<area shape="rect" id="Node000001" title="Decodes the structured light pattern, generating a disparity map." alt="" coords="5,5,180,60"/>
-<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="228,20,323,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,30,214,30,214,35,180,35"/>
-</map>

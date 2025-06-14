@@ -1,9 +1,0 @@
-<map id="cv::detail::postprocess" name="cv::detail::postprocess">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,172,70"/>
-<area shape="rect" id="Node000002" href="$d3/dce/namespacecv_1_1util.html#a5f00f5a230b8dc4f63bdd1c8057ace44" title="Utility template function to prevent &quot;unused&quot; warnings by various compilers." alt="" coords="222,5,357,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,42,208,36,209,41,169,47"/>
-<area shape="rect" id="Node000003" href="$d3/d73/structcv_1_1detail_1_1tracked__cv__mat.html#a8f53e513ca5a22ea0ecd896551c59664" title=" " alt="" coords="220,69,359,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,67,207,74,206,79,168,73"/>
-<area shape="rect" id="Node000004" href="$d3/dce/namespacecv_1_1util.html#a40544b3ca23b3917f2a5de6b0273079d" title=" " alt="" coords="407,77,555,102"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="359,87,393,87,393,92,359,92"/>
-</map>

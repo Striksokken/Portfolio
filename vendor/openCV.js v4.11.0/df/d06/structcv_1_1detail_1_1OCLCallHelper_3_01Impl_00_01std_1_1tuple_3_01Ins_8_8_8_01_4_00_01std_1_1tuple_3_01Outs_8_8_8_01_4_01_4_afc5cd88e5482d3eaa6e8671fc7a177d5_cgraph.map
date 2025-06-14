@@ -1,7 +1,0 @@
-<map id="cv::detail::OCLCallHelper&lt; Impl, std::tuple&lt; Ins... &gt;, std::tuple&lt; Outs... &gt; &gt;::call_impl" name="cv::detail::OCLCallHelper&lt; Impl, std::tuple&lt; Ins... &gt;, std::tuple&lt; Outs... &gt; &gt;::call_impl">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,188,75"/>
-<area shape="rect" id="Node000002" href="$d1/d1b/structcv_1_1detail_1_1ocl__get__in.html#aacb949ca8c17d2bb8022f21a24f8aca6" title=" " alt="" coords="236,20,372,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,37,222,37,222,43,188,43"/>
-<area shape="rect" id="Node000003" href="$d7/da9/classcv_1_1GOCLContext.html#a13bf8e547cb0a8ec19f7bdbcc522d4b8" title=" " alt="" coords="420,27,593,53"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="372,37,406,37,406,43,372,43"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="cv::detail::plaidml_get_in&lt; cv::GMat &gt;::get" name="cv::detail::plaidml_get_in&lt; cv::GMat &gt;::get">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,191,45"/>
-<area shape="rect" id="Node000002" href="$de/d5f/structcv_1_1GPlaidMLContext.html#a2a80bebab3fd5253b0d75368681fff8b" title=" " alt="" coords="239,5,395,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,23,225,23,225,28,191,28"/>
-<area shape="rect" id="Node000003" href="$de/d5f/structcv_1_1GPlaidMLContext.html#aa48802eb9c3910a216dfe1f30aacb49a" title=" " alt="" coords="443,5,599,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,23,429,23,429,28,395,28"/>
-</map>

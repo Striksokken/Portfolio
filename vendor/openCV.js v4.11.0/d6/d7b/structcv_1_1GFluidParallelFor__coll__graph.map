@@ -1,5 +1,0 @@
-<map id="cv::GFluidParallelFor" name="cv::GFluidParallelFor">
-<area shape="rect" id="Node000001" title="This structure allows to customize the way how Fluid executes parallel regions." alt="" coords="17,177,163,243"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,175,115"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,115,93,161,87,161,87,115"/>
-</map>

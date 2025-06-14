@@ -1,7 +1,0 @@
-<map id="cv::rapid::Rapid" name="cv::rapid::Rapid">
-<area shape="rect" id="Node000001" title="wrapper around silhouette based 3D object tracking function for uniform access" alt="" coords="21,532,136,597"/>
-<area shape="rect" id="Node000002" href="$dc/d48/classcv_1_1rapid_1_1Tracker.html" title="Abstract base class for stateful silhouette trackers." alt="" coords="17,379,140,484"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,498,81,532,76,532,76,498"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="5,5,152,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,344,81,378,76,378,76,344"/>
-</map>

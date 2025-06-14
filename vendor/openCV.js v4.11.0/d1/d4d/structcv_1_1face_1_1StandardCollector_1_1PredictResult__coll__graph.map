@@ -1,7 +1,0 @@
-<map id="cv::face::StandardCollector::PredictResult" name="cv::face::StandardCollector::PredictResult">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,193,213"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="45,5,76,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,71,65,109,68,118,63,119,59,110,55,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="110,5,169,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,72,118,118,113,117,127,70"/>
-</map>

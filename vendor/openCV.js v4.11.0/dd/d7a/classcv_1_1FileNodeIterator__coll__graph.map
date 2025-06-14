@@ -1,7 +1,0 @@
-<map id="cv::FileNodeIterator" name="cv::FileNodeIterator">
-<area shape="rect" id="Node000001" title="used to iterate through sequences and mappings." alt="" coords="5,192,149,457"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="11,5,66,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,70,60,175,55,176,40,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="90,5,142,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,71,100,176,95,175,109,70"/>
-</map>

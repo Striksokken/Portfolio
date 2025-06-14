@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Greenscreen effect - Jakob B. Gugel - DK</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="style.css"> <!--Main stylesheet-->
+    <link rel="stylesheet" href="greenscreeneffect.css">
+</head>
+<body>
+  <nav class="navbar">
+        <ul class="nav-links" id="navlinks">
+            <li title="Tilbage til forsiden"><a href="index.html"><img src="assets/home.svg"></a></li>
+            <li title="Skift sidens udseende til lys-tilstand"><img id="togglemode" src="assets/lightmode.svg"></li>
+        </ul>
+    </nav> 
+  <section id="header" class="header">
+        <h1>Webcam-baseret person-segmentering</h1>
+  </section>
+  <section id="canvas" class="canvas">
+        <video id="video" width="640" height="480" autoplay muted></video>
+        <canvas id="output" width="640" height="480"></canvas>
+  </section>
+  <footer>
+      <div id="cookie-banner" style="display: none;">
+          <p>
+            Jeg bruger din browsers localstorage til at håndtere dine personlige præferencer.<br>Du kan acceptere alle cookies eller 
+            afvise dem. En afvisning vil betyde at siden ikke husker dine personlige ændringer.
+          </p>
+          <button id="accept-cookies">Accepter alle</button>
+          <button id="reject-cookies">Afvis</button>
+        </div>
+      <p class="signature">Jakob Brodersen Gugel</p>
+  </footer>
+  <script src="script.js"></script> <!--Main JS-->
+  <script src="greenscreeneffect.js"></script>
+  <script async src="vendor/openCV.js v4.11.0/dist/opencv.js"></script>
+</body>
+</html>

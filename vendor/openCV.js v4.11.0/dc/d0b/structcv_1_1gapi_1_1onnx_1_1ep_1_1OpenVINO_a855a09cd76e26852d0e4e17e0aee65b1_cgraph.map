@@ -1,5 +1,0 @@
-<map id="cv::gapi::onnx::ep::OpenVINO::cfgEnableOpenCLThrottling" name="cv::gapi::onnx::ep::OpenVINO::cfgEnableOpenCLThrottling">
-<area shape="rect" id="Node000001" title="Enables OpenVINO Execution Provider opencl throttling." alt="" coords="5,5,287,45"/>
-<area shape="rect" id="Node000002" href="$d3/dce/namespacecv_1_1util.html#a40544b3ca23b3917f2a5de6b0273079d" title=" " alt="" coords="335,13,483,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,23,321,23,321,28,287,28"/>
-</map>

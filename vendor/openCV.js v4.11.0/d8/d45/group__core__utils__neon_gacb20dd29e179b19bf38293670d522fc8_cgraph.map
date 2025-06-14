@@ -1,7 +1,0 @@
-<map id="cv_vsqrt_f32" name="cv_vsqrt_f32">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,111,56"/>
-<area shape="rect" id="Node000002" href="$d8/d45/group__core__utils__neon.html#gaeb314eb0f269a9769453517e931e3963" title=" " alt="" coords="160,5,268,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,32,146,26,147,32,111,37"/>
-<area shape="rect" id="Node000003" href="$d8/d45/group__core__utils__neon.html#ga9630868e44d91def9c50ad17d89931c3" title=" " alt="" coords="159,55,269,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,49,146,54,145,59,110,54"/>
-</map>

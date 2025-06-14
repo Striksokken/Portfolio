@@ -1,5 +1,0 @@
-<map id="cv::v_load_halves" name="cv::v_load_halves">
-<area shape="rect" id="Node000001" title="Load register contents from two memory blocks." alt="" coords="5,5,143,31"/>
-<area shape="rect" id="Node000002" href="$db/de0/group__core__utils.html#gadbc1b082037ac3725f3b12fe6c541c61" title="Alignment check of passed values." alt="" coords="191,5,295,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,15,176,15,176,21,143,21"/>
-</map>

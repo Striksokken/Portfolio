@@ -1,7 +1,0 @@
-<map id="cv::gapi::wip::QueueSourceBase" name="cv::gapi::wip::QueueSourceBase">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,327,227,492"/>
-<area shape="rect" id="Node000002" href="$da/d03/classcv_1_1gapi_1_1wip_1_1IStreamSource.html" title="Abstract streaming pipeline source." alt="" coords="17,133,215,279"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,293,119,326,113,326,113,293"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="12,5,220,85"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,99,119,133,113,133,113,99"/>
-</map>

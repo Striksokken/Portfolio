@@ -1,5 +1,0 @@
-<map id="cv::cuda::compareWithScalar" name="cv::cuda::compareWithScalar">
-<area shape="rect" id="Node000001" title="Compares elements of a matrix and scalar." alt="" coords="5,5,216,31"/>
-<area shape="rect" id="Node000002" href="$d8/d34/group__cudaarithm__elem.html#ga4d41cd679f4a83862a3de71a6057db54" title="Compares elements of two matrices (or of a matrix and scalar)." alt="" coords="264,5,404,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,15,250,15,250,21,217,21"/>
-</map>

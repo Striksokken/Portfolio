@@ -1,5 +1,0 @@
-<map id="cv::videostab::MotionEstimatorL1" name="cv::videostab::MotionEstimatorL1">
-<area shape="rect" id="Node000001" title="Describes a global 2D motion estimation method which minimizes L1 error." alt="" coords="14,199,245,284"/>
-<area shape="rect" id="Node000002" href="$db/df1/classcv_1_1videostab_1_1MotionEstimatorBase.html" title="Base class for all global motion estimation methods." alt="" coords="5,5,253,151"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,164,132,198,127,198,127,164"/>
-</map>

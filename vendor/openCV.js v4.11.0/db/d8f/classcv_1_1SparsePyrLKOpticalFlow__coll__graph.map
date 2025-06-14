@@ -1,7 +1,0 @@
-<map id="cv::SparsePyrLKOpticalFlow" name="cv::SparsePyrLKOpticalFlow">
-<area shape="rect" id="Node000001" title="Class used for calculating a sparse optical flow." alt="" coords="5,492,199,757"/>
-<area shape="rect" id="Node000002" href="$de/d14/classcv_1_1SparseOpticalFlow.html" title="Base interface for sparse optical flow algorithms." alt="" coords="23,379,181,444"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,458,105,492,99,492,99,458"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="29,5,175,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,344,105,379,99,379,99,344"/>
-</map>

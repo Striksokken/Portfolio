@@ -1,7 +1,0 @@
-<map id="cv::cudev::hypot_func&lt; T &gt;" name="cv::cudev::hypot_func&lt; T &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,321,197,387"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="10,177,193,272"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,286,104,321,99,321,99,286"/>
-<area shape="rect" id="Node000003" href="$d6/ddf/structcv_1_1cudev_1_1binary__function.html" title=" " alt="" coords="10,5,193,85"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,99,104,177,99,177,99,99"/>
-</map>

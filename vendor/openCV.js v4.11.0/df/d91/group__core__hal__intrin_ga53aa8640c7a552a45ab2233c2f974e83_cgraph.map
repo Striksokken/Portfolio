@@ -1,8 +1,0 @@
-<map id="cv::v_store_aligned_nocache" name="cv::v_store_aligned_nocache">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,152,45"/>
-<area shape="rect" id="Node000002" href="$db/de0/group__core__utils.html#gadbc1b082037ac3725f3b12fe6c541c61" title="Alignment check of passed values." alt="" coords="340,13,444,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,23,326,23,326,28,152,28"/>
-<area shape="rect" id="Node000003" href="$df/d91/group__core__hal__intrin.html#ga275dfa9c8935f5e9a1031121cde460f4" title="Store data to memory." alt="" coords="200,38,292,63"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,34,187,39,186,44,152,39"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="292,40,326,34,327,39,293,45"/>
-</map>

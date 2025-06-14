@@ -1,5 +1,0 @@
-<map id="cv::ximgproc::SuperpixelSEEDS" name="cv::ximgproc::SuperpixelSEEDS">
-<area shape="rect" id="Node000001" title="Class implementing the SEEDS (Superpixels Extracted via Energy&#45;Driven Sampling) superpixels algorithm..." alt="" coords="5,379,207,539"/>
-<area shape="rect" id="Node000002" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="33,5,179,331"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,344,109,378,103,378,103,344"/>
-</map>

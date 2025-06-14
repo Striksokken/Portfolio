@@ -1,9 +1,0 @@
-<map id="cv::linemod::ColorGradient" name="cv::linemod::ColorGradient">
-<area shape="rect" id="Node000001" title="Modality that computes quantized gradient orientations from a color image." alt="" coords="112,288,299,473"/>
-<area shape="rect" id="Node000002" href="$d5/d1c/classcv_1_1linemod_1_1Modality.html" title="Interface for modalities that plug into the LINE template matching representation." alt="" coords="5,5,160,211"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,222,166,287,161,289,132,225"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="184,75,227,141"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,141,208,272,203,272,203,141"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="335,75,387,141"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="364,141,357,201,348,234,334,265,312,297,308,294,330,263,343,232,351,200,358,141"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="cv::AgastFeatureDetector" name="cv::AgastFeatureDetector">
-<area shape="rect" id="Node000001" title="Wrapping class for feature detection using the AGAST method. :" alt="" coords="5,692,199,897"/>
-<area shape="rect" id="Node000002" href="$d0/d13/classcv_1_1Feature2D.html" title="Abstract base class for 2D image feature detectors and descriptor extractors." alt="" coords="20,379,184,644"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,658,105,692,99,692,99,658"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="29,5,175,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,344,105,378,99,378,99,344"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="cv::cuda::scaleAdd" name="cv::cuda::scaleAdd">
-<area shape="rect" id="Node000001" title="adds scaled array to another one (dst = alpha*src1 + src2)" alt="" coords="5,5,148,31"/>
-<area shape="rect" id="Node000002" href="$d8/d34/group__cudaarithm__elem.html#ga2cd14a684ea70c6ab2a63ee90ffe6201" title="Computes the weighted sum of two arrays." alt="" coords="196,5,364,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,15,182,15,182,21,148,21"/>
-</map>

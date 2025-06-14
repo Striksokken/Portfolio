@@ -1,7 +1,0 @@
-<map id="cv::reg::MapperPyramid" name="cv::reg::MapperPyramid">
-<area shape="rect" id="Node000001" title=" " alt="" coords="27,248,195,353"/>
-<area shape="rect" id="Node000002" href="$d0/d6c/classcv_1_1reg_1_1Mapper.html" title="Base class for modelling an algorithm for calculating a map." alt="" coords="5,5,120,171"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,184,101,247,96,248,82,185"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="145,55,175,121"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,121,129,232,124,231,150,120"/>
-</map>

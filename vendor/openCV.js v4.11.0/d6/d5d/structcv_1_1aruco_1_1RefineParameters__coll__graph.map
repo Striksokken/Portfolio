@@ -1,7 +1,0 @@
-<map id="cv::aruco::RefineParameters" name="cv::aruco::RefineParameters">
-<area shape="rect" id="Node000001" title="struct RefineParameters is used by ArucoDetector" alt="" coords="16,148,211,253"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="24,71,24,97,30,123,36,133,31,136,26,125,19,98,19,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="180,5,223,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,72,174,125,168,135,164,133,170,123,191,70"/>
-</map>

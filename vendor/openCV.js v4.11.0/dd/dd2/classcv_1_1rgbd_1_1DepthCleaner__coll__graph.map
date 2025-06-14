@@ -1,9 +1,0 @@
-<map id="cv::rgbd::DepthCleaner" name="cv::rgbd::DepthCleaner">
-<area shape="rect" id="Node000001" title=" " alt="" coords="111,423,273,743"/>
-<area shape="rect" id="Node000002" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="5,5,152,331"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,343,151,422,146,423,124,345"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="177,135,207,201"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,201,195,406,189,406,189,201"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="303,135,345,201"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="326,201,320,291,311,346,297,399,283,437,278,435,292,398,306,345,315,291,321,201"/>
-</map>

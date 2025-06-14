@@ -1,5 +1,0 @@
-<map id="cv::ml::LogisticRegression::predict" name="cv::ml::LogisticRegression::predict">
-<area shape="rect" id="Node000001" title="Predicts responses for input samples and returns a float type." alt="" coords="5,5,196,45"/>
-<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="244,13,339,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,23,230,23,230,28,197,28"/>
-</map>

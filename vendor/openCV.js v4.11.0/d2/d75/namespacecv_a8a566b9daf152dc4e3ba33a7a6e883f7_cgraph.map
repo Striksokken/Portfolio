@@ -1,7 +1,0 @@
-<map id="cv::read" name="cv::read">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,79,56"/>
-<area shape="rect" id="Node000002" href="$d3/d63/classcv_1_1Mat.html#abbec3525a852e77998aba034813fded4" title="Returns true if the array has no elements." alt="" coords="127,5,245,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,34,113,28,114,33,79,40"/>
-<area shape="rect" id="Node000003" href="$d2/d75/namespacecv.html#ae0e331a4e4c5f52a314726adad22abbb" title=" " alt="" coords="149,55,223,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="79,47,136,56,135,62,79,52"/>
-</map>

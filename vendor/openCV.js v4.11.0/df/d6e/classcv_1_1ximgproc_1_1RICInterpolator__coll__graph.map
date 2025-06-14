@@ -1,7 +1,0 @@
-<map id="cv::ximgproc::RICInterpolator" name="cv::ximgproc::RICInterpolator">
-<area shape="rect" id="Node000001" title="Sparse match interpolation algorithm based on modified piecewise locally&#45;weighted affine estimator ca..." alt="" coords="5,507,208,772"/>
-<area shape="rect" id="Node000002" href="$d4/da8/classcv_1_1ximgproc_1_1SparseMatchInterpolator.html" title="Main interface for all filters, that take sparse matches as an input and produce a dense per&#45;pixel ma..." alt="" coords="12,379,201,459"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,473,109,506,104,506,104,473"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="33,5,180,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,345,109,379,104,379,104,345"/>
-</map>

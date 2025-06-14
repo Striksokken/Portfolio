@@ -1,6 +1,0 @@
-<map id="cv::calcCovarMatrix" name="cv::calcCovarMatrix">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,156,55"/>
-<area shape="rect" id="Node000002" href="$d2/de8/group__core__array.html#gaa8720666bcc872b85af4eedbdd699e26" title="Calculates the covariance matrix of a set of vectors." alt="" coords="204,29,355,55"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,39,190,39,190,45,156,45"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="247,31,240,21,243,11,257,5,279,3,306,6,318,15,314,19,304,11,279,8,258,10,247,15,245,20,251,28"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="cv::dnn::TextRecognitionModel::TextRecognitionModel" name="cv::dnn::TextRecognitionModel::TextRecognitionModel">
-<area shape="rect" id="Node000001" title="Create text recognition model from network represented in one of the supported formats Call setDecode..." alt="" coords="5,5,220,45"/>
-<area shape="rect" id="Node000002" href="$d6/d0f/group__dnn.html#ga4823489a689bf4edfae7447eb807b067" title="Read deep learning network represented in one of the supported formats." alt="" coords="268,13,396,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,23,254,23,254,28,220,28"/>
-</map>

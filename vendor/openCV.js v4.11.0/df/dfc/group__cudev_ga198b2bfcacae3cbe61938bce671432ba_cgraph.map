@@ -1,7 +1,0 @@
-<map id="cv::cudev::vabsdiff2" name="cv::cudev::vabsdiff2">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,156,56"/>
-<area shape="rect" id="Node000002" href="$d8/d34/group__cudaarithm__elem.html#gadb5dd3d870f10c0866035755b929b1e7" title="Computes the per&#45;element maximum of two matrices (or a matrix and a scalar)." alt="" coords="204,5,316,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,30,190,25,191,30,157,35"/>
-<area shape="rect" id="Node000003" href="$d8/d34/group__cudaarithm__elem.html#ga74f0b05a65b3d949c237abb5e6c60867" title="Computes the per&#45;element minimum of two matrices (or a matrix and a scalar)." alt="" coords="206,55,314,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,51,193,56,192,61,156,56"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="cv::phase_unwrapping::HistogramPhaseUnwrapping" name="cv::phase_unwrapping::HistogramPhaseUnwrapping">
-<area shape="rect" id="Node000001" title="Class implementing two&#45;dimensional phase unwrapping based on histogramunwrapping This algorithm belon..." alt="" coords="5,507,212,607"/>
-<area shape="rect" id="Node000002" href="$d8/d83/classcv_1_1phase__unwrapping_1_1PhaseUnwrapping.html" title="Abstract base class for phase unwrapping." alt="" coords="29,379,188,459"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,472,111,506,106,506,106,472"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="35,5,182,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,345,111,379,106,379,106,345"/>
-</map>

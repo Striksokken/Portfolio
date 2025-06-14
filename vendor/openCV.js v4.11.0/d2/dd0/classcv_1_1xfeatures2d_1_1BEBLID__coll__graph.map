@@ -1,7 +1,0 @@
-<map id="cv::xfeatures2d::BEBLID" name="cv::xfeatures2d::BEBLID">
-<area shape="rect" id="Node000001" title="Class implementing BEBLID (Boosted Efficient Binary Local Image Descriptor), described in suarez2020b..." alt="" coords="5,692,175,817"/>
-<area shape="rect" id="Node000002" href="$d0/d13/classcv_1_1Feature2D.html" title="Abstract base class for 2D image feature detectors and descriptor extractors." alt="" coords="8,379,172,644"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,658,93,692,87,692,87,658"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="17,5,163,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,344,93,378,87,378,87,344"/>
-</map>

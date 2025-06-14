@@ -1,7 +1,0 @@
-<map id="cv::detail::BasicVectorRef" name="cv::detail::BasicVectorRef">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,184,259"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="6,5,58,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,70,36,109,39,118,34,120,31,110,26,71"/>
-<area shape="rect" id="Node000003" href="$d7/dd5/structcv_1_1GArrayDesc.html" title=" " alt="" coords="101,5,217,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,72,129,119,124,117,143,70"/>
-</map>

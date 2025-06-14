@@ -1,7 +1,0 @@
-<map id="cv::ximgproc::DisparityWLSFilter" name="cv::ximgproc::DisparityWLSFilter">
-<area shape="rect" id="Node000001" title="Disparity map filter based on Weighted Least Squares filter (in form of Fast Global Smoother that is ..." alt="" coords="5,492,235,737"/>
-<area shape="rect" id="Node000002" href="$db/d72/classcv_1_1ximgproc_1_1DisparityFilter.html" title="Main interface for all disparity map filters." alt="" coords="21,379,219,444"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,457,123,492,117,492,117,457"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="47,5,193,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,344,123,379,117,379,117,344"/>
-</map>

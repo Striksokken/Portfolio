@@ -1,7 +1,0 @@
-<map id="cv::SIFT" name="cv::SIFT">
-<area shape="rect" id="Node000001" title="Class for extracting keypoints and computing descriptors using the Scale Invariant Feature Transform ..." alt="" coords="5,692,184,997"/>
-<area shape="rect" id="Node000002" href="$d0/d13/classcv_1_1Feature2D.html" title="Abstract base class for 2D image feature detectors and descriptor extractors." alt="" coords="13,379,177,644"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,658,97,692,92,692,92,658"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="21,5,168,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,344,97,378,92,378,92,344"/>
-</map>

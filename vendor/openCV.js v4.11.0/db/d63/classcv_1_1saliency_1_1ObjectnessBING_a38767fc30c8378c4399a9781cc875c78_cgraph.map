@@ -1,5 +1,0 @@
-<map id="cv::saliency::ObjectnessBING::computeSaliencyImpl" name="cv::saliency::ObjectnessBING::computeSaliencyImpl">
-<area shape="rect" id="Node000001" title="Performs all the operations and calls all internal functions necessary for the accomplishment of the ..." alt="" coords="5,5,209,45"/>
-<area shape="rect" id="Node000002" href="$df/dfb/group__imgproc__object.html#ga586ebfb0a7fb604b35a23d85391329be" title="Compares a template against overlapped image regions." alt="" coords="257,13,403,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,23,244,23,244,28,210,28"/>
-</map>

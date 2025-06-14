@@ -1,8 +1,0 @@
-<map id="opencv2/face/facemarkLBF.hpp" name="opencv2/face/facemarkLBF.hpp">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,231,31"/>
-<area shape="rect" id="Node000002" href="$d2/dc4/contrib_2modules_2face_2include_2opencv2_2face_8hpp.html" title=" " alt="" coords="49,79,187,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,44,121,79,115,79,115,44"/>
-<area shape="rect" id="Node000003" href="$dd/d81/facerec_8hpp.html" title=" " alt="" coords="23,152,213,177"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,118,114,152,108,152,107,118"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="124,139,122,104,128,104,129,138"/>
-</map>

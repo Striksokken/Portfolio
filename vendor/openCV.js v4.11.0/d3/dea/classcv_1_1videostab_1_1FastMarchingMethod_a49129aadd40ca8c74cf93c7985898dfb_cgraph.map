@@ -1,9 +1,0 @@
-<map id="cv::videostab::FastMarchingMethod::run" name="cv::videostab::FastMarchingMethod::run">
-<area shape="rect" id="Node000001" title="Template method that runs the Fast Marching Method." alt="" coords="5,47,208,87"/>
-<area shape="rect" id="Node000002" href="$d3/d63/classcv_1_1Mat.html#a55ced2c8d844d683ea9a725c60037ad0" title="Allocates new array data if needed." alt="" coords="259,5,378,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,45,249,31,251,36,194,50"/>
-<area shape="rect" id="Node000003" href="$df/dfc/classcv_1_1Mat__.html#adce382b8089699ea55fdbee77fe76ddb" title="equivalent to Mat::create(_rows, _cols, DataType&lt;_Tp&gt;::type)" alt="" coords="256,55,381,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,65,242,65,242,70,208,70"/>
-<area shape="rect" id="Node000004" href="$d7/d8b/group__photo__inpaint.html#gaedd30dfa0214fec4c88138b51d678085" title="Restores the selected region in an image using the region neighborhood." alt="" coords="274,104,363,129"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,85,261,101,260,106,193,90"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="cv::TrackerKCF::Params" name="cv::TrackerKCF::Params">
-<area shape="rect" id="Node000001" title=" " alt="" coords="121,207,284,272"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="26,71,30,127,39,155,54,181,78,202,107,217,104,221,75,206,50,184,34,158,25,128,21,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="181,5,224,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,71,205,190,200,190,200,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="351,5,382,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="371,71,365,127,356,157,339,184,321,201,300,215,298,210,318,197,335,181,351,155,360,126,366,71"/>
-</map>

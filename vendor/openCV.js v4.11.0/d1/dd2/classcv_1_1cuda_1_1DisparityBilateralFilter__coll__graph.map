@@ -1,5 +1,0 @@
-<map id="cv::cuda::DisparityBilateralFilter" name="cv::cuda::DisparityBilateralFilter">
-<area shape="rect" id="Node000001" title="Class refining a disparity map using joint bilateral filtering. :" alt="" coords="5,379,195,699"/>
-<area shape="rect" id="Node000002" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="27,5,173,331"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,344,103,378,97,378,97,344"/>
-</map>

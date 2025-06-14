@@ -1,7 +1,0 @@
-<map id="cv::cudev::GlobPtr&lt; T &gt;" name="cv::cudev::GlobPtr&lt; T &gt;">
-<area shape="rect" id="Node000001" title="Structure similar to cv::cudev::GlobPtrSz but containing only a pointer and row step." alt="" coords="5,133,173,259"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="35,5,69,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,71,56,109,58,117,53,118,51,110,47,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="102,5,154,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,71,111,118,106,117,118,70"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="cv::TermCriteria" name="cv::TermCriteria">
-<area shape="rect" id="Node000001" title="The class defining termination criteria for iterative algorithms." alt="" coords="17,148,136,253"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="19,71,20,97,25,123,28,132,23,134,19,125,14,98,14,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="105,5,163,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,72,107,125,104,134,99,132,102,123,121,70"/>
-</map>

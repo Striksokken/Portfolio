@@ -1,9 +1,0 @@
-<map id="cv::xfeatures2d::TBMR" name="cv::xfeatures2d::TBMR">
-<area shape="rect" id="Node000001" title="Class implementing the Tree Based Morse Regions (TBMR) as described in najman2014 extended with scale..." alt="" coords="33,925,205,1171"/>
-<area shape="rect" id="Node000002" href="$d4/db2/classcv_1_1xfeatures2d_1_1AffineFeature2D.html" title="Class implementing affine adaptation for key points." alt="" coords="5,692,232,877"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,891,121,925,116,925,116,891"/>
-<area shape="rect" id="Node000003" href="$d0/d13/classcv_1_1Feature2D.html" title="Abstract base class for 2D image feature detectors and descriptor extractors." alt="" coords="37,379,201,644"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,658,121,692,116,692,116,658"/>
-<area shape="rect" id="Node000004" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="45,5,192,331"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,344,121,378,116,378,116,344"/>
-</map>

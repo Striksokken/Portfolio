@@ -1,7 +1,0 @@
-<map id="cv::bgsegm::BackgroundSubtractorGSOC" name="cv::bgsegm::BackgroundSubtractorGSOC">
-<area shape="rect" id="Node000001" title="Implementation of the different yet better algorithm which is called GSOC, as it was implemented duri..." alt="" coords="5,512,283,597"/>
-<area shape="rect" id="Node000002" href="$d7/df6/classcv_1_1BackgroundSubtractor.html" title="Base class for background/foreground segmentation. :" alt="" coords="54,379,234,464"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,478,147,512,141,512,141,478"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="71,5,217,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,345,147,379,141,379,141,345"/>
-</map>

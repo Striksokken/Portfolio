@@ -1,9 +1,0 @@
-<map id="cv::ml::DTrees::Split" name="cv::ml::DTrees::Split">
-<area shape="rect" id="Node000001" title="The class represents split in a decision tree." alt="" coords="57,163,200,228"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="25,70,33,104,48,137,59,150,55,154,44,140,28,106,20,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="107,5,150,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,71,131,146,126,146,126,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="210,5,253,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="230,72,221,106,204,140,194,153,190,150,200,137,216,104,225,70"/>
-</map>

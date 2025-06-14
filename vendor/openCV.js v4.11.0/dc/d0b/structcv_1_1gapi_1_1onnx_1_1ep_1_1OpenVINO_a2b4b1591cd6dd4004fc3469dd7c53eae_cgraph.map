@@ -1,5 +1,0 @@
-<map id="cv::gapi::onnx::ep::OpenVINO::cfgNumThreads" name="cv::gapi::onnx::ep::OpenVINO::cfgNumThreads">
-<area shape="rect" id="Node000001" title="Specifies OpenVINO Execution Provider number of threads." alt="" coords="5,5,213,45"/>
-<area shape="rect" id="Node000002" href="$d3/dce/namespacecv_1_1util.html#a40544b3ca23b3917f2a5de6b0273079d" title=" " alt="" coords="261,13,409,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,23,248,23,248,28,214,28"/>
-</map>

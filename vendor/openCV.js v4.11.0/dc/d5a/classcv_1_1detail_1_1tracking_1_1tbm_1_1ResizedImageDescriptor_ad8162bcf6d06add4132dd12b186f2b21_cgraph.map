@@ -1,7 +1,0 @@
-<map id="cv::detail::tracking::tbm::ResizedImageDescriptor::compute" name="cv::detail::tracking::tbm::ResizedImageDescriptor::compute">
-<area shape="rect" id="Node000001" title="Computes image descriptor." alt="" coords="5,16,228,71"/>
-<area shape="rect" id="Node000002" href="$d3/d63/classcv_1_1Mat.html#abbec3525a852e77998aba034813fded4" title="Returns true if the array has no elements." alt="" coords="276,5,395,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,28,262,24,263,29,229,33"/>
-<area shape="rect" id="Node000003" href="$da/d54/group__imgproc__transform.html#ga47a974309e9102f5f08231edc7e7529d" title="Resizes an image." alt="" coords="294,55,377,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,53,281,59,280,64,228,58"/>
-</map>

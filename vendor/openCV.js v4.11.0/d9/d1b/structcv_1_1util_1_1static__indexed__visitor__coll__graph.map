@@ -1,9 +1,0 @@
-<map id="cv::util::static_indexed_visitor&lt; R, Impl &gt;" name="cv::util::static_indexed_visitor&lt; R, Impl &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="184,163,343,243"/>
-<area shape="rect" id="Node000002" href="$d6/d9c/structcv_1_1util_1_1detail_1_1visitor__interface.html" title=" " alt="" coords="5,13,156,93"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,99,217,160,213,164,138,104"/>
-<area shape="rect" id="Node000003" href="$d7/d2c/structcv_1_1util_1_1detail_1_1visitor__return__type__deduction__helper.html" title=" " alt="" coords="180,5,347,100"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="266,114,266,162,261,162,261,114"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="371,20,423,85"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="373,87,360,102,314,152,310,149,356,98,369,84"/>
-</map>

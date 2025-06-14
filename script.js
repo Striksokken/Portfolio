@@ -37,8 +37,12 @@ function setFilters(isLightMode) {
     const grayscaleFilter = 'grayscale(100%) brightness(70%) invert(100%)';
     
     icon.style.filter = isLightMode ? lightFilter : darkFilter;
-    some.style.filter = isLightMode ? 'grayscale(0%) invert(0%)' : grayscaleFilter;
-    tools.style.filter = isLightMode ? 'grayscale(0%) invert(0%)' : grayscaleFilter;
+    if (some != null) {
+        some.style.filter = isLightMode ? 'grayscale(0%) invert(0%)' : grayscaleFilter;
+    }
+    if (tools != null) {
+        tools.style.filter = isLightMode ? 'grayscale(0%) invert(0%)' : grayscaleFilter;
+    }
 }
 
 document.addEventListener("DOMContentLoaded", function () {

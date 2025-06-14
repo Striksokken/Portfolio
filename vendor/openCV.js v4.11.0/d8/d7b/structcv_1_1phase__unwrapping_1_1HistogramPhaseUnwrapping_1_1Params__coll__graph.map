@@ -1,7 +1,0 @@
-<map id="cv::phase_unwrapping::HistogramPhaseUnwrapping::Params" name="cv::phase_unwrapping::HistogramPhaseUnwrapping::Params">
-<area shape="rect" id="Node000001" title="Parameters of phaseUnwrapping constructor." alt="" coords="5,177,212,272"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="21,5,52,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="33,71,32,111,34,132,40,152,46,163,41,165,36,154,29,133,26,111,28,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="159,5,202,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,72,168,112,154,154,149,164,144,162,149,152,163,110,173,71"/>
-</map>

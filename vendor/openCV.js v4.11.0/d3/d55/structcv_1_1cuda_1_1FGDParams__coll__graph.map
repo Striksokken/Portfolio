@@ -1,9 +1,0 @@
-<map id="cv::cuda::FGDParams" name="cv::cuda::FGDParams">
-<area shape="rect" id="Node000001" title=" " alt="" coords="45,236,196,301"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="21,71,25,138,33,176,48,211,58,223,53,226,44,213,28,178,19,139,16,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="99,5,142,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,71,123,219,118,219,118,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="282,5,325,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="309,71,310,103,306,141,296,180,276,214,247,238,213,254,211,249,244,234,272,210,291,177,301,140,305,103,304,71"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="cv::dnn::TextDetectionModel_DB" name="cv::dnn::TextDetectionModel_DB">
-<area shape="rect" id="Node000001" title="This class represents high&#45;level API for text detection DL networks compatible with DB model." alt="" coords="5,643,229,908"/>
-<area shape="rect" id="Node000002" href="$d4/de1/classcv_1_1dnn_1_1TextDetectionModel.html" title="Base class for text detection networks." alt="" coords="18,448,217,593"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,607,120,643,115,643,115,607"/>
-<area shape="rect" id="Node000003" href="$d3/df0/classcv_1_1dnn_1_1Model.html" title="This class is presented high&#45;level API for neural networks." alt="" coords="45,133,190,399"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,413,120,447,115,447,115,413"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="72,5,163,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="120,71,120,117,115,117,115,71"/>
-</map>

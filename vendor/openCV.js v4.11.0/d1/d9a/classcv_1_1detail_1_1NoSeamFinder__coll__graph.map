@@ -1,5 +1,0 @@
-<map id="cv::detail::NoSeamFinder" name="cv::detail::NoSeamFinder">
-<area shape="rect" id="Node000001" title="Stub seam estimator which does nothing." alt="" coords="5,159,181,224"/>
-<area shape="rect" id="Node000002" href="$d7/d09/classcv_1_1detail_1_1SeamFinder.html" title="Base class for a seam estimator." alt="" coords="14,5,173,111"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,124,96,159,91,159,91,124"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="cv::gapi::oak::ColorCameraParams" name="cv::gapi::oak::ColorCameraParams">
-<area shape="rect" id="Node000001" title=" " alt="" coords="52,133,241,213"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,48,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,70,43,90,54,108,66,121,62,124,50,111,38,92,31,72"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="99,5,194,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,71,149,117,144,117,144,71"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="237,5,320,71"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="273,72,264,92,251,111,237,125,234,121,247,108,259,90,268,70"/>
-</map>

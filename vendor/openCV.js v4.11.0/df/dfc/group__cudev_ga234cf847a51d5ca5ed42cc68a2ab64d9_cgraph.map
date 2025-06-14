@@ -1,7 +1,0 @@
-<map id="cv::cudev::checkCudaError" name="cv::cudev::checkCudaError">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,197,56"/>
-<area shape="rect" id="Node000002" href="$db/de0/group__core__utils.html#ga4910d7f86336cd4eff9dd05575667e41" title="Signals an error and raises the exception." alt="" coords="245,5,320,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,28,231,22,232,28,193,33"/>
-<area shape="rect" id="Node000003" href="$d6/d6e/group__imgproc__draw.html#ga7078a9fae8c7e7d13d24dac2520ae4a2" title="Draws a line segment connecting two points." alt="" coords="249,55,317,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,53,235,58,235,64,197,59"/>
-</map>

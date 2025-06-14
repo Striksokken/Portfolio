@@ -1,8 +1,0 @@
-<map id="cv::cudev::vcmpge4" name="cv::cudev::vcmpge4">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,156,31"/>
-<area shape="rect" id="Node000002" href="$df/dfc/group__cudev.html#ga4db95f1f4957d445cf44f3b971696012" title=" " alt="" coords="395,5,529,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,15,380,15,380,21,156,21"/>
-<area shape="rect" id="Node000003" href="$df/dfc/group__cudev.html#ga59bddb10bcef75d257c5ebe2e7b04b7d" title=" " alt="" coords="204,31,347,56"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,25,191,30,190,35,156,30"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="346,31,381,26,382,32,347,36"/>
-</map>

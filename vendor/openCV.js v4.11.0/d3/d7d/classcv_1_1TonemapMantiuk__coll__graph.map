@@ -1,7 +1,0 @@
-<map id="cv::TonemapMantiuk" name="cv::TonemapMantiuk">
-<area shape="rect" id="Node000001" title="This algorithm transforms image to contrast using gradients on all levels of gaussian pyramid,..." alt="" coords="5,532,153,657"/>
-<area shape="rect" id="Node000002" href="$d8/d5e/classcv_1_1Tonemap.html" title="Base class for tonemapping algorithms &#45; tools that are used to map HDR image to 8&#45;bit range." alt="" coords="23,379,135,484"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,498,82,532,77,532,77,498"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="6,5,153,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="82,344,82,378,77,378,77,344"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="cv::viz::WImage3D" name="cv::viz::WImage3D">
-<area shape="rect" id="Node000001" title="This 3D Widget represents an image in 3D space. :" alt="" coords="8,552,143,677"/>
-<area shape="rect" id="Node000002" href="$d9/d26/classcv_1_1viz_1_1Widget3D.html" title="Base class of all 3D widgets." alt="" coords="5,339,145,504"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,518,78,552,73,552,73,518"/>
-<area shape="rect" id="Node000003" href="$d7/dcd/classcv_1_1viz_1_1Widget.html" title="Base class of all widgets. Widget is implicitly shared." alt="" coords="14,5,137,291"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,305,78,338,73,338,73,305"/>
-</map>

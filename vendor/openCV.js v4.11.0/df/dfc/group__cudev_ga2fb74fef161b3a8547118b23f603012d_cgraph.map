@@ -1,5 +1,0 @@
-<map id="cv::cudev::vmax2" name="cv::cudev::vmax2">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,140,31"/>
-<area shape="rect" id="Node000002" href="$d8/d34/group__cudaarithm__elem.html#gadb5dd3d870f10c0866035755b929b1e7" title="Computes the per&#45;element maximum of two matrices (or a matrix and a scalar)." alt="" coords="188,5,300,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,15,174,15,174,21,140,21"/>
-</map>

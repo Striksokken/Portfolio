@@ -1,5 +1,0 @@
-<map id="cv::detail::tracking::TrackerSamplerCSC" name="cv::detail::tracking::TrackerSamplerCSC">
-<area shape="rect" id="Node000001" title="TrackerSampler based on CSC (current state centered), used by MIL algorithm TrackerMIL." alt="" coords="24,153,200,293"/>
-<area shape="rect" id="Node000002" href="$de/d0a/classcv_1_1detail_1_1tracking_1_1TrackerSamplerAlgorithm.html" title="Abstract base class for TrackerSamplerAlgorithm that represents the algorithm for the specific sample..." alt="" coords="5,5,219,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,119,115,153,109,153,109,119"/>
-</map>

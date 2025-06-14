@@ -1,9 +1,0 @@
-<map id="cv::GFrameDesc" name="cv::GFrameDesc">
-<area shape="rect" id="Node000001" title=" " alt="" coords="56,476,175,541"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,248,105,313"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,313,105,459,100,461,61,314"/>
-<area shape="rect" id="Node000003" href="$d6/d50/classcv_1_1Size__.html" title="Template class for specifying the size of an image or rectangle." alt="" coords="129,148,323,413"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,415,140,462,136,460,159,413"/>
-<area shape="rect" id="Node000004" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="207,5,245,71"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="229,71,229,132,223,132,223,71"/>
-</map>

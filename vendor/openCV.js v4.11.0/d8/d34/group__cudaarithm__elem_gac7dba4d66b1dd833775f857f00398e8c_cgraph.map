@@ -1,5 +1,0 @@
-<map id="cv::cuda::maxWithScalar" name="cv::cuda::maxWithScalar">
-<area shape="rect" id="Node000001" title="Computes the per&#45;element maximum of a matrix and a scalar." alt="" coords="5,5,188,31"/>
-<area shape="rect" id="Node000002" href="$d8/d34/group__cudaarithm__elem.html#gadb5dd3d870f10c0866035755b929b1e7" title="Computes the per&#45;element maximum of two matrices (or a matrix and a scalar)." alt="" coords="236,5,348,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,15,222,15,222,21,188,21"/>
-</map>

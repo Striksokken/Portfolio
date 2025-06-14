@@ -1,7 +1,0 @@
-<map id="cv::ml::LogisticRegression" name="cv::ml::LogisticRegression">
-<area shape="rect" id="Node000001" title="Implements Logistic Regression classifier." alt="" coords="5,652,188,1017"/>
-<area shape="rect" id="Node000002" href="$db/d7d/classcv_1_1ml_1_1StatModel.html" title="Base class for statistical models in OpenCV ML." alt="" coords="33,379,160,604"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,618,99,652,94,652,94,618"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="23,5,170,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,345,99,378,94,378,94,345"/>
-</map>

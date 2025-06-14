@@ -1,7 +1,0 @@
-<map id="cv::xfeatures2d::VGG" name="cv::xfeatures2d::VGG">
-<area shape="rect" id="Node000001" title="Class implementing VGG (Oxford Visual Geometry Group) descriptor trained end to end using &quot;Descriptor..." alt="" coords="5,692,224,977"/>
-<area shape="rect" id="Node000002" href="$d0/d13/classcv_1_1Feature2D.html" title="Abstract base class for 2D image feature detectors and descriptor extractors." alt="" coords="33,379,197,644"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,657,117,692,112,692,112,657"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="41,5,188,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,344,117,378,112,378,112,344"/>
-</map>

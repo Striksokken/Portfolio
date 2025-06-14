@@ -1,9 +1,0 @@
-<map id="cv::norm" name="cv::norm">
-<area shape="rect" id="Node000001" title="Calculates an absolute difference norm or a relative difference norm." alt="" coords="5,7,84,32"/>
-<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="259,7,353,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,11,132,5,211,5,245,8,245,14,211,10,132,10,85,16"/>
-<area shape="rect" id="Node000003" href="$d2/de8/group__core__array.html#ga55a581f0accd8d990af775d378e7e46c" title="Calculates the absolute norm of an array." alt="" coords="132,44,211,70"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="85,29,120,39,118,44,83,34"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="210,44,246,34,247,39,212,49"/>
-<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="150,45,145,36,148,27,157,20,171,18,189,21,196,29,192,33,186,26,171,23,159,25,152,30,151,35,154,43"/>
-</map>

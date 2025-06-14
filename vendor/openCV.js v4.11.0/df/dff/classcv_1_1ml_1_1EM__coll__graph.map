@@ -1,7 +1,0 @@
-<map id="cv::ml::EM" name="cv::ml::EM">
-<area shape="rect" id="Node000001" title="The class implements the Expectation Maximization algorithm." alt="" coords="5,652,211,1017"/>
-<area shape="rect" id="Node000002" href="$db/d7d/classcv_1_1ml_1_1StatModel.html" title="Base class for statistical models in OpenCV ML." alt="" coords="45,379,171,604"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,618,111,652,105,652,105,618"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="35,5,181,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,345,111,378,105,378,105,345"/>
-</map>

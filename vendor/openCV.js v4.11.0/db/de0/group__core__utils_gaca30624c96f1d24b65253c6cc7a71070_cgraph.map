@@ -1,7 +1,0 @@
-<map id="cv::utils::dumpRange" name="cv::utils::dumpRange">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,164,56"/>
-<area shape="rect" id="Node000002" href="$da/d35/classcv_1_1Range.html#af5a0207f6f98a69077db8e77898abc0f" title=" " alt="" coords="212,5,321,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,30,198,25,199,30,165,35"/>
-<area shape="rect" id="Node000003" href="$db/de0/group__core__utils.html#ga0cccdb2f73859309b0611cf70b1b9409" title="Returns a text string formatted using the printf&#45;like expression." alt="" coords="223,55,311,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,51,210,57,209,62,164,56"/>
-</map>

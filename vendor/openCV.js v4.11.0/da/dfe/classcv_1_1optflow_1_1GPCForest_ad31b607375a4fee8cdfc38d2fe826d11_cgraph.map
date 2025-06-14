@@ -1,7 +1,0 @@
-<map id="cv::optflow::GPCForest::train" name="cv::optflow::GPCForest::train">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,172,77"/>
-<area shape="rect" id="Node000002" href="$d5/d49/classcv_1_1optflow_1_1GPCTrainingSamples.html#ab459320809d8dddfc52daa043a97ef17" title="This function can be used to extract samples from a pair of images and a ground truth flow...." alt="" coords="220,5,397,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,43,206,38,207,43,173,48"/>
-<area shape="rect" id="Node000003" href="$d4/d4d/classcv_1_1optflow_1_1GPCTree.html#a841c5d9457e3b43a55cc514698f460d6" title=" " alt="" coords="232,69,385,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,67,219,74,218,79,172,72"/>
-</map>

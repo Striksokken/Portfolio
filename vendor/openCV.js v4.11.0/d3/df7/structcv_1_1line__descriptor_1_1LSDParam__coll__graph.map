@@ -1,7 +1,0 @@
-<map id="cv::line_descriptor::LSDParam" name="cv::line_descriptor::LSDParam">
-<area shape="rect" id="Node000001" title=" " alt="" coords="30,207,162,287"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,64,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,71,28,124,31,154,38,182,44,192,39,194,34,184,25,155,22,124,26,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="143,5,174,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,71,148,124,132,184,128,193,123,191,127,182,143,123,152,70"/>
-</map>

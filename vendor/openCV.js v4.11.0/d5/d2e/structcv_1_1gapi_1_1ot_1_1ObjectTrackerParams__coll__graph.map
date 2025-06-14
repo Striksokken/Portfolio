@@ -1,7 +1,0 @@
-<map id="cv::gapi::ot::ObjectTrackerParams" name="cv::gapi::ot::ObjectTrackerParams">
-<area shape="rect" id="Node000001" title=" " alt="" coords="33,148,215,228"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,64,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,71,31,97,38,123,46,134,42,137,34,125,26,98,26,71"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="192,5,235,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,72,199,99,186,125,179,137,174,134,182,123,194,97,203,70"/>
-</map>

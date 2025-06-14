@@ -1,5 +1,0 @@
-<map id="cv::v_load_deinterleave" name="cv::v_load_deinterleave">
-<area shape="rect" id="Node000001" title="Load and deinterleave (4 channels)" alt="" coords="5,5,181,31"/>
-<area shape="rect" id="Node000002" href="$db/de0/group__core__utils.html#gadbc1b082037ac3725f3b12fe6c541c61" title="Alignment check of passed values." alt="" coords="229,5,333,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,15,216,15,216,21,181,21"/>
-</map>

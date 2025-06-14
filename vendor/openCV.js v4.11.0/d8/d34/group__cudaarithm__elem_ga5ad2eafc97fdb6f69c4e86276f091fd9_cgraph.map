@@ -1,5 +1,0 @@
-<map id="cv::cuda::absdiffWithScalar" name="cv::cuda::absdiffWithScalar">
-<area shape="rect" id="Node000001" title="Computes per&#45;element absolute difference of a matrix and scalar." alt="" coords="5,5,203,31"/>
-<area shape="rect" id="Node000002" href="$d8/d34/group__cudaarithm__elem.html#gac062b283cf46ee90f74a773d3382ab54" title="Computes per&#45;element absolute difference of two matrices (or of a matrix and scalar)." alt="" coords="251,5,377,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,15,237,15,237,21,203,21"/>
-</map>

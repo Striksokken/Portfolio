@@ -1,6 +1,0 @@
-<map id="cv::subtract" name="cv::subtract">
-<area shape="rect" id="Node000001" title="Calculates the per&#45;element difference between two arrays or array and a scalar." alt="" coords="5,29,103,55"/>
-<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="29,30,24,21,27,11,37,5,54,3,74,6,83,15,79,18,71,11,54,8,39,10,31,15,30,20,34,28"/>
-<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="151,29,245,55"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,39,137,39,137,45,103,45"/>
-</map>

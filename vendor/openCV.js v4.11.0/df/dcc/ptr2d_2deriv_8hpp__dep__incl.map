@@ -1,8 +1,0 @@
-<map id="opencv2/cudev/ptr2d/deriv.hpp" name="opencv2/cudev/ptr2d/deriv.hpp">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,164,45"/>
-<area shape="rect" id="Node000002" href="$d6/d38/cudev_8hpp.html" title=" " alt="" coords="11,181,158,207"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,59,57,94,54,113,57,133,66,158,79,180,74,182,62,161,51,134,48,113,51,93,65,57"/>
-<area shape="rect" id="Node000003" href="$df/d27/expr_2deriv_8hpp.html" title=" " alt="" coords="65,93,219,133"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,56,132,92,127,95,103,58"/>
-<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="122,146,95,183,91,179,118,143"/>
-</map>

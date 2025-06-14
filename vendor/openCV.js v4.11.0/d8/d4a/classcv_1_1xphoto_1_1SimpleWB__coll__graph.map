@@ -1,7 +1,0 @@
-<map id="cv::xphoto::SimpleWB" name="cv::xphoto::SimpleWB">
-<area shape="rect" id="Node000001" title="A simple white balance algorithm that works by independently stretching each of the input image chann..." alt="" coords="19,492,175,737"/>
-<area shape="rect" id="Node000002" href="$d9/d7a/classcv_1_1xphoto_1_1WhiteBalancer.html" title="The base class for auto white balance algorithms." alt="" coords="5,379,189,444"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,457,100,492,95,492,95,457"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="24,5,171,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,344,100,379,95,379,95,344"/>
-</map>

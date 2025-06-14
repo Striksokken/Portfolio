@@ -1,7 +1,0 @@
-<map id="cv::stereo::PropagationParameters" name="cv::stereo::PropagationParameters">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,280,243,345"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="19,5,50,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,71,21,111,18,158,22,208,28,232,38,255,47,267,43,271,34,257,23,234,17,209,12,158,16,110,23,70"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="193,5,236,71"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,71,220,110,216,158,206,209,188,257,180,269,176,266,183,255,201,207,211,157,215,110,214,71"/>
-</map>

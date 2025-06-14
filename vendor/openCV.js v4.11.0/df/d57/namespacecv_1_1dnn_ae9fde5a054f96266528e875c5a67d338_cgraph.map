@@ -1,8 +1,0 @@
-<map id="cv::dnn::shape" name="cv::dnn::shape">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,120,68"/>
-<area shape="rect" id="Node000002" href="$df/d63/structcv_1_1MatSize.html#aed21bfaef2658f3822b45802f77cfaa1" title=" " alt="" coords="168,5,304,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,40,163,31,164,36,121,46"/>
-<area shape="rect" id="Node000003" href="$df/d57/namespacecv_1_1dnn.html#a270ae5dc357c85f7fec6d94470b52189" title=" " alt="" coords="179,79,293,104"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,65,166,74,164,79,120,70"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="207,80,201,70,204,61,216,54,236,52,260,56,270,64,266,68,258,60,236,57,218,59,208,64,206,70,212,77"/>
-</map>

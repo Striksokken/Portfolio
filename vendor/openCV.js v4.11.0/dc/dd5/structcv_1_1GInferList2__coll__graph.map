@@ -1,9 +1,0 @@
-<map id="cv::GInferList2&lt; Net, T, Args &gt;" name="cv::GInferList2&lt; Net, T, Args &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="16,336,165,436"/>
-<area shape="rect" id="Node000002" href="$dc/d3f/structcv_1_1GInferList2Base.html" title=" " alt="" coords="5,189,144,275"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,288,88,336,83,336,78,288"/>
-<area shape="rect" id="Node000003" href="$d9/d5f/classcv_1_1detail_1_1KernelTypeMedium.html" title=" " alt="" coords="169,177,391,287"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,297,153,338,150,334,201,293"/>
-<area shape="rect" id="Node000004" href="$d9/d5f/classcv_1_1detail_1_1KernelTypeMedium.html" title=" " alt="" coords="177,5,383,85"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="283,99,283,177,277,177,277,99"/>
-</map>

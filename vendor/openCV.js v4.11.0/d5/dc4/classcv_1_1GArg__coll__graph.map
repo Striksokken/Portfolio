@@ -1,9 +1,0 @@
-<map id="cv::GArg" name="cv::GArg">
-<area shape="rect" id="Node000001" title=" " alt="" coords="87,253,197,439"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,65,71,131"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,130,95,228,99,237,94,239,90,230,49,132"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="95,65,189,131"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,131,145,237,139,237,139,131"/>
-<area shape="rect" id="Node000004" href="$d9/dc4/classcv_1_1util_1_1any.html" title=" " alt="" coords="219,5,324,191"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="259,192,244,231,210,281,206,278,240,228,254,190"/>
-</map>

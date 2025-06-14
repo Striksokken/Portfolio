@@ -1,7 +1,0 @@
-<map id="cv::NormHistogramCostExtractor" name="cv::NormHistogramCostExtractor">
-<area shape="rect" id="Node000001" title="A norm based cost extraction. :" alt="" coords="5,572,233,657"/>
-<area shape="rect" id="Node000002" href="$df/d9a/classcv_1_1HistogramCostExtractor.html" title="Abstract base class for histogram cost algorithms." alt="" coords="23,379,215,524"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,537,122,572,117,572,117,537"/>
-<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="46,5,193,331"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,344,122,379,117,379,117,344"/>
-</map>

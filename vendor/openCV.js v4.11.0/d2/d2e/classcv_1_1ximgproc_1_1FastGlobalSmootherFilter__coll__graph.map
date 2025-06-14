@@ -1,5 +1,0 @@
-<map id="cv::ximgproc::FastGlobalSmootherFilter" name="cv::ximgproc::FastGlobalSmootherFilter">
-<area shape="rect" id="Node000001" title="Interface for implementations of Fast Global Smoother filter." alt="" coords="5,379,179,459"/>
-<area shape="rect" id="Node000002" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="19,5,165,331"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,345,95,379,89,379,89,345"/>
-</map>
