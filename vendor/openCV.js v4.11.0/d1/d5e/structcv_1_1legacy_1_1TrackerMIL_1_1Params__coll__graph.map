@@ -1,0 +1,9 @@
+<map id="cv::legacy::TrackerMIL::Params" name="cv::legacy::TrackerMIL::Params">
+<area shape="rect" id="Node000001" title=" " alt="" coords="45,292,200,392"/>
+<area shape="rect" id="Node000002" href="$da/dae/structcv_1_1TrackerMIL_1_1Params.html" title=" " alt="" coords="42,177,203,243"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,257,125,292,120,292,120,257"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,48,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="22,71,19,112,23,133,30,152,40,165,35,168,26,155,17,134,14,112,16,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="203,5,234,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="218,71,210,113,192,155,182,167,178,164,187,152,205,111,213,70"/>
+</map>

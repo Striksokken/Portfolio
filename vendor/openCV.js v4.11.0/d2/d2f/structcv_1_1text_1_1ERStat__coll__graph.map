@@ -1,0 +1,25 @@
+<map id="cv::text::ERStat" name="cv::text::ERStat">
+<area shape="rect" id="Node000001" title="The ERStat structure represents a class&#45;specific Extremal Region (ER)." alt="" coords="474,773,588,859"/>
+<area shape="poly" id="edge11_Node000001_Node000001" title=" " alt="" coords="589,793,607,800,614,816,612,826,605,833,601,830,607,824,609,816,603,804,587,798"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="56,133,86,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,200,34,285,21,341,11,403,8,467,14,532,30,593,43,622,60,649,99,692,145,727,197,755,252,776,308,791,363,801,458,811,457,816,362,807,307,796,251,781,195,760,142,732,95,696,56,652,38,624,25,595,8,533,3,467,6,403,15,340,29,284,56,198"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="146,445,276,511"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="88,198,193,429,188,432,83,200"/>
+<area shape="rect" id="Node000003" href="$d2/d44/classcv_1_1Rect__.html" title="Template class for 2D rectangles." alt="" coords="300,305,495,651"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="452,650,485,732,499,758,494,760,481,734,447,652"/>
+<area shape="rect" id="Node000004" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="379,133,416,199"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="400,199,400,289,395,289,395,199"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="519,445,578,511"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="548,511,535,675,533,757,528,757,530,675,542,511"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="602,445,780,511"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="698,510,702,557,700,615,689,677,678,707,664,735,637,765,604,788,601,783,634,761,659,732,674,705,684,676,695,615,696,557,693,511"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="804,445,847,511"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="831,511,831,560,824,620,805,681,790,710,770,735,733,765,691,786,646,801,604,810,603,805,645,796,689,781,730,760,766,731,786,707,800,679,818,619,825,559,825,511"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="222,510,248,578,267,615,290,649,329,689,373,725,418,755,461,779,458,783,416,759,370,729,325,693,286,652,262,617,243,580,217,512"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="150,133,272,199"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="214,212,214,445,208,445,208,212"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="200,5,222,71"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="214,71,214,117,208,117,208,71"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="972,445,1015,511"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="1003,510,1008,559,1008,619,1003,651,995,681,981,710,962,735,937,753,901,768,806,791,699,805,604,814,604,808,699,800,805,786,899,763,935,749,958,731,977,707,990,679,998,650,1002,619,1003,560,997,511"/>
+</map>

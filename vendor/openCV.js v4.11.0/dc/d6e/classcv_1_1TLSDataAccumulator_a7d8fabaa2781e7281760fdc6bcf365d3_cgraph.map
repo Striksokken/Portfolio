@@ -1,0 +1,5 @@
+<map id="cv::TLSDataAccumulator::detachData" name="cv::TLSDataAccumulator::detachData">
+<area shape="rect" id="Node000001" title="Get and detach data from all threads." alt="" coords="5,5,185,45"/>
+<area shape="rect" id="Node000002" href="$df/d21/classcv_1_1TLSDataContainer.html#a3e075d229aaa6c3f60cbd1a545f9ce77" title="get TLS data and detach all data from threads (similar to cleanup() call)" alt="" coords="233,5,395,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,23,220,23,220,28,186,28"/>
+</map>

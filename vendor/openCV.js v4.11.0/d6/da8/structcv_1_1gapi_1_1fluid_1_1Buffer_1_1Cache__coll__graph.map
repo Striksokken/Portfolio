@@ -1,0 +1,25 @@
+<map id="cv::gapi::fluid::Buffer::Cache" name="cv::gapi::fluid::Buffer::Cache">
+<area shape="rect" id="Node000001" title=" " alt="" coords="155,932,301,1012"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="77,369,208,449"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,449,222,916,217,916,146,449"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,133,64,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="41,198,53,251,78,305,108,353,103,356,74,307,48,253,35,200"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="170,133,291,199"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="161,205,146,224,133,260,129,298,130,335,135,368,130,369,125,336,123,298,128,258,142,221,157,202"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="265,376,396,441"/>
+<area shape="poly" id="edge12_Node000011_Node000004" title=" " alt="" coords="251,210,320,375,315,377,247,212"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="219,5,242,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="233,71,233,117,228,117,228,71"/>
+<area shape="rect" id="Node000006" href="$d0/d82/structcv_1_1GMatDesc.html" title=" " alt="" coords="380,604,508,869"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="382,809,277,922,273,918,378,805"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="363,133,394,199"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="396,179,414,198,428,222,443,288,450,381,452,587,447,588,445,381,437,289,423,224,409,201,392,182"/>
+<area shape="poly" id="edge11_Node000011_Node000007" title=" " alt="" coords="366,191,351,223,337,294,332,360,327,359,331,294,345,222,361,189"/>
+<area shape="rect" id="Node000008" href="$d6/d50/classcv_1_1Size__.html" title="Template class for specifying the size of an image or rectangle." alt="" coords="585,276,778,541"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="588,543,520,636,516,632,583,540"/>
+<area shape="rect" id="Node000009" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="663,133,700,199"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="684,199,684,260,679,260,679,199"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="517,376,560,441"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="532,443,489,589,484,588,527,441"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="341,441,357,505,380,579,383,588,378,589,375,581,352,507,335,442"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="cv::datasets::TR_charsObj" name="cv::datasets::TR_charsObj">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,263,286,328"/>
+<area shape="rect" id="Node000002" href="$de/d47/structcv_1_1datasets_1_1Object.html" title=" " alt="" coords="5,135,148,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,208,167,261,163,264,114,212"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="172,135,251,200"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,201,199,224,197,247,192,246,194,224,199,199"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="146,5,277,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="214,99,214,134,209,134,209,99"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="291,135,321,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="300,201,291,221,279,240,265,254,262,251,275,237,286,219,295,199"/>
+</map>

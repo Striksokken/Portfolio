@@ -1,0 +1,35 @@
+<map id="opencv2/objdetect/aruco_dictionary.hpp" name="opencv2/objdetect/aruco_dictionary.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="183,5,365,45"/>
+<area shape="rect" id="Node000002" href="$d8/deb/aruco__detector_8hpp.html" title=" " alt="" coords="183,93,365,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,59,277,93,271,93,271,59"/>
+<area shape="rect" id="Node000003" href="$d9/d53/aruco_8hpp.html" title=" " alt="" coords="5,189,151,214"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="220,141,105,191,103,186,218,136"/>
+<area shape="rect" id="Node000005" href="$d8/da3/objdetect_8hpp.html" title=" " alt="" coords="294,269,465,295"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="342,138,367,156,387,180,395,204,395,228,386,269,381,268,390,228,390,204,382,183,363,160,339,142"/>
+<area shape="rect" id="Node000014" href="$dc/d25/charuco__detector_8hpp.html" title=" " alt="" coords="175,181,373,221"/>
+<area shape="poly" id="edge17_Node000002_Node000014" title=" " alt="" coords="277,147,277,181,271,181,271,147"/>
+<area shape="rect" id="Node000004" href="$da/d3b/charuco_8hpp.html" title=" " alt="" coords="39,269,239,295"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="97,223,132,267,128,271,93,226"/>
+<area shape="rect" id="Node000006" href="$d2/df3/cudaobjdetect_8hpp.html" title=" " alt="" coords="67,350,268,375"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="337,302,199,352,197,347,335,297"/>
+<area shape="rect" id="Node000007" href="$dc/dd9/facemark__train_8hpp.html" title=" " alt="" coords="292,343,467,383"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="382,308,382,343,377,343,377,308"/>
+<area shape="rect" id="Node000013" href="$d7/df0/objdetect_2objdetect_8hpp.html" title=" " alt="" coords="491,350,726,375"/>
+<area shape="poly" id="edge16_Node000005_Node000013" title=" " alt="" coords="427,297,576,347,574,353,425,302"/>
+<area shape="rect" id="Node000008" href="$d2/dc4/contrib_2modules_2face_2include_2opencv2_2face_8hpp.html" title=" " alt="" coords="309,504,447,529"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="279,386,174,410,135,422,116,432,111,443,116,454,128,464,146,473,195,489,253,499,309,507,309,512,252,505,194,494,144,478,125,469,112,458,106,443,112,429,133,417,173,405,278,381"/>
+<area shape="rect" id="Node000010" href="$d9/d91/face__alignment_8hpp.html" title=" " alt="" coords="126,431,369,456"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="337,392,268,433,265,428,335,387"/>
+<area shape="rect" id="Node000011" href="$da/dc2/facemarkAAM_8hpp.html" title=" " alt="" coords="393,431,627,456"/>
+<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="424,388,492,428,489,433,421,392"/>
+<area shape="rect" id="Node000012" href="$db/dee/facemarkLBF_8hpp.html" title=" " alt="" coords="651,431,876,456"/>
+<area shape="poly" id="edge14_Node000007_Node000012" title=" " alt="" coords="481,382,708,428,706,433,480,387"/>
+<area shape="rect" id="Node000009" href="$dd/d81/facerec_8hpp.html" title=" " alt="" coords="283,577,473,603"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="372,543,374,577,368,577,367,543"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="384,564,382,530,388,530,389,564"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="282,460,358,501,355,506,279,465"/>
+<area shape="poly" id="edge13_Node000011_Node000008" title=" " alt="" coords="478,465,401,506,398,501,476,460"/>
+<area shape="poly" id="edge15_Node000012_Node000008" title=" " alt="" coords="688,461,441,507,440,501,687,456"/>
+<area shape="poly" id="edge18_Node000014_Node000004" title=" " alt="" coords="231,231,161,271,158,267,228,226"/>
+<area shape="poly" id="edge19_Node000014_Node000005" title=" " alt="" coords="312,227,365,267,362,271,309,232"/>
+</map>

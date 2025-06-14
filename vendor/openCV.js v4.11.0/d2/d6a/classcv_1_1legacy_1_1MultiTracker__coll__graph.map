@@ -1,0 +1,20 @@
+<map id="cv::legacy::MultiTracker" name="cv::legacy::MultiTracker">
+<area shape="rect" id="Node000001" title="This class is used to track multiple objects using the specified tracker algorithm." alt="" coords="168,988,333,1193"/>
+<area shape="rect" id="Node000002" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="5,600,152,925"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,914,199,987,195,989,156,916"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="177,723,325,803"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,803,253,972,248,972,248,803"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="66,317,246,383"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="154,383,149,471,152,523,160,575,171,611,185,646,218,707,213,710,180,648,166,613,155,577,146,524,144,471,149,383"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="286,317,407,383"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="324,396,290,466,275,506,263,547,255,594,251,641,251,722,245,722,245,641,249,593,257,546,270,504,285,464,319,394"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="349,730,520,795"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="360,395,393,546,431,729,426,730,388,547,354,396"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="335,5,358,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="349,71,349,301,344,301,344,71"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="424,796,390,874,342,965,336,975,332,973,338,963,385,872,419,794"/>
+<area shape="rect" id="Node000008" href="$d2/d44/classcv_1_1Rect__.html" title="Template class for 2D rectangles." alt="" coords="447,177,641,523"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="512,524,499,577,454,715,449,713,493,575,507,522"/>
+<area shape="rect" id="Node000009" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="525,5,563,71"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="547,71,547,161,541,161,541,71"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="cv::datasets::OR_pascal" name="cv::datasets::OR_pascal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,697,233,783"/>
+<area shape="rect" id="Node000002" href="$d9/d2e/classcv_1_1datasets_1_1Dataset.html" title=" " alt="" coords="74,463,225,648"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,662,152,697,147,697,147,662"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="32,291,267,371"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="152,371,152,446,147,446,147,371"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,133,187,213"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="112,213,133,274,128,276,107,215"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="211,141,333,206"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="246,219,210,268,189,292,185,289,206,265,242,216"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="261,5,283,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="275,71,275,124,269,124,269,71"/>
+</map>

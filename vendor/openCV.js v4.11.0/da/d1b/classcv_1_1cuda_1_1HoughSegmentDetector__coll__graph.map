@@ -1,0 +1,5 @@
+<map id="cv::cuda::HoughSegmentDetector" name="cv::cuda::HoughSegmentDetector">
+<area shape="rect" id="Node000001" title="Base class for line segments detector algorithm. :" alt="" coords="5,379,236,684"/>
+<area shape="rect" id="Node000002" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="47,5,194,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,344,123,379,118,379,118,344"/>
+</map>

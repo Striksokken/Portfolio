@@ -1,0 +1,5 @@
+<map id="cv::detail::tracking::tbm::CosDistance" name="cv::detail::tracking::tbm::CosDistance">
+<area shape="rect" id="Node000001" title="The CosDistance class allows computing cosine distance between two reidentification descriptors." alt="" coords="29,173,166,293"/>
+<area shape="rect" id="Node000002" href="$db/db4/classcv_1_1detail_1_1tracking_1_1tbm_1_1IDescriptorDistance.html" title="The IDescriptorDistance class declares an interface for distance computation between reidentification..." alt="" coords="5,5,189,125"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,139,100,173,95,173,95,139"/>
+</map>

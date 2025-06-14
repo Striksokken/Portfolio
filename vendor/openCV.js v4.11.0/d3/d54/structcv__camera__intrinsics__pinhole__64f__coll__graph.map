@@ -1,0 +1,9 @@
+<map id="cv_camera_intrinsics_pinhole_64f" name="cv_camera_intrinsics_pinhole_64f">
+<area shape="rect" id="Node000001" title="Camera intrinsics structure, see projectPoints() documentation for details." alt="" coords="38,251,189,331"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,64,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,71,41,144,49,186,62,226,68,236,63,238,58,228,44,187,36,144,31,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="98,5,129,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,71,116,234,111,234,111,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="180,5,223,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,71,199,145,190,187,174,228,168,239,163,236,170,226,184,186,193,144,199,71"/>
+</map>

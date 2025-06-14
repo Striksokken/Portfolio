@@ -1,0 +1,7 @@
+<map id="cv::sfm::libmv_CameraIntrinsicsOptions" name="cv::sfm::libmv_CameraIntrinsicsOptions">
+<area shape="rect" id="Node000001" title="Data structure describing the camera model and its parameters." alt="" coords="5,295,248,375"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="34,5,65,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,71,37,113,33,164,37,218,43,244,53,270,60,281,55,283,48,272,38,246,32,219,28,164,32,112,39,70"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="176,5,235,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,71,205,163,195,218,178,272,173,282,169,280,174,270,190,217,199,163,204,71"/>
+</map>

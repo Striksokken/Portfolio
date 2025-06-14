@@ -1,0 +1,5 @@
+<map id="cv::dnn::details::_LayerStaticRegisterer::_LayerStaticRegisterer" name="cv::dnn::details::_LayerStaticRegisterer::_LayerStaticRegisterer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,183,60"/>
+<area shape="rect" id="Node000002" href="$d4/d67/classcv_1_1dnn_1_1LayerFactory.html#aca69c92ed171a3a1e4ea38f28be20252" title="Registers the layer class with typename type and specified constructor. Thread&#45;safe." alt="" coords="231,13,389,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,30,217,30,217,35,183,35"/>
+</map>

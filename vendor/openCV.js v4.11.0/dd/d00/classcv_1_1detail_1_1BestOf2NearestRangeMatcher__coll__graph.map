@@ -1,0 +1,16 @@
+<map id="cv::detail::BestOf2NearestRangeMatcher" name="cv::detail::BestOf2NearestRangeMatcher">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,620,241,740"/>
+<area shape="rect" id="Node000002" href="$d4/d26/classcv_1_1detail_1_1BestOf2NearestMatcher.html" title="Features matcher which finds two best matches for each feature and leaves the best one only if the ra..." alt="" coords="199,431,394,571"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,583,183,621,179,618,218,579"/>
+<area shape="rect" id="Node000003" href="$da/d87/classcv_1_1detail_1_1FeaturesMatcher.html" title="Feature matchers base class." alt="" coords="587,133,777,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="594,351,561,381,526,409,462,445,396,473,394,468,459,441,523,404,558,377,590,347"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="661,5,703,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="685,71,685,117,679,117,679,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="63,203,93,269"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="78,269,73,401,77,486,87,570,96,604,91,605,82,571,71,486,68,401,73,269"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="82,268,94,336,107,372,127,405,186,439,183,443,123,409,102,374,89,337,77,269"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="267,203,326,269"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="299,269,299,414,294,414,294,269"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="391,196,562,276"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="481,277,475,341,466,376,450,408,431,430,409,449,405,445,427,427,445,405,461,374,470,340,476,276"/>
+</map>

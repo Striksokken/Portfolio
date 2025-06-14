@@ -1,0 +1,5 @@
+<map id="cv::datasets::groundTruth" name="cv::datasets::groundTruth">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,163,183,228"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="79,5,109,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,71,97,146,91,146,91,71"/>
+</map>

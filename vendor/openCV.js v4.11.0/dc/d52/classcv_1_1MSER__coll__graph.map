@@ -1,0 +1,7 @@
+<map id="cv::MSER" name="cv::MSER">
+<area shape="rect" id="Node000001" title="Maximally stable extremal region extractor." alt="" coords="11,692,164,977"/>
+<area shape="rect" id="Node000002" href="$d0/d13/classcv_1_1Feature2D.html" title="Abstract base class for 2D image feature detectors and descriptor extractors." alt="" coords="5,379,169,644"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,657,90,692,85,692,85,657"/>
+<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="14,5,161,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,344,90,378,85,378,85,344"/>
+</map>

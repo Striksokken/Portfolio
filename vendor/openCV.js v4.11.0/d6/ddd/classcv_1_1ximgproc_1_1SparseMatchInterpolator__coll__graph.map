@@ -1,0 +1,5 @@
+<map id="cv::ximgproc::SparseMatchInterpolator" name="cv::ximgproc::SparseMatchInterpolator">
+<area shape="rect" id="Node000001" title="Main interface for all filters, that take sparse matches as an input and produce a dense per&#45;pixel ma..." alt="" coords="5,379,195,459"/>
+<area shape="rect" id="Node000002" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="27,5,173,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,345,103,379,97,379,97,345"/>
+</map>

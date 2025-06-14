@@ -1,0 +1,9 @@
+<map id="cv::quality::quality_utils::scale" name="cv::quality::quality_utils::scale">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,147,87"/>
+<area shape="rect" id="Node000002" href="$d3/d63/classcv_1_1Mat.html#aa10d804e90b51d4157b5c26e12c5d2df" title="Returns a reference to the specified array element." alt="" coords="200,5,291,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,45,188,32,189,37,146,50"/>
+<area shape="rect" id="Node000003" href="$d2/de8/group__core__array.html#ga9af368f182ee76d0463d0d8d5330b764" title="Calculates per&#45;element minimum of two arrays or an array and a scalar." alt="" coords="211,55,280,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,65,197,65,197,70,147,70"/>
+<area shape="rect" id="Node000004" href="$d3/d63/classcv_1_1Mat.html#a4b22e1c23af7a7f2eef8fa478cfa7434" title="Creates a matrix header for the specified matrix row." alt="" coords="195,104,296,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="146,85,189,98,188,103,144,90"/>
+</map>

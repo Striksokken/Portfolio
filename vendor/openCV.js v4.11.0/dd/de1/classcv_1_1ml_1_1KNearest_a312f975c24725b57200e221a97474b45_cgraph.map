@@ -1,0 +1,5 @@
+<map id="cv::ml::KNearest::findNearest" name="cv::ml::KNearest::findNearest">
+<area shape="rect" id="Node000001" title="Finds the neighbors and predicts responses for input vectors." alt="" coords="5,5,217,31"/>
+<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="265,5,360,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,15,251,15,251,21,218,21"/>
+</map>

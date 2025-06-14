@@ -1,0 +1,14 @@
+<map id="cv::GTypeInfo" name="cv::GTypeInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,983,191,1048"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,703,69,768"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="40,768,42,808,49,857,62,908,82,957,90,969,86,972,78,960,57,910,44,858,37,809,35,768"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,703,187,768"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,768,143,966,137,966,137,768"/>
+<area shape="rect" id="Node000004" href="$dc/d3e/classcv_1_1util_1_1variant.html" title=" " alt="" coords="211,551,373,920"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,922,192,960,183,972,179,969,187,957,210,919"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="196,5,257,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="225,71,220,134,210,296,211,368,220,458,234,534,229,535,215,459,206,368,205,296,215,133,220,71"/>
+<area shape="rect" id="Node000006" href="$dc/d3e/classcv_1_1util_1_1variant.html" title=" " alt="" coords="300,133,455,459"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="248,70,294,148,289,151,243,73"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="346,473,330,551,325,550,341,472"/>
+</map>

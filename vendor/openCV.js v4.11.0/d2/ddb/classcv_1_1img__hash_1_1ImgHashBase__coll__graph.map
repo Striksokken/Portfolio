@@ -1,0 +1,7 @@
+<map id="cv::img_hash::ImgHashBase" name="cv::img_hash::ImgHashBase">
+<area shape="rect" id="Node000001" title="The base class for image hash algorithms." alt="" coords="65,393,263,519"/>
+<area shape="rect" id="Node000002" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="5,5,152,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,343,148,393,143,394,128,344"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="176,135,325,201"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,202,190,378,185,377,239,200"/>
+</map>

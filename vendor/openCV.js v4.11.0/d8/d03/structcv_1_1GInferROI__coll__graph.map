@@ -1,0 +1,9 @@
+<map id="cv::GInferROI&lt; Net, T &gt;" name="cv::GInferROI&lt; Net, T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,321,173,407"/>
+<area shape="rect" id="Node000002" href="$dd/d00/structcv_1_1GInferROIBase.html" title=" " alt="" coords="8,182,139,267"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,281,87,321,82,321,77,281"/>
+<area shape="rect" id="Node000003" href="$d9/d5f/classcv_1_1detail_1_1KernelTypeMedium.html" title=" " alt="" coords="163,177,405,272"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,282,150,323,147,319,205,278"/>
+<area shape="rect" id="Node000004" href="$d9/d5f/classcv_1_1detail_1_1KernelTypeMedium.html" title=" " alt="" coords="181,5,387,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="287,99,287,177,281,177,281,99"/>
+</map>

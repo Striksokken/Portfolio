@@ -1,0 +1,15 @@
+<map id="cv::detail::tracking::TrackerStateEstimatorAdaBoosting::TrackerAdaBoostingTargetState" name="cv::detail::tracking::TrackerStateEstimatorAdaBoosting::TrackerAdaBoostingTargetState">
+<area shape="rect" id="Node000001" title="Implementation of the target state for TrackerAdaBoostingTargetState." alt="" coords="51,1232,297,1456"/>
+<area shape="rect" id="Node000002" href="$da/d1b/classcv_1_1detail_1_1tracking_1_1TrackerTargetState.html" title="Abstract base class for TrackerTargetState that represents a possible state of the target." alt="" coords="89,983,259,1183"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,1197,177,1232,171,1232,171,1197"/>
+<area shape="rect" id="Node000003" href="$db/d4e/classcv_1_1Point__.html" title=" " alt="" coords="5,565,204,905"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,905,110,958,112,967,107,968,105,959,96,906"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="57,285,99,351"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,351,95,549,90,549,77,351"/>
+<area shape="rect" id="Node000005" href="$db/d4e/classcv_1_1Point__.html" title="Template class for 2D points specified by its coordinates x and y." alt="" coords="123,148,321,488"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="173,502,155,566,150,565,168,501"/>
+<area shape="rect" id="Node000006" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="203,5,241,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="225,71,225,131,219,131,219,71"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="228,703,259,768"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="244,769,234,855,217,959,215,967,209,966,211,958,229,854,238,768"/>
+</map>

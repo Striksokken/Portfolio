@@ -1,0 +1,34 @@
+<map id="cv::AVIReadContainer" name="cv::AVIReadContainer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="449,620,639,1125"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="93,419,289,499"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,497,303,594,440,752,436,755,299,598,220,501"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,269,136,334"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,333,153,404,149,408,93,336"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="160,269,309,334"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="224,348,204,419,199,418,219,347"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="285,133,307,199"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="287,188,268,224,254,254,250,252,263,222,282,185"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="333,269,453,334"/>
+<area shape="poly" id="edge14_Node000014_Node000005" title=" " alt="" coords="310,187,341,236,355,254,351,258,336,239,305,190"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="511,426,585,491"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="549,492,548,523,547,604,541,604,543,523,544,492"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="313,419,487,499"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="412,498,440,595,446,615,441,616,435,597,407,500"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="484,261,623,341"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="551,342,542,370,526,396,503,418,499,414,522,393,537,368,545,341"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="412,133,479,199"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="455,198,462,217,473,236,483,248,479,251,468,239,458,220,450,200"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="520,133,587,199"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="556,199,556,245,551,245,551,199"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="613,133,750,199"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="670,213,654,239,625,265,621,262,650,236,665,210"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="611,5,642,71"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="622,71,621,90,625,108,631,119,626,122,620,110,616,90,616,71"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="719,5,750,71"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="724,72,708,110,704,119,699,117,703,108,719,70"/>
+<area shape="poly" id="edge13_Node000007_Node000014" title=" " alt="" coords="396,348,397,395,399,418,394,419,392,395,391,348"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="647,426,705,491"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="673,492,649,597,646,607,641,606,644,595,668,491"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="741,426,784,491"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="759,492,746,542,726,597,691,666,650,732,645,729,686,663,722,595,741,541,754,491"/>
+</map>

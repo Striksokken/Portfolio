@@ -1,0 +1,13 @@
+<map id="cv::saliency::ObjectnessBING" name="cv::saliency::ObjectnessBING">
+<area shape="rect" id="Node000001" title="Objectness algorithms based on [3] [3] Cheng, Ming&#45;Ming, et al. &quot;BING: Binarized normed gradients for..." alt="" coords="5,792,208,1157"/>
+<area shape="rect" id="Node000002" href="$d1/d82/classcv_1_1saliency_1_1Objectness.html" title=" " alt="" coords="17,677,197,743"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,757,109,792,104,792,104,757"/>
+<area shape="rect" id="Node000003" href="$d9/dcd/classcv_1_1saliency_1_1Saliency.html" title=" " alt="" coords="17,523,197,628"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,641,109,677,104,677,104,641"/>
+<area shape="rect" id="Node000004" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="12,135,159,460"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,473,105,522,100,523,96,474"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="183,265,262,330"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="217,331,199,392,173,461,149,509,144,507,168,459,194,390,212,330"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="157,5,288,85"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="225,99,225,264,220,264,220,99"/>
+</map>

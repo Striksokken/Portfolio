@@ -1,0 +1,7 @@
+<map id="opencv2/core/parallel/parallel_backend.hpp" name="opencv2/core/parallel/parallel_backend.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="170,5,334,45"/>
+<area shape="rect" id="Node000002" href="$dd/d5c/parallel__for_8openmp_8hpp.html" title=" " alt="" coords="5,93,248,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,56,156,95,153,91,211,51"/>
+<area shape="rect" id="Node000003" href="$dd/d07/parallel__for_8tbb_8hpp.html" title=" " alt="" coords="272,93,483,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,51,351,91,348,95,290,56"/>
+</map>

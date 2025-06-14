@@ -1,0 +1,24 @@
+<map id="cv::SparseMat_&lt; _Tp &gt;" name="cv::SparseMat_&lt; _Tp &gt;">
+<area shape="rect" id="Node000001" title="Template sparse n&#45;dimensional array class derived from SparseMat." alt="" coords="5,1696,171,1961"/>
+<area shape="rect" id="Node000002" href="$dd/da9/classcv_1_1SparseMat.html" title="The class SparseMat represents multi&#45;dimensional sparse numerical arrays." alt="" coords="27,581,149,1647"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,1660,91,1696,85,1696,85,1660"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="74,261,105,327"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,327,89,351,89,409,90,565,84,565,84,409,84,351,85,327"/>
+<area shape="rect" id="Node000004" href="$d4/d8d/structcv_1_1SparseMat_1_1Hdr.html" title="the sparse matrix header" alt="" coords="149,433,285,519"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="92,327,97,368,104,389,114,408,138,432,134,436,110,411,99,391,92,369,86,327"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="211,520,155,796,150,795,206,518"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="245,133,297,199"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="256,200,242,230,232,262,220,342,218,417,212,417,215,342,227,261,237,228,251,198"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="323,261,474,327"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="290,197,318,236,333,249,330,253,314,239,285,201"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="499,261,648,327"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="538,329,482,371,416,412,359,436,302,456,300,451,357,431,413,407,479,367,535,325"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="579,133,629,199"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="599,200,588,246,582,244,594,198"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="355,133,477,199"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="468,206,535,259,532,263,465,210"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="405,213,403,223,400,261,395,261,397,222,399,212"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="405,5,427,71"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="419,71,419,117,413,117,413,71"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="369,329,273,424,269,420,365,325"/>
+</map>

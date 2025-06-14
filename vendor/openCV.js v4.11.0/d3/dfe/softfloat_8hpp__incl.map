@@ -1,0 +1,19 @@
+<map id="opencv2/core/softfloat.hpp" name="opencv2/core/softfloat.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="308,5,503,31"/>
+<area shape="rect" id="Node000002" href="$dc/dcc/cvdef_8h.html" title=" " alt="" coords="371,79,440,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,31,408,65,403,65,403,31"/>
+<area shape="rect" id="Node000003" href="$da/dd7/core_2include_2opencv2_2core_2version_8hpp.html" title=" " alt="" coords="5,152,195,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,103,163,151,162,146,370,98"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="219,152,277,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="381,106,287,149,285,144,379,102"/>
+<area shape="rect" id="Node000005" href="$d2/d10/core_2include_2opencv2_2core_2hal_2interface_8h.html" title=" " alt="" coords="302,152,509,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="408,104,408,138,403,138,403,104"/>
+<area shape="rect" id="Node000008" href="$d1/dac/cv__cpu__dispatch_8h.html" title=" " alt="" coords="533,152,675,177"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="438,102,559,145,558,150,436,107"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="699,152,765,177"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="441,97,685,149,684,154,440,102"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="322,225,393,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="400,179,375,216,370,213,395,176"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="417,225,487,251"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="415,176,439,212,435,215,411,179"/>
+</map>

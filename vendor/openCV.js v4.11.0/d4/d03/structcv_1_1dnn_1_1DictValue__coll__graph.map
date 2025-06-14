@@ -1,0 +1,30 @@
+<map id="cv::dnn::DictValue" name="cv::dnn::DictValue">
+<area shape="rect" id="Node000001" title="This struct stores the scalar value (or array) of one of the following type: double,..." alt="" coords="370,928,500,1253"/>
+<area shape="rect" id="Node000002" href="$d8/dd0/classcv_1_1AutoBuffer.html" title=" " alt="" coords="26,560,210,865"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,849,224,864,292,942,360,1013,356,1016,288,945,219,867,208,852"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="88,290,147,355"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="120,356,120,543,115,543,115,356"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="226,13,278,78"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="227,55,185,68,135,89,87,121,66,141,49,164,28,208,15,255,9,304,9,354,13,403,22,452,47,544,42,545,17,453,8,404,3,354,4,304,10,254,23,207,45,161,62,137,83,117,133,84,183,63,225,50"/>
+<area shape="rect" id="Node000005" href="$d8/dd0/classcv_1_1AutoBuffer.html" title="Automatically Allocated Buffer Class." alt="" coords="336,163,507,483"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="274,77,330,167,325,170,269,80"/>
+<area shape="rect" id="Node000007" href="$d8/dd0/classcv_1_1AutoBuffer.html" title=" " alt="" coords="234,560,428,865"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="239,79,222,119,209,163,194,252,188,323,193,393,209,482,230,544,224,546,204,483,188,394,183,323,189,252,204,162,217,117,234,77"/>
+<area shape="rect" id="Node000009" href="$d8/dd0/classcv_1_1AutoBuffer.html" title=" " alt="" coords="452,560,642,865"/>
+<area shape="poly" id="edge14_Node000009_Node000004" title=" " alt="" coords="279,48,330,58,396,79,463,112,494,134,521,161,557,208,584,251,602,293,613,335,618,378,617,425,604,536,603,545,598,544,599,536,612,425,613,378,608,336,597,295,579,254,553,211,517,164,491,138,461,117,394,84,329,63,278,53"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="331,470,321,484,302,512,279,538,264,547,250,550,237,554,223,562,211,573,208,569,220,558,235,549,249,545,262,542,276,534,297,509,317,481,326,467"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="403,496,395,537,389,561,383,559,390,535,398,495"/>
+<area shape="poly" id="edge15_Node000009_Node000005" title=" " alt="" coords="498,495,501,506,517,559,512,560,496,507,493,496"/>
+<area shape="rect" id="Node000006" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="682,13,719,78"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="683,67,521,227,517,224,680,63"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="375,865,388,912,383,913,370,866"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="248,290,307,355"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="266,356,254,393,243,438,238,487,243,536,245,543,240,545,238,536,232,487,238,437,249,392,261,355"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="504,866,490,913,485,912,499,865"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="742,290,821,355"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="771,357,733,440,706,490,677,538,656,562,654,564,650,561,651,558,673,534,702,487,728,438,766,354"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="743,5,874,85"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="806,99,787,290,782,290,800,99"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="666,680,708,745"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="688,746,678,804,669,836,656,867,626,914,590,958,515,1031,511,1027,586,954,622,911,651,864,664,834,673,803,682,745"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="cv::viz::Color" name="cv::viz::Color">
+<area shape="rect" id="Node000001" title="This class represents color in BGR order." alt="" coords="89,2701,227,3067"/>
+<area shape="rect" id="Node000002" href="$d1/da0/classcv_1_1Scalar__.html" title=" " alt="" coords="63,2347,253,2652"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,2666,161,2701,155,2701,155,2666"/>
+<area shape="rect" id="Node000003" href="$d6/dcf/classcv_1_1Vec.html" title=" " alt="" coords="47,1524,197,1929"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="135,1943,154,2346,148,2346,129,1943"/>
+<area shape="rect" id="Node000004" href="$de/de1/classcv_1_1Matx.html" title=" " alt="" coords="5,601,188,1007"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,1021,119,1524,114,1524,100,1021"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="34,303,93,369"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="65,369,63,462,67,577,68,584,63,585,62,577,58,462,59,369"/>
+<area shape="rect" id="Node000006" href="$de/de1/classcv_1_1Matx.html" title="Template class for small matrices whose type and size are known at compilation time." alt="" coords="188,133,347,539"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="185,499,158,564,145,602,140,600,153,562,180,497"/>
+<area shape="rect" id="Node000009" href="$de/de1/classcv_1_1Matx.html" title=" " alt="" coords="245,601,407,1007"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="279,552,282,577,285,600,280,601,277,578,274,553"/>
+<area shape="rect" id="Node000007" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="313,5,350,71"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="327,72,317,118,312,117,322,70"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="353,68,363,94,392,227,399,282,401,334,395,441,379,578,378,585,373,585,374,577,389,441,396,334,394,282,387,228,358,95,348,70"/>
+<area shape="rect" id="Node000008" href="$d6/dcf/classcv_1_1Vec.html" title="Template class for short numerical vectors, a partial case of Matx." alt="" coords="187,1056,321,1461"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="185,1439,170,1486,160,1524,155,1523,165,1485,180,1437"/>
+<area shape="rect" id="Node000011" href="$d6/dcf/classcv_1_1Vec.html" title=" " alt="" coords="221,1524,349,1929"/>
+<area shape="poly" id="edge14_Node000011_Node000008" title=" " alt="" coords="268,1475,270,1500,272,1524,266,1524,265,1500,263,1475"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="294,1021,289,1056,283,1055,289,1020"/>
+<area shape="poly" id="edge13_Node000011_Node000009" title=" " alt="" coords="349,1020,355,1131,357,1252,354,1377,343,1500,340,1524,335,1523,338,1500,348,1377,352,1252,349,1131,344,1020"/>
+<area shape="rect" id="Node000010" href="$d1/da0/classcv_1_1Scalar__.html" title="Template class for a 4&#45;element vector derived from Vec." alt="" coords="181,1979,372,2284"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="226,2298,210,2347,205,2345,221,2297"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="283,1943,282,1979,277,1978,278,1943"/>
+</map>

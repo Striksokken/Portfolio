@@ -1,0 +1,5 @@
+<map id="cv::cuda::subtractWithScalar" name="cv::cuda::subtractWithScalar">
+<area shape="rect" id="Node000001" title="Computes matrix&#45;scalar difference." alt="" coords="5,5,212,31"/>
+<area shape="rect" id="Node000002" href="$d8/d34/group__cudaarithm__elem.html#ga6eab60fc250059e2fda79c5636bd067f" title="Computes a matrix&#45;matrix or matrix&#45;scalar difference." alt="" coords="260,5,396,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,15,246,15,246,21,213,21"/>
+</map>

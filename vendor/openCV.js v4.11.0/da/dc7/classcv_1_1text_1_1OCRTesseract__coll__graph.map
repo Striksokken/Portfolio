@@ -1,0 +1,5 @@
+<map id="cv::text::OCRTesseract" name="cv::text::OCRTesseract">
+<area shape="rect" id="Node000001" title="OCRTesseract class provides an interface with the tesseract&#45;ocr API (v3.02.02) in C++." alt="" coords="5,159,164,324"/>
+<area shape="rect" id="Node000002" href="$de/d3a/classcv_1_1text_1_1BaseOCR.html" title=" " alt="" coords="19,5,150,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,125,87,159,82,159,82,125"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="opencv2/videostab/log.hpp" name="opencv2/videostab/log.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,5,222,31"/>
+<area shape="rect" id="Node000002" href="$da/dde/stabilizer_8hpp.html" title=" " alt="" coords="5,167,241,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,43,92,60,83,80,79,99,83,118,97,144,114,165,110,168,92,147,78,120,74,99,78,78,88,57,101,39"/>
+<area shape="rect" id="Node000004" href="$d0/df9/wobble__suppression_8hpp.html" title=" " alt="" coords="93,79,289,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="144,39,177,77,173,80,140,43"/>
+<area shape="rect" id="Node000003" href="$dd/d91/videostab_8hpp.html" title=" " alt="" coords="37,240,210,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,206,126,240,121,240,121,206"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="168,131,136,168,132,165,164,127"/>
+</map>

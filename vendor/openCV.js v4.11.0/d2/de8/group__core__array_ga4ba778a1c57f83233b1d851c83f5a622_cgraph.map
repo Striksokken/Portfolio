@@ -1,0 +1,6 @@
+<map id="cv::batchDistance" name="cv::batchDistance">
+<area shape="rect" id="Node000001" title="naive nearest neighbor finder" alt="" coords="5,29,143,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="47,31,41,21,44,11,55,5,74,3,96,6,106,15,102,19,94,11,74,8,57,10,48,15,46,20,51,28"/>
+<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="191,29,285,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="143,39,177,39,177,45,143,45"/>
+</map>

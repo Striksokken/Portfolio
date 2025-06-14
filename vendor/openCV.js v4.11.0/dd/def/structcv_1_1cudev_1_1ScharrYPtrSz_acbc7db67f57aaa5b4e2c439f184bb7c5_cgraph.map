@@ -1,0 +1,23 @@
+<map id="cv::cudev::ScharrYPtrSz::assignTo" name="cv::cudev::ScharrYPtrSz::assignTo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,112,177,152"/>
+<area shape="rect" id="Node000002" href="$df/dfc/group__cudev.html#ga46e7e74bf3b3357fa41e0d0d1c2389bc" title=" " alt="" coords="225,119,373,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,129,212,129,212,135,177,135"/>
+<area shape="rect" id="Node000003" href="$df/dfc/group__cudev.html#gad310f014c42fc7376e5a41fdb62818d4" title=" " alt="" coords="421,119,576,145"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,129,408,129,408,135,373,135"/>
+<area shape="rect" id="Node000004" href="$d3/d1c/classcv_1_1cudev_1_1GpuMat__.html#a9d88407df08c49f1de5d2d062099c1fc" title="allocates new GpuMat data unless the GpuMat already has specified size and type" alt="" coords="644,5,792,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="517,117,564,87,623,55,639,48,641,53,625,60,567,91,520,121"/>
+<area shape="rect" id="Node000005" href="$df/dfc/group__cudev.html#gad6dab113b0778bcf03f9d0ebfe78ad10" title=" " alt="" coords="649,70,787,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="555,117,647,96,648,101,556,122"/>
+<area shape="rect" id="Node000007" href="$df/dfc/group__cudev.html#gad690da4acd9ac0de7ab244ee1c5394b4" title=" " alt="" coords="645,119,791,145"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="576,129,631,129,631,135,576,135"/>
+<area shape="rect" id="Node000009" href="$d6/df1/structcv_1_1cuda_1_1StreamAccessor.html#a5830d99635f08b462a429771bfad71a9" title=" " alt="" coords="624,169,812,209"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="549,142,629,163,627,168,547,147"/>
+<area shape="rect" id="Node000010" href="$df/dfc/group__cudev.html#gaa3dcb9b45488dc7770dd40609724b531" title=" " alt="" coords="644,234,792,259"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="516,143,563,180,625,219,646,227,644,232,623,224,559,185,512,147"/>
+<area shape="rect" id="Node000006" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#a8d71e329800db50f164dd41cc6699f2a" title=" " alt="" coords="865,56,1083,96"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="787,78,851,77,851,82,788,84"/>
+<area shape="rect" id="Node000008" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#abaa5f1be07d953c5035bdbf9c9d8231f" title=" " alt="" coords="861,120,1087,160"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="792,132,847,133,847,139,792,137"/>
+<area shape="rect" id="Node000011" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#a17d5c5dba728eeaa99bbc55f697245d4" title=" " alt="" coords="860,227,1088,267"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="792,244,846,244,846,249,792,249"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="cv::datasets::MSM_middleburyObj" name="cv::datasets::MSM_middleburyObj">
+<area shape="rect" id="Node000001" title=" " alt="" coords="151,1084,386,1149"/>
+<area shape="rect" id="Node000002" href="$de/d47/structcv_1_1datasets_1_1Object.html" title=" " alt="" coords="5,771,148,837"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,849,107,896,131,952,162,1008,201,1058,228,1082,224,1086,197,1062,157,1011,126,954,102,898,86,851"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="172,771,251,837"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,837,199,883,196,939,199,1000,205,1030,215,1059,221,1069,216,1072,210,1061,200,1032,194,1001,190,939,194,882,201,837"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="146,296,277,376"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="214,390,214,771,209,771,209,390"/>
+<area shape="rect" id="Node000005" href="$de/de1/classcv_1_1Matx.html" title=" " alt="" coords="373,601,548,1007"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="385,1008,348,1062,335,1075,331,1072,344,1058,380,1005"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="301,303,359,369"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="334,369,339,510,341,711,334,914,325,998,311,1061,307,1071,302,1069,306,1059,320,997,329,914,336,711,334,510,329,369"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="338,368,353,446,375,538,389,585,384,586,370,539,348,447,333,369"/>
+<area shape="rect" id="Node000007" href="$de/de1/classcv_1_1Matx.html" title="Template class for small matrices whose type and size are known at compilation time." alt="" coords="384,133,543,539"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="465,552,464,601,459,601,459,552"/>
+<area shape="rect" id="Node000008" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="445,5,482,71"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="466,71,466,117,461,117,461,71"/>
+</map>

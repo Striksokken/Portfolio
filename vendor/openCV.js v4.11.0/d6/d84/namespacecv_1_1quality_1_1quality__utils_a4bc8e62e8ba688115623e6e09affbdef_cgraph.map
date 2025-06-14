@@ -1,0 +1,21 @@
+<map id="cv::quality::quality_utils::expand_mat" name="cv::quality::quality_utils::expand_mat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,171,152,211"/>
+<area shape="rect" id="Node000002" href="$d6/d84/namespacecv_1_1quality_1_1quality__utils.html#ae3019e362fe2aab8d86e7bca8c8064e4" title=" " alt="" coords="200,171,344,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,189,186,189,186,194,152,194"/>
+<area shape="rect" id="Node000003" href="$d3/d63/classcv_1_1Mat.html#adf88c60c5b4980e05bb556080916978b" title="Converts an array to another data type with optional scaling." alt="" coords="413,5,553,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="282,170,323,105,354,70,390,40,401,34,404,39,394,44,358,74,327,109,286,172"/>
+<area shape="rect" id="Node000004" href="$d7/d45/classcv_1_1UMat.html#a6f11287e53debd8d460fc053dc88feaa" title="converts matrix to another datatype with optional scaling. See cvConvertScale." alt="" coords="408,55,559,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="290,169,333,128,361,107,391,89,406,82,408,87,393,94,364,112,337,133,294,173"/>
+<area shape="rect" id="Node000005" href="$d4/d32/classcv_1_1__InputArray.html#a9c09739ca3e0ce212e2ab8374aa2f195" title=" " alt="" coords="397,104,569,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="315,169,391,138,416,130,417,136,393,143,317,174"/>
+<area shape="rect" id="Node000006" href="$d4/d32/classcv_1_1__InputArray.html#af38304bf253a127c66685593237dee29" title=" " alt="" coords="392,153,575,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="344,180,378,176,379,181,345,185"/>
+<area shape="rect" id="Node000007" href="$d4/d32/classcv_1_1__InputArray.html#a7157baa2f1e8801053a5ff2a56006448" title=" " alt="" coords="402,203,565,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="345,197,389,202,388,207,344,202"/>
+<area shape="rect" id="Node000008" href="$d4/d32/classcv_1_1__InputArray.html#a7e1555ee58814435df26535ff9380e2e" title=" " alt="" coords="397,252,569,277"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="321,209,393,237,421,246,419,251,391,242,319,214"/>
+<area shape="rect" id="Node000009" href="$d3/d63/classcv_1_1Mat.html#af2d2652e552d7de635988f18a84b53e5" title="Returns the type of a matrix element." alt="" coords="430,301,537,327"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="294,209,337,248,393,286,417,297,415,301,391,291,334,253,291,213"/>
+<area shape="rect" id="Node000010" href="$d7/d45/classcv_1_1UMat.html#a65194dd922bef59b349a4148cd39d675" title="returns element type, similar to CV_MAT_TYPE(cvmat&#45;&gt;type)" alt="" coords="425,351,541,376"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="286,210,328,273,358,307,393,336,413,346,411,351,391,340,355,311,324,276,282,213"/>
+</map>

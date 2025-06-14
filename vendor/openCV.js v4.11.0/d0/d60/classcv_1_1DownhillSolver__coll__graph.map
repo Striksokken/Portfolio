@@ -1,0 +1,7 @@
+<map id="cv::DownhillSolver" name="cv::DownhillSolver">
+<area shape="rect" id="Node000001" title="This class is used to perform the non&#45;linear non&#45;constrained minimization of a function,..." alt="" coords="15,572,150,677"/>
+<area shape="rect" id="Node000002" href="$df/d11/classcv_1_1MinProblemSolver.html" title="Basic interface for all solvers." alt="" coords="5,379,160,524"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,538,85,572,80,572,80,538"/>
+<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="9,5,156,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,344,85,379,80,379,80,344"/>
+</map>

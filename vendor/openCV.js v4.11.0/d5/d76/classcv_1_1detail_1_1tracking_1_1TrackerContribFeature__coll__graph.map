@@ -1,0 +1,9 @@
+<map id="cv::detail::tracking::TrackerContribFeature" name="cv::detail::tracking::TrackerContribFeature">
+<area shape="rect" id="Node000001" title="Abstract base class for TrackerContribFeature that represents the feature." alt="" coords="26,317,218,457"/>
+<area shape="rect" id="Node000002" href="$d9/d84/classcv_1_1detail_1_1tracking_1_1TrackerFeature.html" title="Abstract base class for TrackerFeature that represents the feature." alt="" coords="5,135,151,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,268,109,317,103,318,92,269"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="175,162,253,227"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,229,165,304,160,301,196,226"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="149,5,279,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="217,100,217,162,211,162,211,100"/>
+</map>

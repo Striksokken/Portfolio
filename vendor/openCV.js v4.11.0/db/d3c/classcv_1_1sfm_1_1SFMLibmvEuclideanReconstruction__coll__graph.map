@@ -1,0 +1,5 @@
+<map id="cv::sfm::SFMLibmvEuclideanReconstruction" name="cv::sfm::SFMLibmvEuclideanReconstruction">
+<area shape="rect" id="Node000001" title="SFMLibmvEuclideanReconstruction class provides an interface with the Libmv Structure From Motion pipe..." alt="" coords="5,319,217,599"/>
+<area shape="rect" id="Node000002" href="$d7/db1/classcv_1_1sfm_1_1BaseSFM.html" title="base class BaseSFM declares a common API that would be used in a typical scene reconstruction scenari..." alt="" coords="5,5,217,271"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,284,114,319,109,319,109,284"/>
+</map>

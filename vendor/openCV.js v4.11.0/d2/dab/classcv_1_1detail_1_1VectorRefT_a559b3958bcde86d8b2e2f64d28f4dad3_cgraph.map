@@ -1,0 +1,12 @@
+<map id="cv::detail::VectorRefT::ptr" name="cv::detail::VectorRefT::ptr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,191,56"/>
+<area shape="rect" id="Node000002" href="$d2/dab/classcv_1_1detail_1_1VectorRefT.html#aec211be61313bf0b64415e896ac3abc0" title=" " alt="" coords="239,23,399,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,41,225,41,225,46,191,46"/>
+<area shape="rect" id="Node000003" href="$d3/dce/namespacecv_1_1util.html#a71f02f915a836dd4fa73b9dbc76d297b" title=" " alt="" coords="447,5,541,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="398,29,433,24,434,29,399,34"/>
+<area shape="rect" id="Node000005" href="$d3/dce/namespacecv_1_1util.html#a40544b3ca23b3917f2a5de6b0273079d" title=" " alt="" coords="589,55,737,80"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="399,46,575,59,575,64,399,52"/>
+<area shape="rect" id="Node000004" href="$d3/dce/namespacecv_1_1util.html#ad9437cba1b6142cf823005f189259b8c" title=" " alt="" coords="608,5,719,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="542,15,594,15,594,21,542,21"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="539,28,606,48,605,53,537,33"/>
+</map>

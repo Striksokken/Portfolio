@@ -1,0 +1,18 @@
+<map id="cv::detail::CylindricalPortraitWarper" name="cv::detail::CylindricalPortraitWarper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,1127,321,1227"/>
+<area shape="rect" id="Node000002" href="$d6/d65/classcv_1_1detail_1_1RotationWarperBase.html" title=" " alt="" coords="95,817,346,1077"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,1092,223,1127,218,1127,218,1092"/>
+<area shape="rect" id="Node000003" href="$da/db8/classcv_1_1detail_1_1RotationWarper.html" title="Rotation&#45;only model image warper interface." alt="" coords="5,207,188,432"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,446,89,517,92,595,101,676,118,754,142,816,137,818,113,755,96,677,87,596,84,517,84,446"/>
+<area shape="rect" id="Node000007" href="$d6/d65/classcv_1_1detail_1_1RotationWarperBase.html" title="Base class for rotation&#45;based warper using a detail::ProjectorBase_ derived class." alt="" coords="128,495,329,755"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="153,443,175,493,170,495,148,446"/>
+<area shape="rect" id="Node000004" href="$df/d3f/structcv_1_1detail_1_1CylindricalPortraitProjector.html" title=" " alt="" coords="361,575,560,675"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="464,675,457,735,448,766,434,795,401,836,361,871,358,867,397,832,429,792,443,764,452,733,459,675"/>
+<area shape="rect" id="Node000005" href="$dc/d2c/structcv_1_1detail_1_1ProjectorBase.html" title="Base class for warping logic implementation." alt="" coords="375,287,546,352"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="463,366,463,575,458,575,458,366"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="439,5,482,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="463,71,463,270,458,270,458,71"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="225,768,225,779,224,817,219,817,219,779,220,768"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="217,287,240,352"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="231,352,231,479,226,479,226,352"/>
+</map>

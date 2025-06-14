@@ -1,0 +1,13 @@
+<map id="cv::_OutputArray" name="cv::_OutputArray">
+<area shape="rect" id="Node000001" title="This type is very similar to InputArray except that it is used for input/output and output function p..." alt="" coords="35,871,161,1176"/>
+<area shape="rect" id="Node000002" href="$d4/d32/classcv_1_1__InputArray.html" title="This is the proxy class for passing read&#45;only input arrays into OpenCV functions." alt="" coords="37,476,159,821"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,836,101,870,95,870,95,836"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,248,36,313"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="27,313,49,452,50,459,45,460,43,452,22,314"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="77,248,119,313"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="101,314,101,460,95,460,95,314"/>
+<area shape="rect" id="Node000005" href="$d6/d50/classcv_1_1Size__.html" title="Template class for specifying the size of an image or rectangle." alt="" coords="144,148,337,413"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="192,414,168,476,163,474,187,412"/>
+<area shape="rect" id="Node000006" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="222,5,259,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="243,71,243,132,238,132,238,71"/>
+</map>

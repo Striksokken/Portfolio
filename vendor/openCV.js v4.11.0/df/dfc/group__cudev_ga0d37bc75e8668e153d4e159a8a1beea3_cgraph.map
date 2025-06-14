@@ -1,0 +1,21 @@
+<map id="cv::cudev::warpAffinePtr" name="cv::cudev::warpAffinePtr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,184,81"/>
+<area shape="rect" id="Node000002" href="$df/dfc/group__cudev.html#gadd9331786dac6937d97e77e929e9fc19" title=" " alt="" coords="232,19,387,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,53,222,44,223,49,169,59"/>
+<area shape="rect" id="Node000004" href="$df/dfc/group__cudev.html#gab42554c6ffe36361771806d36f34352d" title=" " alt="" coords="234,80,385,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,76,220,80,220,85,184,81"/>
+<area shape="rect" id="Node000003" href="$d0/d60/classcv_1_1cuda_1_1GpuMat.html#a400fc4c7880bf132f2ffea03892486b0" title=" " alt="" coords="435,5,661,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,24,421,22,421,28,387,30"/>
+<area shape="rect" id="Node000005" href="$df/dfc/group__cudev.html#gad6dab113b0778bcf03f9d0ebfe78ad10" title=" " alt="" coords="479,55,617,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="384,82,465,73,465,79,385,87"/>
+<area shape="rect" id="Node000007" href="$df/dfc/group__cudev.html#gad690da4acd9ac0de7ab244ee1c5394b4" title=" " alt="" coords="475,104,621,129"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="385,98,462,105,461,111,384,103"/>
+<area shape="rect" id="Node000009" href="$df/dfc/group__cudev.html#gaa3dcb9b45488dc7770dd40609724b531" title=" " alt="" coords="474,160,622,185"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="342,103,436,138,486,154,485,159,434,143,341,108"/>
+<area shape="rect" id="Node000006" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#a8d71e329800db50f164dd41cc6699f2a" title=" " alt="" coords="714,33,933,73"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="617,61,700,57,701,62,618,66"/>
+<area shape="rect" id="Node000008" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#abaa5f1be07d953c5035bdbf9c9d8231f" title=" " alt="" coords="710,97,937,137"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="622,114,696,114,696,119,622,119"/>
+<area shape="rect" id="Node000010" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#a17d5c5dba728eeaa99bbc55f697245d4" title=" " alt="" coords="709,161,937,201"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="622,172,695,174,695,180,622,177"/>
+</map>

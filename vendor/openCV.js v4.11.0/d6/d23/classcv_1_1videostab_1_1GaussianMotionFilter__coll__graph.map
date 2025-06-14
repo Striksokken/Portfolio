@@ -1,0 +1,7 @@
+<map id="cv::videostab::GaussianMotionFilter" name="cv::videostab::GaussianMotionFilter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,292,221,452"/>
+<area shape="rect" id="Node000002" href="$dd/df4/classcv_1_1videostab_1_1MotionFilterBase.html" title=" " alt="" coords="5,139,224,244"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,258,117,292,112,292,112,258"/>
+<area shape="rect" id="Node000003" href="$d0/df6/classcv_1_1videostab_1_1IMotionStabilizer.html" title=" " alt="" coords="5,5,224,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,104,117,138,112,138,112,104"/>
+</map>

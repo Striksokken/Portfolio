@@ -1,0 +1,5 @@
+<map id="cv::videostab::KeypointBasedMotionEstimator" name="cv::videostab::KeypointBasedMotionEstimator">
+<area shape="rect" id="Node000001" title="Describes a global 2D motion estimation method which uses keypoints detection and optical flow for ma..." alt="" coords="5,233,249,533"/>
+<area shape="rect" id="Node000002" href="$d4/dd1/classcv_1_1videostab_1_1ImageMotionEstimatorBase.html" title="Base class for global 2D motion estimation methods which take frames as input." alt="" coords="12,5,243,185"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,199,130,233,125,233,125,199"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cv::segmentation::IntelligentScissorsMB::applyImageFeatures" name="cv::segmentation::IntelligentScissorsMB::applyImageFeatures">
+<area shape="rect" id="Node000001" title="Specify custom features of input image." alt="" coords="5,5,243,45"/>
+<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="291,13,385,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,23,277,23,277,28,243,28"/>
+</map>

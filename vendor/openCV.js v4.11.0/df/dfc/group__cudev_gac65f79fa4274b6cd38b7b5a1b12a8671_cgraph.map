@@ -1,0 +1,10 @@
+<map id="cv::cudev::vmax4" name="cv::cudev::vmax4">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,140,31"/>
+<area shape="rect" id="Node000002" href="$df/dfc/group__cudev.html#ga07ed1834e5be35f07abcad584c884655" title=" " alt="" coords="188,5,339,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,15,175,15,175,21,140,21"/>
+<area shape="rect" id="Node000003" href="$df/dfc/group__cudev.html#ga4db95f1f4957d445cf44f3b971696012" title=" " alt="" coords="577,5,712,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,15,563,15,563,21,339,21"/>
+<area shape="rect" id="Node000004" href="$df/dfc/group__cudev.html#ga59bddb10bcef75d257c5ebe2e7b04b7d" title=" " alt="" coords="387,31,529,56"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="339,25,374,30,373,35,339,30"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="529,31,563,26,564,32,530,36"/>
+</map>

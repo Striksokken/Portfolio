@@ -1,0 +1,17 @@
+<map id="opencv2/gapi/streaming/onevpl/device_selector_interface.hpp" name="opencv2/gapi/streaming/onevpl/device_selector_interface.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="128,5,307,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,196,64,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,53,81,75,61,91,44,109,35,127,31,145,32,182,27,182,26,145,30,125,39,107,57,87,79,71,127,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="53,115,104,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,62,108,110,105,106,177,58"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="377,196,436,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="308,44,336,53,364,66,389,84,409,107,417,125,420,145,417,183,411,182,415,145,412,127,404,109,385,88,361,71,334,58,306,49"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="331,115,394,141"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="260,58,335,106,332,110,257,62"/>
+<area shape="rect" id="Node000006" href="$de/d78/accel__types_8hpp.html" title=" " alt="" coords="128,108,307,148"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="220,60,220,94,215,94,215,60"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="175,150,75,193,73,188,173,146"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="264,146,367,188,365,193,262,150"/>
+<area shape="rect" id="Node000007" href="$da/dfe/exports_8hpp.html" title=" " alt="" coords="107,196,328,221"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="220,148,220,182,215,182,215,148"/>
+</map>

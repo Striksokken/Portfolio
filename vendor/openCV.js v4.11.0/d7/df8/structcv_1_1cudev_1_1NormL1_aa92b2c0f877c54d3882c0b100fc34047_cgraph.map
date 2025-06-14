@@ -1,0 +1,7 @@
+<map id="cv::cudev::NormL1::reduceBlock" name="cv::cudev::NormL1::reduceBlock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,155,45"/>
+<area shape="rect" id="Node000002" href="$df/dfc/group__cudev.html#ga3619872ab552bec4e3574fb745b91a79" title=" " alt="" coords="203,13,376,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,23,189,23,189,28,155,28"/>
+<area shape="rect" id="Node000003" href="$d5/de6/group__cudaarithm__reduce.html#ga21d57f661db7be093caf2c4378be2007" title="Reduces a matrix to a vector." alt="" coords="424,13,551,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="376,23,410,23,410,28,376,28"/>
+</map>

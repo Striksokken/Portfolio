@@ -1,0 +1,18 @@
+<map id="cv::gapi::own::Mat::operator=" name="cv::gapi::own::Mat::operator=">
+<area shape="rect" id="Node000001" title="Sets all or some of the array elements to the specified value." alt="" coords="5,150,145,190"/>
+<area shape="rect" id="Node000002" href="$d0/d06/namespacecv_1_1gapi_1_1own_1_1detail.html#ade6038d3a875aa1114b5ddeaaa696e79" title=" " alt="" coords="201,22,353,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,148,138,110,192,72,203,66,206,70,195,76,141,114,99,152"/>
+<area shape="rect" id="Node000005" href="$d1/d24/classcv_1_1gapi_1_1own_1_1Mat.html#a35bba625657a85d6ccd38e8fa8624f75" title="Returns the number of matrix channels." alt="" coords="207,86,347,126"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="138,147,199,128,201,133,140,152"/>
+<area shape="rect" id="Node000006" href="$d1/d24/classcv_1_1gapi_1_1own_1_1Mat.html#ac17970b7962e231610288a8b0f035161" title="Returns the depth of a matrix element." alt="" coords="207,150,347,190"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="146,167,193,167,193,173,146,173"/>
+<area shape="rect" id="Node000007" href="$d1/d24/classcv_1_1gapi_1_1own_1_1Mat.html#ab95b079bdf39a4b98d644ecc1abc19a2" title="Returns a pointer to the specified matrix row." alt="" coords="193,239,360,264"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="127,188,232,231,230,236,125,193"/>
+<area shape="rect" id="Node000008" href="$d1/d24/classcv_1_1gapi_1_1own_1_1Mat.html#a93dbce66072b6125bf87634f230f9470" title="Returns the total number of array elements." alt="" coords="207,289,347,329"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="96,188,139,231,195,274,205,280,202,285,192,279,135,235,92,192"/>
+<area shape="rect" id="Node000003" href="$d6/d7d/namespacecv_1_1gapi_1_1own.html#af2332e532138858c371946406dffc6c6" title=" " alt="" coords="413,5,573,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="353,31,399,26,399,31,354,36"/>
+<area shape="rect" id="Node000004" href="$d6/d7d/namespacecv_1_1gapi_1_1own.html#a999b49ba7fbc58c0bdda656350b4697a" title=" " alt="" coords="408,55,577,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="354,48,394,53,394,58,353,54"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="244,240,237,230,240,220,254,214,277,212,305,216,316,225,312,229,302,221,277,217,255,219,244,224,242,230,248,237"/>
+</map>

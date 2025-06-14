@@ -1,0 +1,6 @@
+<map id="cv::gapi::own::Mat::Mat" name="cv::gapi::own::Mat::Mat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,179,55"/>
+<area shape="rect" id="Node000002" href="$d1/d24/classcv_1_1gapi_1_1own_1_1Mat.html#ab95b079bdf39a4b98d644ecc1abc19a2" title="Returns a pointer to the specified matrix row." alt="" coords="227,29,393,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,39,213,39,213,45,179,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="275,31,267,21,271,11,286,5,310,3,340,6,352,15,349,20,338,11,310,8,287,10,275,15,272,20,279,28"/>
+</map>

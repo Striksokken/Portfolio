@@ -1,0 +1,7 @@
+<map id="cv::legacy::TrackerBoosting::Params" name="cv::legacy::TrackerBoosting::Params">
+<area shape="rect" id="Node000001" title=" " alt="" coords="26,163,215,283"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="17,71,16,104,24,138,30,148,26,151,20,140,11,105,12,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="201,5,243,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,72,210,105,195,140,189,151,184,148,190,137,205,104,214,70"/>
+</map>

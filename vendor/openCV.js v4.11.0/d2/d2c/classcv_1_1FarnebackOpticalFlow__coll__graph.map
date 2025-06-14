@@ -1,0 +1,7 @@
+<map id="cv::FarnebackOpticalFlow" name="cv::FarnebackOpticalFlow">
+<area shape="rect" id="Node000001" title="Class computing a dense optical flow using the Gunnar Farneback&#39;s algorithm." alt="" coords="5,512,184,797"/>
+<area shape="rect" id="Node000002" href="$df/dde/classcv_1_1DenseOpticalFlow.html" title=" " alt="" coords="17,379,172,464"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,478,97,512,92,512,92,478"/>
+<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="21,5,168,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,345,97,379,92,379,92,345"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="cv::ppf_match_3d::PoseCluster3D" name="cv::ppf_match_3d::PoseCluster3D">
+<area shape="rect" id="Node000001" title="When multiple poses (see Pose3D) are grouped together (contribute to the same transformation) pose cl..." alt="" coords="183,389,414,615"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="69,261,249,327"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,325,216,374,211,377,178,328"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,133,155,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,197,122,236,129,246,124,249,118,239,95,200"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="149,5,171,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,59,111,121,107,118,146,56"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="179,133,301,199"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="174,56,213,118,209,121,169,59"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="216,212,200,239,183,263,179,260,195,236,212,209"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="273,261,325,327"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="301,327,301,373,296,373,296,327"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="395,261,426,327"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="401,328,384,366,379,376,374,374,379,364,396,326"/>
+</map>

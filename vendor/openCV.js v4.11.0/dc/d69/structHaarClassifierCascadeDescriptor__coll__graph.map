@@ -1,0 +1,10 @@
+<map id="HaarClassifierCascadeDescriptor" name="HaarClassifierCascadeDescriptor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="153,331,379,396"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,79,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="33,72,22,111,15,158,18,207,24,230,35,252,55,277,80,298,108,315,138,329,136,334,106,320,77,302,51,281,30,255,19,232,13,208,10,158,17,110,28,70"/>
+<area shape="rect" id="Node000003" href="$d8/dde/structNcvSize32u.html" title=" " alt="" coords="223,148,339,253"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="80,62,210,149,207,153,77,66"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="273,254,270,278,268,314,263,314,265,277,268,253"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="378,168,421,233"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="400,234,391,272,372,308,358,323,354,319,368,305,386,270,394,233"/>
+</map>

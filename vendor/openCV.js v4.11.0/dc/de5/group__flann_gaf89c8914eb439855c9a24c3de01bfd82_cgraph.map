@@ -1,0 +1,9 @@
+<map id="cv::flann::hierarchicalClustering" name="cv::flann::hierarchicalClustering">
+<area shape="rect" id="Node000001" title="Clusters features using hierarchical k&#45;means algorithm." alt="" coords="5,55,232,80"/>
+<area shape="rect" id="Node000002" href="$d3/d63/classcv_1_1Mat.html#aa90cea495029c7d1ee0a41361ccecdf3" title="Reports whether the matrix is continuous or not." alt="" coords="280,5,441,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,52,284,31,285,36,182,57"/>
+<area shape="rect" id="Node000003" href="$d3/d63/classcv_1_1Mat.html#a8b2912f6a6f5d55a3c9a7aae9134d862" title="Returns a pointer to the specified matrix row." alt="" coords="313,55,408,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,65,299,65,299,70,232,70"/>
+<area shape="rect" id="Node000004" href="$d3/d63/classcv_1_1Mat.html#af2d2652e552d7de635988f18a84b53e5" title="Returns the type of a matrix element." alt="" coords="307,104,414,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,77,294,101,293,106,181,83"/>
+</map>

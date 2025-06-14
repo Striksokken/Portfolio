@@ -1,0 +1,7 @@
+<map id="cv::DetectionBasedTracker::InnerParameters" name="cv::DetectionBasedTracker::InnerParameters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="63,192,248,272"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="15,71,11,119,14,144,24,167,51,193,47,197,20,169,9,145,5,119,10,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="270,5,313,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,71,286,120,278,146,264,170,252,183,248,180,260,166,273,144,281,119,288,70"/>
+</map>

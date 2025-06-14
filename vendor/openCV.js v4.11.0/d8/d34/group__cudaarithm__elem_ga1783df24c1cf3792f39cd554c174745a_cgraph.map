@@ -1,0 +1,5 @@
+<map id="cv::cuda::bitwise_or_with_scalar" name="cv::cuda::bitwise_or_with_scalar">
+<area shape="rect" id="Node000001" title="Performs a per&#45;element bitwise disjunction of a matrix and scalar." alt="" coords="5,5,156,45"/>
+<area shape="rect" id="Node000002" href="$d8/d34/group__cudaarithm__elem.html#gafd098ee3e51c68daa793999c1da3dfb7" title="Performs a per&#45;element bitwise disjunction of two matrices (or of matrix and scalar)." alt="" coords="204,13,355,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,23,190,23,190,28,156,28"/>
+</map>

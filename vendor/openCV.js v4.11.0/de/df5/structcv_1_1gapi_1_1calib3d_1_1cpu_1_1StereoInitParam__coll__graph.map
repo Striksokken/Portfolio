@@ -1,0 +1,7 @@
+<map id="cv::gapi::calib3d::cpu::StereoInitParam" name="cv::gapi::calib3d::cpu::StereoInitParam">
+<area shape="rect" id="Node000001" title="Structure for the Stereo operation initialization parameters." alt="" coords="17,148,166,248"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="18,71,19,97,25,123,29,133,25,136,19,125,13,98,13,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="133,5,191,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,72,135,125,131,134,126,132,130,123,150,70"/>
+</map>

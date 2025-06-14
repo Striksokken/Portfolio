@@ -1,0 +1,5 @@
+<map id="cv::ximgproc::StructuredEdgeDetection" name="cv::ximgproc::StructuredEdgeDetection">
+<area shape="rect" id="Node000001" title="Class implementing edge detection algorithm from dollar2013 :" alt="" coords="5,379,177,499"/>
+<area shape="rect" id="Node000002" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="18,5,165,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,345,94,378,89,378,89,345"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="cv::datasets::AR_hmdbObj" name="cv::datasets::AR_hmdbObj">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,277,279,343"/>
+<area shape="rect" id="Node000002" href="$de/d47/structcv_1_1datasets_1_1Object.html" title=" " alt="" coords="5,135,148,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,209,164,275,160,279,108,212"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="172,135,203,200"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,200,190,261,185,261,185,200"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="227,135,305,200"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,202,223,255,217,265,213,262,218,252,247,199"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="201,5,331,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="269,99,269,134,263,134,263,99"/>
+</map>

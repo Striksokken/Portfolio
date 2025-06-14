@@ -1,0 +1,15 @@
+<map id="opencv2/core/cuda/vec_traits.hpp" name="opencv2/core/cuda/vec_traits.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="199,5,370,45"/>
+<area shape="rect" id="Node000002" href="$d5/dd1/border__interpolate_8hpp.html" title=" " alt="" coords="5,181,196,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,53,156,71,128,95,116,115,108,138,103,181,98,181,103,137,111,113,124,92,153,66,187,48"/>
+<area shape="rect" id="Node000003" href="$d3/d10/filters_8hpp.html" title=" " alt="" coords="221,189,434,214"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="307,56,323,93,331,146,331,189,326,189,326,146,318,94,302,58"/>
+<area shape="rect" id="Node000004" href="$d7/dfd/modules_2core_2include_2opencv2_2core_2cuda_2functional_8hpp.html" title=" " alt="" coords="403,101,644,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="351,47,492,98,491,103,349,52"/>
+<area shape="rect" id="Node000006" href="$d4/da9/modules_2core_2include_2opencv2_2core_2cuda_2vec__math_8hpp.html" title=" " alt="" coords="138,93,309,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="265,58,239,95,235,92,261,55"/>
+<area shape="rect" id="Node000005" href="$d7/d23/modules_2core_2include_2opencv2_2core_2cuda_2vec__distance_8hpp.html" title=" " alt="" coords="458,181,629,221"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="532,139,541,180,536,181,527,140"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="187,143,129,183,126,179,184,139"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="259,140,315,186,311,190,255,144"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="cv::linemod::QuantizedPyramid::Candidate" name="cv::linemod::QuantizedPyramid::Candidate">
+<area shape="rect" id="Node000001" title="Candidate feature with a score." alt="" coords="58,351,275,451"/>
+<area shape="rect" id="Node000002" href="$d9/db9/structcv_1_1linemod_1_1Feature.html" title="Discriminant feature described by its location and label." alt="" coords="5,163,152,288"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,287,137,335,132,337,108,289"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="63,5,94,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,71,81,146,76,146,76,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="176,193,219,258"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,259,181,335,176,334,189,258"/>
+</map>

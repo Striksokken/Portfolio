@@ -1,0 +1,14 @@
+<map id="opencv2/fuzzy/types.hpp" name="opencv2/fuzzy/types.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="100,5,284,31"/>
+<area shape="rect" id="Node000002" href="$df/dc0/fuzzy_8hpp.html" title=" " alt="" coords="121,167,264,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,34,48,52,30,64,16,80,9,96,10,109,19,122,34,133,77,151,126,164,124,169,75,156,31,137,15,125,5,111,4,95,12,77,27,60,45,47,86,29"/>
+<area shape="rect" id="Node000003" href="$d1/d6d/fuzzy__F0__math_8hpp.html" title=" " alt="" coords="26,79,180,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,42,126,81,123,77,167,38"/>
+<area shape="rect" id="Node000004" href="$d2/d46/fuzzy__F1__math_8hpp.html" title=" " alt="" coords="204,79,359,119"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="217,38,262,77,258,81,214,42"/>
+<area shape="rect" id="Node000005" href="$d3/dba/fuzzy__image_8hpp.html" title=" " alt="" coords="383,79,538,119"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="245,32,397,76,395,81,244,37"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="137,126,181,164,177,168,133,130"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="252,130,208,168,204,164,248,126"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="384,125,232,169,231,164,383,120"/>
+</map>

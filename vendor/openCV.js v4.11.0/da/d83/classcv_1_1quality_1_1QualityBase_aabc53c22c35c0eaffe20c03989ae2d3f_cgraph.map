@@ -1,0 +1,7 @@
+<map id="cv::quality::QualityBase::getQualityMap" name="cv::quality::QualityBase::getQualityMap">
+<area shape="rect" id="Node000001" title="Returns output quality map that was generated during computation, if supported by the algorithm" alt="" coords="5,23,180,63"/>
+<area shape="rect" id="Node000002" href="$d2/d9e/classcv_1_1__OutputArray.html#a6aeb30bb97609c10c16b76952fb1715c" title=" " alt="" coords="231,5,410,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,31,218,27,218,32,181,36"/>
+<area shape="rect" id="Node000003" href="$d2/d9e/classcv_1_1__OutputArray.html#a2ef2667f36017be9379d95fc5f421976" title=" " alt="" coords="228,55,413,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,50,215,54,214,59,180,55"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="cv::bioinspired::RetinaParameters::OPLandIplParvoParameters" name="cv::bioinspired::RetinaParameters::OPLandIplParvoParameters">
+<area shape="rect" id="Node000001" title="Outer Plexiform Layer (OPL) and Inner Plexiform Layer Parvocellular (IplParvo) parameters." alt="" coords="5,236,237,316"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="24,5,67,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,71,34,138,38,175,49,211,56,222,51,225,44,213,33,176,29,138,35,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="176,5,219,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,71,191,138,183,176,170,213,165,224,161,221,166,211,178,175,186,137,194,71"/>
+</map>

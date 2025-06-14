@@ -1,0 +1,5 @@
+<map id="cv::detail::tracking::tbm::ResizedImageDescriptor" name="cv::detail::tracking::tbm::ResizedImageDescriptor">
+<area shape="rect" id="Node000001" title="Uses resized image as descriptor." alt="" coords="5,193,220,333"/>
+<area shape="rect" id="Node000002" href="$d3/daa/classcv_1_1detail_1_1tracking_1_1tbm_1_1IImageDescriptor.html" title="The IImageDescriptor class declares base class for image descriptor." alt="" coords="29,5,197,145"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,159,115,193,110,193,110,159"/>
+</map>

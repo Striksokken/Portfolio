@@ -1,0 +1,9 @@
+<map id="cv::detail::BlocksGainCompensator" name="cv::detail::BlocksGainCompensator">
+<area shape="rect" id="Node000001" title="Exposure compensator which tries to remove exposure related artifacts by adjusting image block intens..." alt="" coords="5,803,247,968"/>
+<area shape="rect" id="Node000002" href="$da/df4/classcv_1_1detail_1_1BlocksCompensator.html" title="Exposure compensator which tries to remove exposure related artifacts by adjusting image blocks." alt="" coords="13,428,239,753"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,767,129,803,123,803,123,767"/>
+<area shape="rect" id="Node000003" href="$d2/d37/classcv_1_1detail_1_1ExposureCompensator.html" title="Base class for all exposure compensators." alt="" coords="12,133,240,379"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,393,129,428,123,428,123,393"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="105,5,147,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="129,71,129,117,123,117,123,71"/>
+</map>

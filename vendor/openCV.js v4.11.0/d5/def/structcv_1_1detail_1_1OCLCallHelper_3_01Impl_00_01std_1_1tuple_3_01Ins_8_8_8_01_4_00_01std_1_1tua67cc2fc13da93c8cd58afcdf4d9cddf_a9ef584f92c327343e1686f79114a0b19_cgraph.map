@@ -1,0 +1,9 @@
+<map id="cv::detail::OCLCallHelper&lt; Impl, std::tuple&lt; Ins... &gt;, std::tuple&lt; Outs... &gt; &gt;::call_and_postprocess::call" name="cv::detail::OCLCallHelper&lt; Impl, std::tuple&lt; Ins... &gt;, std::tuple&lt; Outs... &gt; &gt;::call_and_postprocess::call">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,220,92"/>
+<area shape="rect" id="Node000002" href="$d2/daf/namespacecv_1_1detail.html#a8c6a7120c4c06f085a6bc3503243c4d9" title=" " alt="" coords="268,45,461,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,55,255,55,255,60,220,60"/>
+<area shape="rect" id="Node000003" href="$d3/dce/namespacecv_1_1util.html#a5f00f5a230b8dc4f63bdd1c8057ace44" title="Utility template function to prevent &quot;unused&quot; warnings by various compilers." alt="" coords="515,5,650,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,42,501,35,502,40,452,47"/>
+<area shape="rect" id="Node000004" href="$d1/df4/structcv_1_1detail_1_1tracked__cv__umat.html#a907c4700b70270adce7d25228e2e3ee5" title=" " alt="" coords="509,69,656,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="452,67,496,74,495,79,451,73"/>
+</map>

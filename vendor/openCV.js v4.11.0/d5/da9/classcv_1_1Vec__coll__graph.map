@@ -1,0 +1,10 @@
+<map id="cv::Vec&lt; _Tp, cn &gt;" name="cv::Vec&lt; _Tp, cn &gt;">
+<area shape="rect" id="Node000001" title="Template class for short numerical vectors, a partial case of Matx." alt="" coords="19,1056,153,1461"/>
+<area shape="rect" id="Node000002" href="$de/de1/classcv_1_1Matx.html" title=" " alt="" coords="5,601,167,1007"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,1020,89,1056,83,1056,83,1020"/>
+<area shape="rect" id="Node000003" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="67,5,105,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,71,79,133,75,367,79,585,73,585,69,367,74,133,79,71"/>
+<area shape="rect" id="Node000004" href="$de/de1/classcv_1_1Matx.html" title="Template class for small matrices whose type and size are known at compilation time." alt="" coords="125,133,284,539"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="101,70,122,121,117,123,96,72"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="153,553,140,602,135,601,147,551"/>
+</map>

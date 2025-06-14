@@ -1,0 +1,11 @@
+<map id="cv::saliency::MotionSaliency" name="cv::saliency::MotionSaliency">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,677,203,743"/>
+<area shape="rect" id="Node000002" href="$d9/dcd/classcv_1_1saliency_1_1Saliency.html" title=" " alt="" coords="14,523,194,628"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,641,107,677,101,677,101,641"/>
+<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="9,135,156,460"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,473,103,522,97,523,94,474"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="181,265,259,330"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="214,331,196,392,170,461,146,509,142,507,166,459,191,390,209,330"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="155,5,285,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="223,99,223,264,217,264,217,99"/>
+</map>

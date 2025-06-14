@@ -1,0 +1,5 @@
+<map id="cv::ml::ParamGrid" name="cv::ml::ParamGrid">
+<area shape="rect" id="Node000001" title="The structure represents the logarithmic grid range of statmodel parameters." alt="" coords="5,163,135,268"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="41,5,99,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,71,73,146,67,146,67,71"/>
+</map>

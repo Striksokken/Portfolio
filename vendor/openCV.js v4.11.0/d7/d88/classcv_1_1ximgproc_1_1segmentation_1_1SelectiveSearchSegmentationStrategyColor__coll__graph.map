@@ -1,0 +1,7 @@
+<map id="cv::ximgproc::segmentation::SelectiveSearchSegmentationStrategyColor" name="cv::ximgproc::segmentation::SelectiveSearchSegmentationStrategyColor">
+<area shape="rect" id="Node000001" title="Color&#45;based strategy for the selective search segmentation algorithm The class is implemented from th..." alt="" coords="5,547,312,627"/>
+<area shape="rect" id="Node000002" href="$dc/d7a/classcv_1_1ximgproc_1_1segmentation_1_1SelectiveSearchSegmentationStrategy.html" title="Strategie for the selective search segmentation algorithm The class implements a generic stragery for..." alt="" coords="23,379,295,499"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,512,161,546,156,546,156,512"/>
+<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="85,5,232,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,345,161,378,156,378,156,345"/>
+</map>

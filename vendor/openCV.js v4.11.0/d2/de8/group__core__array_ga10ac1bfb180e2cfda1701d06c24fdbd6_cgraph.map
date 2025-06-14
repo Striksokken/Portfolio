@@ -1,0 +1,6 @@
+<map id="cv::add" name="cv::add">
+<area shape="rect" id="Node000001" title="Calculates the per&#45;element sum of two arrays or an array and a scalar." alt="" coords="5,29,73,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="17,30,13,21,15,11,24,5,39,3,57,6,65,14,61,18,54,11,39,8,26,10,20,14,18,20,22,28"/>
+<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="121,29,216,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="74,39,108,39,108,45,74,45"/>
+</map>

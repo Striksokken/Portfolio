@@ -1,0 +1,19 @@
+<map id="cv::cudev::sobelX_" name="cv::cudev::sobelX_">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,53,147,78"/>
+<area shape="rect" id="Node000002" href="$df/dfc/group__cudev.html#ga1dbd29079f84cb97dbcbd1f32ba0ac9b" title=" " alt="" coords="195,27,349,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,54,181,49,181,54,147,59"/>
+<area shape="rect" id="Node000003" href="$df/dfc/group__cudev.html#ga9f8cc74995b219bc6c82937e3a21b8eb" title=" " alt="" coords="196,77,348,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,71,183,76,182,81,147,77"/>
+<area shape="rect" id="Node000004" href="$df/dfc/group__cudev.html#gad6dab113b0778bcf03f9d0ebfe78ad10" title=" " alt="" coords="402,21,541,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="317,74,412,47,413,52,319,79"/>
+<area shape="rect" id="Node000006" href="$df/dfc/group__cudev.html#gad690da4acd9ac0de7ab244ee1c5394b4" title=" " alt="" coords="398,77,545,102"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="348,87,384,87,384,92,348,92"/>
+<area shape="rect" id="Node000008" href="$df/dfc/group__cudev.html#gaa3dcb9b45488dc7770dd40609724b531" title=" " alt="" coords="397,133,545,158"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="319,99,413,126,412,131,317,105"/>
+<area shape="rect" id="Node000005" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#a8d71e329800db50f164dd41cc6699f2a" title=" " alt="" coords="598,5,817,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="541,28,584,27,584,32,541,34"/>
+<area shape="rect" id="Node000007" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#abaa5f1be07d953c5035bdbf9c9d8231f" title=" " alt="" coords="594,69,821,109"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="545,87,580,87,580,92,545,92"/>
+<area shape="rect" id="Node000009" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#a17d5c5dba728eeaa99bbc55f697245d4" title=" " alt="" coords="593,133,821,173"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="546,145,580,146,580,152,546,151"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="cv::gapi::wip::GCaptureSource::prep" name="cv::gapi::wip::GCaptureSource::prep">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,221,113"/>
+<area shape="rect" id="Node000002" href="$d3/d63/classcv_1_1Mat.html#a03d2a2570d06dcae378f788725789aa4" title="Creates a full copy of the array and the underlying data." alt="" coords="298,5,410,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,70,269,39,293,32,295,37,270,45,175,75"/>
+<area shape="rect" id="Node000003" href="$d3/d63/classcv_1_1Mat.html#abbec3525a852e77998aba034813fded4" title="Returns true if the array has no elements." alt="" coords="295,55,413,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,79,280,72,281,78,222,84"/>
+<area shape="rect" id="Node000004" href="$d8/dfe/classcv_1_1VideoCapture.html#a473055e77dd7faa4d26d686226b292c1" title="Grabs, decodes and returns the next video frame." alt="" coords="269,104,439,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="222,101,256,104,255,110,221,106"/>
+<area shape="rect" id="Node000005" href="$d8/dfe/classcv_1_1VideoCapture.html#a8c6d8c2d37505b5ca61ffd4bb54e9a7c" title="Sets a property in the VideoCapture." alt="" coords="274,153,434,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="180,110,270,138,298,147,297,152,269,143,178,115"/>
+</map>

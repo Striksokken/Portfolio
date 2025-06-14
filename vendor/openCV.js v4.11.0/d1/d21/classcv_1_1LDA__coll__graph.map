@@ -1,0 +1,40 @@
+<map id="cv::LDA" name="cv::LDA">
+<area shape="rect" id="Node000001" title="Linear Discriminant Analysis." alt="" coords="5,1633,183,1979"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="231,361,261,427"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,415,203,453,167,505,132,567,106,634,75,763,55,896,44,1031,40,1163,41,1291,48,1412,68,1617,62,1618,42,1412,36,1291,34,1163,38,1030,50,895,70,762,101,633,127,565,163,502,199,449,228,412"/>
+<area shape="rect" id="Node000003" href="$d3/d63/classcv_1_1Mat.html" title="n&#45;dimensional dense array class" alt="" coords="367,1031,533,1556"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="260,426,296,510,321,560,349,608,361,619,371,632,384,684,398,775,426,1014,421,1015,393,776,379,685,366,635,357,623,345,611,316,563,291,513,255,428"/>
+<area shape="rect" id="Node000007" href="$db/d58/structcv_1_1UMatData.html" title=" " alt="" coords="588,633,797,939"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="264,423,289,466,325,516,371,566,425,607,457,619,485,619,514,620,548,631,576,649,573,653,546,636,514,625,485,625,456,624,422,612,367,570,321,519,285,468,259,426"/>
+<area shape="rect" id="Node000015" href="$df/d63/structcv_1_1MatSize.html" title=" " alt="" coords="116,693,232,879"/>
+<area shape="poly" id="edge20_Node000015_Node000002" title=" " alt="" coords="243,428,196,678,191,677,237,427"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="369,1415,194,1666,190,1663,365,1412"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="474,361,535,427"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="505,427,470,1015,464,1014,500,427"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="513,426,534,511,550,560,570,608,582,631,577,634,565,610,545,562,528,512,508,428"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="256,753,356,819"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="306,819,305,904,309,955,318,1006,337,1069,363,1130,358,1132,332,1070,313,1007,304,956,300,904,301,819"/>
+<area shape="rect" id="Node000006" href="$df/d4c/classcv_1_1MatAllocator.html" title="Custom array allocator." alt="" coords="975,261,1165,527"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="1078,527,1072,625,1055,733,1041,788,1021,842,997,893,967,940,922,994,871,1044,817,1090,760,1131,647,1201,549,1252,546,1247,645,1196,757,1127,813,1086,868,1040,918,991,963,937,992,890,1017,840,1035,786,1050,732,1067,624,1072,527"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="987,529,932,611,874,665,813,712,810,707,871,661,928,608,983,526"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="622,940,542,1106,537,1104,617,938"/>
+<area shape="poly" id="edge14_Node000007_Node000007" title=" " alt="" coords="799,751,817,764,824,786,821,801,814,812,809,809,816,799,819,786,813,767,796,755"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="1208,361,1260,427"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="1228,428,1210,477,1180,528,1155,557,1132,576,1073,612,941,683,814,740,811,735,938,678,1070,607,1129,572,1151,553,1176,525,1205,475,1223,426"/>
+<area shape="rect" id="Node000016" href="$d4/d26/structcv_1_1MatStep.html" title=" " alt="" coords="1185,693,1321,879"/>
+<area shape="poly" id="edge22_Node000016_Node000008" title=" " alt="" coords="1238,427,1250,677,1245,677,1233,427"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="567,361,663,427"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="622,427,653,609,654,617,649,618,647,610,617,427"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="687,361,741,427"/>
+<area shape="poly" id="edge13_Node000007_Node000010" title=" " alt="" coords="715,427,705,617,699,617,710,427"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="765,361,935,427"/>
+<area shape="poly" id="edge15_Node000007_Node000011" title=" " alt="" coords="844,428,818,511,782,610,778,619,773,617,777,608,813,509,839,426"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="782,133,825,199"/>
+<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="813,199,843,345,838,346,807,200"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="849,133,998,199"/>
+<area shape="poly" id="edge17_Node000011_Node000013" title=" " alt="" coords="911,213,863,362,858,360,906,211"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="912,5,935,71"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="926,71,926,117,921,117,921,71"/>
+<area shape="poly" id="edge19_Node000003_Node000015" title=" " alt="" coords="208,878,233,941,263,1005,310,1087,360,1164,356,1167,305,1090,258,1008,228,944,203,880"/>
+<area shape="poly" id="edge21_Node000003_Node000016" title=" " alt="" coords="1213,880,1168,949,1140,981,1108,1009,1038,1055,964,1098,888,1136,812,1171,669,1227,549,1267,548,1261,667,1222,810,1166,886,1132,962,1093,1035,1051,1104,1005,1136,977,1164,946,1208,877"/>
+</map>

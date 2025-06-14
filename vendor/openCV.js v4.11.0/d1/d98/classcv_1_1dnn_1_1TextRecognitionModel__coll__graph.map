@@ -1,0 +1,7 @@
+<map id="cv::dnn::TextRecognitionModel" name="cv::dnn::TextRecognitionModel">
+<area shape="rect" id="Node000001" title="This class represents high&#45;level API for text recognition networks." alt="" coords="5,448,233,723"/>
+<area shape="rect" id="Node000002" href="$d3/df0/classcv_1_1dnn_1_1Model.html" title="This class is presented high&#45;level API for neural networks." alt="" coords="47,133,192,399"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,413,122,448,117,448,117,413"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="74,5,165,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="122,71,122,117,117,117,117,71"/>
+</map>

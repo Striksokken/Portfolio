@@ -1,0 +1,16 @@
+<map id="cv::CirclesGridFinderParameters" name="cv::CirclesGridFinderParameters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="278,848,502,913"/>
+<area shape="rect" id="Node000002" href="$d6/d50/classcv_1_1Size__.html" title=" " alt="" coords="227,491,420,756"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,756,277,791,289,823,298,835,294,838,284,825,272,792,270,756"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="88,248,130,313"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="94,315,55,399,36,454,19,514,10,577,10,639,22,700,34,728,50,754,70,778,93,799,146,831,204,853,263,866,262,871,203,858,144,836,89,803,66,782,46,758,29,730,17,701,5,640,5,576,14,513,30,452,50,397,89,313"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,312,234,475,230,478,127,315"/>
+<area shape="rect" id="Node000004" href="$d6/d50/classcv_1_1Size__.html" title="Template class for specifying the size of an image or rectangle." alt="" coords="227,148,420,413"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="326,427,326,490,321,490,321,427"/>
+<area shape="rect" id="Node000005" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="305,5,342,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="326,71,326,132,321,132,321,71"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="482,591,512,656"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="502,656,503,693,499,736,489,782,470,825,460,838,456,835,466,823,484,781,494,736,497,693,497,656"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="682,591,752,656"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="724,656,725,695,721,740,708,786,697,807,682,826,655,842,616,855,519,872,519,866,615,849,653,837,678,822,692,804,703,784,716,739,720,695,718,656"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="cv::kinfu::VolumeParams" name="cv::kinfu::VolumeParams">
+<area shape="rect" id="Node000001" title=" " alt="" coords="233,1959,407,2044"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,1677,99,1742"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,1743,41,1785,40,1836,50,1888,60,1912,74,1933,96,1948,130,1962,217,1982,216,1987,128,1967,93,1953,70,1937,55,1914,45,1889,35,1836,36,1785,42,1742"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="259,1677,381,1742"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,1742,323,1942,317,1942,317,1742"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="173,1254,328,1319"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="261,1332,317,1676,312,1677,255,1333"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="139,779,170,844"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="155,844,150,951,146,1110,149,1298,155,1394,164,1489,178,1593,193,1673,215,1752,249,1851,269,1899,291,1943,286,1945,264,1901,244,1853,210,1754,188,1674,173,1594,159,1490,149,1395,144,1298,141,1110,144,951,150,844"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="160,844,172,941,192,1059,215,1155,239,1238,233,1239,210,1156,187,1061,167,941,155,844"/>
+<area shape="rect" id="Node000006" href="$de/de1/classcv_1_1Matx.html" title="Template class for small matrices whose type and size are known at compilation time." alt="" coords="273,133,431,539"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="272,551,260,602,246,697,238,794,235,984,241,1146,250,1254,245,1254,236,1146,229,984,233,794,241,696,255,601,266,549"/>
+<area shape="rect" id="Node000009" href="$de/de1/classcv_1_1Matx.html" title=" " alt="" coords="359,609,521,1014"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="280,552,291,576,302,585,314,588,327,591,342,599,361,621,357,625,338,603,326,596,312,593,299,590,287,579,276,554"/>
+<area shape="rect" id="Node000011" href="$de/de1/classcv_1_1Matx.html" title=" " alt="" coords="569,601,722,1021"/>
+<area shape="poly" id="edge15_Node000011_Node000006" title=" " alt="" coords="441,457,536,600,571,660,566,663,531,603,437,460"/>
+<area shape="rect" id="Node000007" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="473,5,511,71"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="479,72,441,154,436,151,475,70"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="505,71,529,159,554,285,563,356,566,430,563,505,552,578,529,649,524,647,547,577,558,505,561,430,557,357,549,285,524,160,500,72"/>
+<area shape="rect" id="Node000008" href="$d6/dcf/classcv_1_1Vec.html" title="Template class for short numerical vectors, a partial case of Matx." alt="" coords="353,1084,487,1489"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="372,1503,330,1677,325,1676,366,1502"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="434,1028,431,1084,426,1084,428,1028"/>
+<area shape="rect" id="Node000010" href="$dd/d99/classcv_1_1Affine3.html" title=" " alt="" coords="483,1567,624,1852"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="485,1837,449,1888,409,1936,395,1950,391,1946,405,1933,445,1885,480,1834"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="666,1021,670,1129,670,1248,664,1370,649,1490,632,1555,627,1553,644,1489,659,1369,665,1248,665,1130,661,1022"/>
+<area shape="rect" id="Node000013" href="$dd/d99/classcv_1_1Affine3.html" title="Affine transform." alt="" coords="512,1144,635,1429"/>
+<area shape="poly" id="edge17_Node000013_Node000011" title=" " alt="" coords="612,1022,608,1046,596,1128,591,1127,603,1045,606,1021"/>
+<area shape="rect" id="Node000012" href="$d2/dc7/classfloat__type.html" title=" " alt="" coords="629,303,707,369"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="669,369,659,585,653,584,664,369"/>
+<area shape="poly" id="edge16_Node000010_Node000013" title=" " alt="" coords="569,1443,563,1567,557,1567,563,1443"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="648,1677,691,1742"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="671,1743,663,1797,653,1826,638,1854,617,1878,593,1901,539,1937,481,1963,424,1982,423,1977,479,1958,537,1932,590,1896,614,1875,634,1850,648,1824,658,1796,666,1742"/>
+</map>

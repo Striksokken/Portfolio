@@ -1,0 +1,15 @@
+<map id="cv::legacy::TrackerMedianFlow::Params" name="cv::legacy::TrackerMedianFlow::Params">
+<area shape="rect" id="Node000001" title=" " alt="" coords="164,491,344,611"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="26,5,56,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="34,71,19,138,9,225,9,273,14,321,25,368,43,412,64,442,90,467,120,489,151,507,148,512,117,493,87,471,60,445,39,415,20,370,8,322,3,273,4,225,14,137,29,70"/>
+<area shape="rect" id="Node000005" href="$d9/d5d/classcv_1_1TermCriteria.html" title="The class defining termination criteria for iterative algorithms." alt="" coords="144,228,263,333"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="59,56,127,146,169,212,164,215,123,150,55,60"/>
+<area shape="rect" id="Node000003" href="$d6/d50/classcv_1_1Size__.html" title="Template class for specifying the size of an image or rectangle." alt="" coords="578,148,771,413"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="579,400,560,415,512,447,461,474,361,517,359,512,458,470,509,442,557,411,576,396"/>
+<area shape="rect" id="Node000004" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="656,5,693,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="677,71,677,132,672,132,672,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="196,334,192,398,194,432,201,466,204,475,199,477,196,467,189,433,186,398,191,333"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="236,5,294,71"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="287,70,296,94,317,198,324,280,316,363,296,467,293,476,288,475,291,466,311,363,318,280,312,198,291,95,282,72"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="245,72,233,96,217,154,209,212,204,211,212,153,228,94,240,70"/>
+</map>

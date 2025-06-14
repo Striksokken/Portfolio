@@ -1,0 +1,5 @@
+<map id="cv::TickMeter::getLastTimeSec" name="cv::TickMeter::getLastTimeSec">
+<area shape="rect" id="Node000001" title="returns passed time of the last iteration in seconds." alt="" coords="5,5,227,31"/>
+<area shape="rect" id="Node000002" href="$db/de0/group__core__utils.html#ga705441a9ef01f47acdc55d87fbe5090c" title="Returns the number of ticks per second." alt="" coords="275,5,433,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,15,261,15,261,21,227,21"/>
+</map>

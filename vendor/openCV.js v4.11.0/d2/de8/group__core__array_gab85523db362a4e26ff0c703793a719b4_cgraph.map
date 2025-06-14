@@ -1,0 +1,6 @@
+<map id="cv::bitwise_or" name="cv::bitwise_or">
+<area shape="rect" id="Node000001" title="Calculates the per&#45;element bit&#45;wise disjunction of two arrays or an array and a scalar." alt="" coords="5,29,116,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="35,31,30,21,33,11,43,5,61,3,81,6,90,15,86,19,79,11,61,8,45,10,37,15,35,20,40,28"/>
+<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="164,29,259,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="116,39,150,39,150,45,116,45"/>
+</map>

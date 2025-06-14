@@ -1,0 +1,14 @@
+<map id="opencv2/cudev/util/limits.hpp" name="opencv2/cudev/util/limits.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="37,5,182,45"/>
+<area shape="rect" id="Node000002" href="$d6/d38/cudev_8hpp.html" title=" " alt="" coords="5,269,152,295"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,55,41,73,25,94,21,123,26,162,41,220,55,246,71,268,67,271,51,249,36,222,21,163,16,123,20,92,37,69,58,51"/>
+<area shape="rect" id="Node000003" href="$d3/ddc/reduce__to__vec_8hpp.html" title=" " alt="" coords="35,93,184,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,59,112,93,107,93,107,59"/>
+<area shape="rect" id="Node000005" href="$d8/d8e/interpolation_8hpp.html" title=" " alt="" coords="237,181,395,221"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="147,52,198,91,297,179,294,183,194,95,144,56"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="77,144,62,162,51,182,47,205,52,229,72,268,68,270,47,231,42,206,45,180,57,159,73,141"/>
+<area shape="rect" id="Node000004" href="$d2/da5/reduction_8hpp.html" title=" " alt="" coords="59,181,213,221"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="122,146,133,180,128,182,117,147"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="116,234,89,271,85,267,112,231"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="247,228,114,272,113,267,245,223"/>
+</map>

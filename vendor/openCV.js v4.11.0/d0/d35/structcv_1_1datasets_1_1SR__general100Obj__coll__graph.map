@@ -1,0 +1,9 @@
+<map id="cv::datasets::SR_general100Obj" name="cv::datasets::SR_general100Obj">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,263,230,328"/>
+<area shape="rect" id="Node000002" href="$de/d47/structcv_1_1datasets_1_1Object.html" title=" " alt="" coords="5,135,148,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,212,112,261,107,263,90,214"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="172,135,251,200"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,202,155,251,151,248,186,199"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="146,5,277,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="214,99,214,134,209,134,209,99"/>
+</map>

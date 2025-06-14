@@ -1,0 +1,21 @@
+<map id="cv::optflow::GPCPatchDescriptor" name="cv::optflow::GPCPatchDescriptor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1992,225,2097"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="24,1694,97,1759"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,1759,73,1853,91,1967,93,1976,88,1977,86,1969,67,1854,59,1760"/>
+<area shape="rect" id="Node000003" href="$d6/dcf/classcv_1_1Vec.html" title=" " alt="" coords="122,1524,327,1929"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,1931,171,1969,166,1979,161,1977,166,1967,181,1929"/>
+<area shape="rect" id="Node000004" href="$de/de1/classcv_1_1Matx.html" title=" " alt="" coords="51,601,233,1007"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="164,1021,209,1524,204,1524,159,1021"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="70,303,129,369"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="100,369,99,462,103,577,104,584,99,585,98,578,93,462,95,369"/>
+<area shape="rect" id="Node000006" href="$de/de1/classcv_1_1Matx.html" title="Template class for small matrices whose type and size are known at compilation time." alt="" coords="224,133,383,539"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="221,499,195,564,183,602,178,600,190,562,216,497"/>
+<area shape="rect" id="Node000009" href="$de/de1/classcv_1_1Matx.html" title=" " alt="" coords="257,601,419,1007"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="316,552,318,577,320,601,315,601,313,578,311,553"/>
+<area shape="rect" id="Node000007" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="349,5,386,71"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="363,72,353,118,348,117,358,70"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="389,68,399,94,430,227,438,282,441,334,435,442,415,578,414,585,409,585,410,577,430,441,436,334,432,283,425,228,394,95,384,70"/>
+<area shape="rect" id="Node000008" href="$d6/dcf/classcv_1_1Vec.html" title="Template class for short numerical vectors, a partial case of Matx." alt="" coords="248,1056,383,1461"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="276,1475,267,1525,261,1523,271,1474"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="330,1020,328,1056,323,1056,325,1020"/>
+</map>

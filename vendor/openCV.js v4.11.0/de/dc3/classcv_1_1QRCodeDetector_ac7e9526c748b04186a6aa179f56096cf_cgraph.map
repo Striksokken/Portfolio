@@ -1,0 +1,5 @@
+<map id="cv::QRCodeDetector::decodeCurved" name="cv::QRCodeDetector::decodeCurved">
+<area shape="rect" id="Node000001" title="Decodes QR code on a curved surface in image once it&#39;s found by the detect() method." alt="" coords="5,5,157,45"/>
+<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="205,13,300,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,23,192,23,192,28,158,28"/>
+</map>

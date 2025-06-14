@@ -1,0 +1,9 @@
+<map id="cv::util::static_visitor::operator()" name="cv::util::static_visitor::operator()">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,163,75"/>
+<area shape="rect" id="Node000002" href="$d3/dce/namespacecv_1_1util.html#a5f00f5a230b8dc4f63bdd1c8057ace44" title="Utility template function to prevent &quot;unused&quot; warnings by various compilers." alt="" coords="211,5,345,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,40,197,35,197,40,164,45"/>
+<area shape="rect" id="Node000003" href="$d3/dce/namespacecv_1_1util.html#abffd2e88d41b88bc1e3e9c1241630e9e" title=" " alt="" coords="227,70,329,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,63,214,71,213,76,163,69"/>
+<area shape="rect" id="Node000004" href="$d9/dab/namespacecv_1_1util_1_1detail.html#a22f1101c503b42ff7f254df518b36599" title=" " alt="" coords="393,63,548,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="329,80,380,80,380,85,329,85"/>
+</map>

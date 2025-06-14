@@ -1,0 +1,13 @@
+<map id="cv::util::detail::apply_visitor_impl" name="cv::util::detail::apply_visitor_impl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,160,103"/>
+<area shape="rect" id="Node000002" href="$d9/dab/namespacecv_1_1util_1_1detail.html#a22f1101c503b42ff7f254df518b36599" title=" " alt="" coords="208,5,363,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,60,200,47,202,52,155,65"/>
+<area shape="rect" id="Node000003" href="$d3/dce/namespacecv_1_1util.html#a71f02f915a836dd4fa73b9dbc76d297b" title=" " alt="" coords="238,70,333,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,80,224,80,224,85,160,85"/>
+<area shape="rect" id="Node000006" href="$d3/dce/namespacecv_1_1util.html#a5f00f5a230b8dc4f63bdd1c8057ace44" title="Utility template function to prevent &quot;unused&quot; warnings by various compilers." alt="" coords="218,120,353,160"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="155,100,205,115,204,120,153,105"/>
+<area shape="rect" id="Node000004" href="$d3/dce/namespacecv_1_1util.html#ad9437cba1b6142cf823005f189259b8c" title=" " alt="" coords="429,46,540,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="332,74,415,64,416,70,333,80"/>
+<area shape="rect" id="Node000005" href="$d3/dce/namespacecv_1_1util.html#a40544b3ca23b3917f2a5de6b0273079d" title=" " alt="" coords="411,95,559,121"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="333,86,397,94,397,100,332,91"/>
+</map>

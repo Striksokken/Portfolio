@@ -1,0 +1,5 @@
+<map id="cv::GraphicalCodeDetector::decode" name="cv::GraphicalCodeDetector::decode">
+<area shape="rect" id="Node000001" title="Decodes graphical code in image once it&#39;s found by the detect() method." alt="" coords="5,5,200,45"/>
+<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="248,13,343,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,23,234,23,234,28,200,28"/>
+</map>

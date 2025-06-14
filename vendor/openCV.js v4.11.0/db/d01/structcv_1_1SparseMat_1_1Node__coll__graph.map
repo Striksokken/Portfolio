@@ -1,0 +1,7 @@
+<map id="cv::SparseMat::Node" name="cv::SparseMat::Node">
+<area shape="rect" id="Node000001" title="sparse matrix node &#45; element of a hash table" alt="" coords="6,148,153,213"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,57,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="30,71,30,97,35,123,40,133,35,136,30,125,24,98,24,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="113,5,144,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,72,102,125,99,133,94,132,97,123,115,70"/>
+</map>

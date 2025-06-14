@@ -1,0 +1,30 @@
+<map id="cv::cudev::gridCountNonZero" name="cv::cudev::gridCountNonZero">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,196,215,221"/>
+<area shape="rect" id="Node000002" href="$df/dfc/group__cudev.html#gad354bd79a6e3f6b0ac72da03a902dae1" title=" " alt="" coords="263,196,479,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,206,249,206,249,211,215,211"/>
+<area shape="rect" id="Node000003" href="$df/dfc/group__cudev.html#gad9f9dd3ffb5de399c253633d63d553d1" title=" " alt="" coords="549,5,692,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,194,434,121,476,78,525,41,541,33,543,38,528,46,480,82,438,125,382,197"/>
+<area shape="rect" id="Node000004" href="$d3/d1c/classcv_1_1cudev_1_1GpuMat__.html#a9d88407df08c49f1de5d2d062099c1fc" title="allocates new GpuMat data unless the GpuMat already has specified size and type" alt="" coords="547,55,695,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="390,193,449,155,525,112,553,98,556,103,528,116,452,160,392,198"/>
+<area shape="rect" id="Node000005" href="$df/dfc/group__cudev.html#gad6dab113b0778bcf03f9d0ebfe78ad10" title=" " alt="" coords="767,124,906,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="402,193,459,173,526,155,645,140,754,134,754,139,646,145,527,161,461,178,404,198"/>
+<area shape="rect" id="Node000007" href="$df/dfc/group__cudev.html#gad690da4acd9ac0de7ab244ee1c5394b4" title=" " alt="" coords="763,191,910,216"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="479,206,715,205,750,204,750,209,715,210,479,212"/>
+<area shape="rect" id="Node000009" href="$d6/df1/structcv_1_1cuda_1_1StreamAccessor.html#a5830d99635f08b462a429771bfad71a9" title=" " alt="" coords="527,322,715,362"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="392,219,452,258,528,301,556,314,553,319,525,306,449,262,390,224"/>
+<area shape="rect" id="Node000010" href="$d0/d60/classcv_1_1cuda_1_1GpuMat.html#aa4c50630ceb28bb28cb861a9a96945a1" title="sets some of the GpuMat elements to s (Blocking call)" alt="" coords="533,387,709,412"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="382,220,438,292,480,335,528,372,543,379,541,384,525,376,476,339,434,296,378,223"/>
+<area shape="rect" id="Node000011" href="$df/dfc/group__cudev.html#gaa3dcb9b45488dc7770dd40609724b531" title=" " alt="" coords="763,260,911,285"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="464,219,749,258,748,263,464,224"/>
+<area shape="rect" id="Node000013" href="$df/dfc/group__cudev.html#ga52e729b1406c40d69981c3bb4e8b7270" title=" " alt="" coords="535,171,707,196"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="478,195,521,191,522,196,479,200"/>
+<area shape="rect" id="Node000006" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#a8d71e329800db50f164dd41cc6699f2a" title=" " alt="" coords="963,117,1182,157"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="906,134,949,134,949,139,906,139"/>
+<area shape="rect" id="Node000008" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#abaa5f1be07d953c5035bdbf9c9d8231f" title=" " alt="" coords="959,183,1186,223"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="911,201,945,201,945,206,911,206"/>
+<area shape="rect" id="Node000012" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#a17d5c5dba728eeaa99bbc55f697245d4" title=" " alt="" coords="959,253,1187,293"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="911,270,945,270,945,275,911,275"/>
+<area shape="poly" id="edge13_Node000013_Node000005" title=" " alt="" coords="680,168,763,150,765,155,681,173"/>
+<area shape="poly" id="edge14_Node000013_Node000007" title=" " alt="" coords="707,189,750,193,749,198,707,194"/>
+<area shape="poly" id="edge15_Node000013_Node000011" title=" " alt="" coords="654,194,793,252,791,257,652,199"/>
+</map>

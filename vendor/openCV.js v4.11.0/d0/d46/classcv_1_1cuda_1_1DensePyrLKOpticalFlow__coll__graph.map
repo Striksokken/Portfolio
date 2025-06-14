@@ -1,0 +1,7 @@
+<map id="cv::cuda::DensePyrLKOpticalFlow" name="cv::cuda::DensePyrLKOpticalFlow">
+<area shape="rect" id="Node000001" title="Class used for calculating a dense optical flow." alt="" coords="5,492,235,717"/>
+<area shape="rect" id="Node000002" href="$d6/d4a/classcv_1_1cuda_1_1DenseOpticalFlow.html" title="Base interface for dense optical flow algorithms." alt="" coords="23,379,217,444"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,458,123,492,117,492,117,458"/>
+<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="47,5,193,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,344,123,379,117,379,117,344"/>
+</map>

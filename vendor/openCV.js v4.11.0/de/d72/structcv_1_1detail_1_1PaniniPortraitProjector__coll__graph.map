@@ -1,0 +1,8 @@
+<map id="cv::detail::PaniniPortraitProjector" name="cv::detail::PaniniPortraitProjector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,321,173,421"/>
+<area shape="rect" id="Node000002" href="$dc/d2c/structcv_1_1detail_1_1ProjectorBase.html" title="Base class for warping logic implementation." alt="" coords="96,207,267,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,285,126,323,122,320,149,282"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="48,5,91,71"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="67,71,59,162,58,217,63,272,70,305,65,306,57,272,53,217,53,161,62,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,70,158,191,153,193,85,72"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cv::gapi::use_only" name="cv::gapi::use_only">
+<area shape="rect" id="Node000001" title="cv::gapi::use_only() is a special combinator which hints G&#45;API to use only kernels specified in cv::G..." alt="" coords="25,353,156,419"/>
+<area shape="rect" id="Node000002" href="$d4/d3a/classcv_1_1GKernelPackage.html" title="A container class for heterogeneous kernel implementation collections and graph transformations." alt="" coords="5,5,176,291"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,291,93,337,88,337,88,291"/>
+</map>

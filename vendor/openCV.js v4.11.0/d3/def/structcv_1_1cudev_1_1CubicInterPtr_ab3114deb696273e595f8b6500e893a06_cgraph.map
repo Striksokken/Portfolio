@@ -1,0 +1,7 @@
+<map id="cv::cudev::CubicInterPtr::operator()" name="cv::cudev::CubicInterPtr::operator()">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,180,75"/>
+<area shape="rect" id="Node000002" href="$d3/def/structcv_1_1cudev_1_1CubicInterPtr.html#a6a8580517d7f9f86dc4a94cfcf7ba5b5" title=" " alt="" coords="228,5,403,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,41,214,36,215,41,181,46"/>
+<area shape="rect" id="Node000003" href="$d5/de6/group__cudaarithm__reduce.html#ga1f582844670199281e8012733b50c582" title="Returns the sum of matrix elements." alt="" coords="260,70,371,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,63,247,71,246,77,180,68"/>
+</map>

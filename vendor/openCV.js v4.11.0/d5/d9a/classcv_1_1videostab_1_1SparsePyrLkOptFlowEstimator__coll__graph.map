@@ -1,0 +1,13 @@
+<map id="cv::videostab::SparsePyrLkOptFlowEstimator" name="cv::videostab::SparsePyrLkOptFlowEstimator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,705,381,785"/>
+<area shape="rect" id="Node000002" href="$d2/d86/classcv_1_1videostab_1_1PyrLkOptFlowEstimatorBase.html" title=" " alt="" coords="53,476,287,656"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,666,269,704,264,707,238,669"/>
+<area shape="rect" id="Node000003" href="$d6/d50/classcv_1_1Size__.html" title="Template class for specifying the size of an image or rectangle." alt="" coords="5,148,199,413"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="129,413,138,451,140,459,135,461,133,453,124,414"/>
+<area shape="rect" id="Node000004" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="83,5,121,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,71,105,132,99,132,99,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="223,248,253,313"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="237,314,227,378,211,453,209,461,204,460,206,451,222,377,231,313"/>
+<area shape="rect" id="Node000006" href="$df/de2/classcv_1_1videostab_1_1ISparseOptFlowEstimator.html" title=" " alt="" coords="312,516,527,616"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="379,629,324,706,320,703,375,626"/>
+</map>

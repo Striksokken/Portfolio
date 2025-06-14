@@ -1,0 +1,9 @@
+<map id="cv::cann::OperatorRunner::addInput" name="cv::cann::OperatorRunner::addInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,192,103"/>
+<area shape="rect" id="Node000002" href="$d3/d85/classcv_1_1cann_1_1AscendMat.html#afccc73d5f17e9033df0302c3babe3a30" title="Create default allocator for AscendMat. This allocator alloc memory from device for specific size." alt="" coords="262,5,417,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,60,248,44,249,49,184,65"/>
+<area shape="rect" id="Node000003" href="$d2/dcf/namespacecv_1_1cann.html#aee240e051fa3b79a8ad84e3a33207553" title="Malloc and upload raw data to devices." alt="" coords="240,70,439,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,80,226,80,226,85,192,85"/>
+<area shape="rect" id="Node000004" href="$d7/dcc/classcv_1_1cann_1_1AscendStream.html#ae5414fcc15fae3750a144b0ef4f2ca1d" title="return default AscendStream object for default Acl stream." alt="" coords="251,120,428,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,100,242,114,241,119,183,105"/>
+</map>

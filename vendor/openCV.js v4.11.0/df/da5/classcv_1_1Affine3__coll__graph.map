@@ -1,0 +1,11 @@
+<map id="cv::Affine3&lt; T &gt;" name="cv::Affine3&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Affine transform." alt="" coords="35,1084,158,1369"/>
+<area shape="rect" id="Node000002" href="$de/de1/classcv_1_1Matx.html" title=" " alt="" coords="20,601,173,1021"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,1021,99,1068,94,1068,94,1021"/>
+<area shape="rect" id="Node000003" href="$d2/dc7/classfloat__type.html" title=" " alt="" coords="5,303,84,369"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="51,368,75,584,69,585,45,369"/>
+<area shape="rect" id="Node000004" href="$de/de1/classcv_1_1Matx.html" title="Template class for small matrices whose type and size are known at compilation time." alt="" coords="108,133,267,539"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="149,553,139,602,134,601,143,552"/>
+<area shape="rect" id="Node000005" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="169,5,206,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="190,71,190,117,185,117,185,71"/>
+</map>

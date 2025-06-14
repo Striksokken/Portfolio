@@ -1,0 +1,6 @@
+<map id="cv::eigen" name="cv::eigen">
+<area shape="rect" id="Node000001" title="Calculates eigenvalues and eigenvectors of a symmetric matrix." alt="" coords="5,29,85,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="22,30,18,21,20,11,30,5,45,3,64,6,72,14,68,18,61,11,45,8,32,10,25,14,23,20,27,28"/>
+<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="133,29,228,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="85,39,120,39,120,45,85,45"/>
+</map>

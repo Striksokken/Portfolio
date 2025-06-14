@@ -1,0 +1,15 @@
+<map id="cv::legacy::TrackerTLD" name="cv::legacy::TrackerTLD">
+<area shape="rect" id="Node000001" title="the TLD (Tracking, learning and detection) tracker" alt="" coords="264,648,421,753"/>
+<area shape="rect" id="Node000002" href="$db/dfe/classcv_1_1legacy_1_1Tracker.html" title="Base abstract class for the long&#45;term tracker:" alt="" coords="277,393,409,599"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="345,612,345,648,340,648,340,612"/>
+<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="5,5,152,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="162,324,166,329,221,389,278,441,275,445,217,393,162,332,158,327"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="176,135,219,201"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="203,200,213,262,233,330,270,397,265,399,228,332,207,263,197,201"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="243,128,443,208"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="345,209,345,377,340,377,340,209"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="467,128,651,208"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="537,210,434,371,420,391,416,388,430,368,533,207"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="675,128,842,208"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="745,209,713,271,691,303,664,333,608,378,545,416,483,446,426,470,424,465,480,442,543,411,605,373,661,329,687,300,709,268,741,207"/>
+</map>

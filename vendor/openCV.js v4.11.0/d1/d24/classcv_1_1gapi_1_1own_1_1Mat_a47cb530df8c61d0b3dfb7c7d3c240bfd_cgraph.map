@@ -1,0 +1,20 @@
+<map id="cv::gapi::own::Mat::copyTo" name="cv::gapi::own::Mat::copyTo">
+<area shape="rect" id="Node000001" title="Copies the matrix to another one." alt="" coords="5,221,145,261"/>
+<area shape="rect" id="Node000002" href="$d1/d24/classcv_1_1gapi_1_1own_1_1Mat.html#aa234313065f8e7c8b333266dbb668a76" title=" " alt="" coords="207,29,347,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,220,125,152,156,113,192,79,199,74,202,78,195,83,160,117,129,155,89,223"/>
+<area shape="rect" id="Node000003" href="$d0/d06/namespacecv_1_1gapi_1_1own_1_1detail.html#aafeec5427533d638f2f8437397363899" title=" " alt="" coords="201,93,353,133"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="95,219,138,181,192,143,203,137,206,142,195,148,141,185,99,223"/>
+<area shape="rect" id="Node000004" href="$d1/d24/classcv_1_1gapi_1_1own_1_1Mat.html#ac17970b7962e231610288a8b0f035161" title="Returns the depth of a matrix element." alt="" coords="207,157,347,197"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="138,219,199,199,201,204,140,224"/>
+<area shape="rect" id="Node000005" href="$d1/d24/classcv_1_1gapi_1_1own_1_1Mat.html#a17a22f04a8935c8034f0c4b81b68bb44" title="Returns the matrix element size in bytes." alt="" coords="207,221,347,261"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="146,239,193,239,193,244,146,244"/>
+<area shape="rect" id="Node000006" href="$d1/d24/classcv_1_1gapi_1_1own_1_1Mat.html#abff622ef7ef3019c18800de316c08963" title="Returns the type of a matrix element." alt="" coords="408,251,548,291"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="138,259,194,271,298,277,394,275,394,280,298,283,193,276,137,264"/>
+<area shape="rect" id="Node000007" href="$d1/d24/classcv_1_1gapi_1_1own_1_1Mat.html#ab95b079bdf39a4b98d644ecc1abc19a2" title="Returns a pointer to the specified matrix row." alt="" coords="193,361,360,386"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="108,259,246,351,243,355,105,264"/>
+<area shape="rect" id="Node000008" href="$d1/d24/classcv_1_1gapi_1_1own_1_1Mat.html#a93dbce66072b6125bf87634f230f9470" title="Returns the total number of array elements." alt="" coords="207,411,347,451"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="89,260,131,326,160,363,195,395,205,402,202,406,192,399,156,366,126,329,85,263"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="239,30,237,20,243,11,256,5,277,3,300,6,313,13,310,18,298,11,277,8,258,10,246,15,242,21,244,28"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="347,249,395,256,394,261,347,254"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="244,362,237,352,240,342,254,336,277,334,305,338,316,347,312,351,302,343,277,339,255,341,244,346,242,352,248,359"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="cv::cudev::InRangeFunc&lt; T, cn &gt;" name="cv::cudev::InRangeFunc&lt; T, cn &gt;">
+<area shape="rect" id="Node000001" title="unary_function implementation of inRange" alt="" coords="111,335,276,435"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,163,195,257"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,268,169,333,164,335,129,271"/>
+<area shape="rect" id="Node000003" href="$df/d11/structcv_1_1cudev_1_1unary__function.html" title=" " alt="" coords="11,5,189,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,99,103,162,97,162,97,99"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="219,170,359,250"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="270,252,231,322,226,319,265,249"/>
+<area shape="rect" id="Node000005" href="$d9/db1/structcv_1_1cudev_1_1MakeVec.html" title=" " alt="" coords="219,5,359,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="292,99,292,170,287,170,287,99"/>
+</map>

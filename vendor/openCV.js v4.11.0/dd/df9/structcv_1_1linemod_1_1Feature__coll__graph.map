@@ -1,0 +1,5 @@
+<map id="cv::linemod::Feature" name="cv::linemod::Feature">
+<area shape="rect" id="Node000001" title="Discriminant feature described by its location and label." alt="" coords="5,163,152,288"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="63,5,94,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,71,81,146,76,146,76,71"/>
+</map>

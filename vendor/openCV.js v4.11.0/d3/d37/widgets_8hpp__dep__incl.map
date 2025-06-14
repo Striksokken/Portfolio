@@ -1,0 +1,12 @@
+<map id="opencv2/viz/widgets.hpp" name="opencv2/viz/widgets.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,5,200,31"/>
+<area shape="rect" id="Node000002" href="$d0/d7e/viz_8hpp.html" title=" " alt="" coords="6,225,134,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,39,37,56,16,80,9,99,9,119,20,160,41,196,62,223,57,227,36,199,15,162,3,120,4,98,12,77,33,52,61,34"/>
+<area shape="rect" id="Node000003" href="$de/d82/viz3d_8hpp.html" title=" " alt="" coords="25,79,192,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,44,111,79,106,79,106,44"/>
+<area shape="rect" id="Node000004" href="$d2/d4b/vizcore_8hpp.html" title=" " alt="" coords="107,152,286,177"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="157,34,185,52,207,77,213,97,213,118,204,152,199,151,208,117,208,98,202,80,181,56,154,38"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="105,118,76,226,71,224,99,117"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="135,110,184,150,181,154,132,115"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="166,186,92,227,89,223,163,182"/>
+</map>

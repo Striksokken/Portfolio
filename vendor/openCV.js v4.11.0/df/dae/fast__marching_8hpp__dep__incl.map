@@ -1,0 +1,12 @@
+<map id="opencv2/videostab/fast_marching.hpp" name="opencv2/videostab/fast_marching.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,180,45"/>
+<area shape="rect" id="Node000002" href="$db/d63/fast__marching__inl_8hpp.html" title=" " alt="" coords="5,93,180,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,59,88,93,82,93,81,59"/>
+<area shape="rect" id="Node000003" href="$dc/dc7/videostab_2include_2opencv2_2videostab_2inpainting_8hpp.html" title=" " alt="" coords="205,101,447,126"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="158,48,296,98,294,103,156,53"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="99,80,98,46,103,46,104,80"/>
+<area shape="rect" id="Node000004" href="$da/dde/stabilizer_8hpp.html" title=" " alt="" coords="208,181,444,207"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="329,140,329,181,323,181,323,140"/>
+<area shape="rect" id="Node000005" href="$dd/d91/videostab_8hpp.html" title=" " alt="" coords="239,255,413,280"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="329,220,329,255,323,255,323,220"/>
+</map>

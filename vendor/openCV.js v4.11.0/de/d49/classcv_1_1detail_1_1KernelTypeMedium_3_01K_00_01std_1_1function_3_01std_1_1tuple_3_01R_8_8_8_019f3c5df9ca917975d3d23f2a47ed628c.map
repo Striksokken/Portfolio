@@ -1,0 +1,11 @@
+<map id="cv::detail::KernelTypeMedium&lt; K, std::function&lt; std::tuple&lt; R... &gt;(Args...)&gt; &gt;" name="cv::detail::KernelTypeMedium&lt; K, std::function&lt; std::tuple&lt; R... &gt;(Args...)&gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="113,465,319,560"/>
+<area shape="rect" id="Node000002" href="$dc/d2d/classcv_1_1GKernelTypeM_3_01K_00_01std_1_1function_3_01std_1_1tuple_3_01R_8_8_8_01_4_07Args_8_8_8_08_4_01_4.html" title=" " alt="" coords="125,321,307,416"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,430,219,465,213,465,213,430"/>
+<area shape="rect" id="Node000003" href="$d4/d06/structcv_1_1detail_1_1MetaHelper.html" title=" " alt="" coords="10,177,174,272"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="143,281,177,319,173,323,139,284"/>
+<area shape="rect" id="Node000004" href="$d4/d06/structcv_1_1detail_1_1MetaHelper.html" title=" " alt="" coords="5,5,179,100"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,114,95,177,89,177,89,114"/>
+<area shape="rect" id="Node000005" href="$db/d4e/structcv_1_1detail_1_1NoTag.html" title=" " alt="" coords="198,192,319,257"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="248,271,233,322,227,320,243,270"/>
+</map>

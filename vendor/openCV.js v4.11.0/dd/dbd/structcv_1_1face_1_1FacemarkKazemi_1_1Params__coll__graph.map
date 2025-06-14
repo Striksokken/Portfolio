@@ -1,0 +1,11 @@
+<map id="cv::face::FacemarkKazemi::Params" name="cv::face::FacemarkKazemi::Params">
+<area shape="rect" id="Node000001" title=" " alt="" coords="150,351,334,431"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,135,79,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,200,40,230,44,263,53,296,69,325,99,351,136,368,133,373,96,355,65,328,48,298,38,264,35,230,36,200"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="221,135,263,200"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,200,245,334,239,334,239,200"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="331,135,409,200"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="374,201,368,263,359,297,343,328,333,341,328,338,338,325,354,295,363,262,369,200"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="305,5,435,85"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="373,99,373,134,367,134,367,99"/>
+</map>

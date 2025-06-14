@@ -1,0 +1,16 @@
+<map id="cv::detail::GOpaqueU" name="cv::detail::GOpaqueU">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,404,277,629"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,269,196,334"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,333,144,388,139,390,113,335"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="37,133,100,199"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="69,198,73,237,78,253,73,255,67,238,64,199"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="149,133,298,199"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="170,209,155,224,121,270,116,267,151,221,167,205"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="221,261,391,341"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="239,210,251,236,268,260,264,263,246,239,234,213"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="212,5,235,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="226,71,226,117,221,117,221,71"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="289,343,266,390,261,388,285,341"/>
+<area shape="rect" id="Node000007" href="$d6/de4/structcv_1_1detail_1_1TypeHintBase.html" title=" " alt="" coords="383,133,554,199"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="463,200,455,220,441,239,407,266,404,261,437,235,450,218,459,198"/>
+</map>

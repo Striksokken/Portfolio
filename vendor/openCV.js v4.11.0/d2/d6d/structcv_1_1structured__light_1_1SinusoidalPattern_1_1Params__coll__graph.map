@@ -1,0 +1,19 @@
+<map id="cv::structured_light::SinusoidalPattern::Params" name="cv::structured_light::SinusoidalPattern::Params">
+<area shape="rect" id="Node000001" title="Parameters of SinusoidalPattern constructor." alt="" coords="177,752,320,847"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,551,36,616"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="18,616,17,643,19,672,26,701,40,726,65,750,95,767,128,780,161,788,160,793,127,785,93,772,62,754,36,730,21,703,13,673,11,643,13,616"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="173,551,215,616"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,617,189,670,191,699,198,727,202,737,197,739,193,729,186,700,183,670,186,616"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="283,551,326,616"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="302,617,292,670,278,729,275,737,270,736,273,727,287,668,297,616"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="351,551,525,616"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="436,617,420,673,406,703,387,730,363,751,336,768,333,764,360,747,383,726,401,700,415,671,431,615"/>
+<area shape="rect" id="Node000006" href="$db/d4e/classcv_1_1Point__.html" title="Template class for 2D points specified by its coordinates x and y." alt="" coords="239,148,437,488"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="361,487,378,525,385,537,381,540,373,528,356,490"/>
+<area shape="rect" id="Node000007" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="319,5,357,71"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="341,71,341,131,335,131,335,71"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="461,285,583,351"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="512,364,461,528,452,551,447,550,455,526,506,363"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="511,5,533,71"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="525,71,525,269,519,269,519,71"/>
+</map>

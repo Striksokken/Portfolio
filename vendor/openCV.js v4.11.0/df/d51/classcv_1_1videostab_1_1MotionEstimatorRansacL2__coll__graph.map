@@ -1,0 +1,5 @@
+<map id="cv::videostab::MotionEstimatorRansacL2" name="cv::videostab::MotionEstimatorRansacL2">
+<area shape="rect" id="Node000001" title="Describes a robust RANSAC&#45;based global 2D motion estimation method which minimizes L2 error." alt="" coords="21,199,237,379"/>
+<area shape="rect" id="Node000002" href="$db/df1/classcv_1_1videostab_1_1MotionEstimatorBase.html" title="Base class for all global motion estimation methods." alt="" coords="5,5,253,151"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,164,132,198,127,198,127,164"/>
+</map>

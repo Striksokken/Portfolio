@@ -1,0 +1,19 @@
+<map id="opencv2/videostab/optical_flow.hpp" name="opencv2/videostab/optical_flow.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="109,5,302,45"/>
+<area shape="rect" id="Node000002" href="$d1/d44/global__motion_8hpp.html" title=" " alt="" coords="191,93,380,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,54,270,91,266,95,230,57"/>
+<area shape="rect" id="Node000003" href="$dc/dc7/videostab_2include_2opencv2_2videostab_2inpainting_8hpp.html" title=" " alt="" coords="5,189,248,214"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="194,59,134,189,130,187,189,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,142,149,191,147,186,237,137"/>
+<area shape="rect" id="Node000004" href="$da/dde/stabilizer_8hpp.html" title=" " alt="" coords="234,269,470,295"/>
+<area shape="poly" id="edge7_Node000002_Node000004" title=" " alt="" coords="292,147,300,183,313,220,328,246,344,268,340,271,324,249,308,222,295,184,287,148"/>
+<area shape="rect" id="Node000006" href="$da/d38/motion__stabilizing_8hpp.html" title=" " alt="" coords="323,181,517,221"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="328,139,392,179,389,183,325,143"/>
+<area shape="rect" id="Node000007" href="$d0/df9/wobble__suppression_8hpp.html" title=" " alt="" coords="542,181,738,221"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="377,134,563,179,562,184,376,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="173,216,320,267,318,272,171,221"/>
+<area shape="rect" id="Node000005" href="$dd/d91/videostab_8hpp.html" title=" " alt="" coords="265,343,439,368"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="355,308,355,343,349,343,349,308"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="397,234,364,271,360,267,393,230"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="559,227,395,272,393,267,557,222"/>
+</map>

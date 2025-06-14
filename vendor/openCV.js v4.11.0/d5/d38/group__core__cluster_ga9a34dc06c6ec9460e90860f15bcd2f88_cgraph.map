@@ -1,0 +1,6 @@
+<map id="cv::kmeans" name="cv::kmeans">
+<area shape="rect" id="Node000001" title="Finds centers of clusters and groups input samples around the clusters." alt="" coords="5,29,101,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="29,30,24,21,27,11,37,5,53,3,73,6,81,15,78,18,70,11,53,8,39,10,31,15,30,20,34,28"/>
+<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="149,29,244,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="102,39,136,39,136,45,102,45"/>
+</map>

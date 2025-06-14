@@ -1,0 +1,9 @@
+<map id="cv::detail::tracking::contrib_feature::CvLBPEvaluator::Feature" name="cv::detail::tracking::contrib_feature::CvLBPEvaluator::Feature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="56,585,288,740"/>
+<area shape="rect" id="Node000002" href="$d2/d44/classcv_1_1Rect__.html" title="Template class for 2D rectangles." alt="" coords="5,177,200,523"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,523,154,568,149,570,138,524"/>
+<area shape="rect" id="Node000003" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="84,5,121,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,71,105,161,100,161,100,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="225,317,255,383"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="239,384,215,523,203,570,198,569,209,522,233,383"/>
+</map>

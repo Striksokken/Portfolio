@@ -1,0 +1,13 @@
+<map id="cv::viz::MouseEvent" name="cv::viz::MouseEvent">
+<area shape="rect" id="Node000001" title="This class represents a mouse event." alt="" coords="117,551,260,616"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,285,49,351"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="30,351,37,417,47,453,63,487,87,515,116,540,113,544,83,519,58,489,42,455,32,418,24,351"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="73,285,173,351"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,350,146,431,170,526,172,534,167,536,165,527,141,432,126,351"/>
+<area shape="rect" id="Node000004" href="$db/d4e/classcv_1_1Point__.html" title="Template class for 2D points specified by its coordinates x and y." alt="" coords="197,148,396,488"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,489,227,528,222,538,217,536,222,525,239,487"/>
+<area shape="rect" id="Node000005" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="278,5,315,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="299,71,299,131,294,131,294,71"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="420,285,451,351"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="442,351,442,382,439,419,429,456,411,490,383,518,349,540,313,556,277,568,275,563,311,551,346,535,379,514,407,486,424,454,434,418,437,382,436,351"/>
+</map>

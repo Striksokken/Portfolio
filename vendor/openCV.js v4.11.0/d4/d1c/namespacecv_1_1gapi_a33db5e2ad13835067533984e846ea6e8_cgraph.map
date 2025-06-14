@@ -1,0 +1,19 @@
+<map id="cv::gapi::infer" name="cv::gapi::infer">
+<area shape="rect" id="Node000001" title="Calculates response for the generic network for the specified region in the source image...." alt="" coords="5,70,116,95"/>
+<area shape="rect" id="Node000002" href="$d2/daf/namespacecv_1_1detail.html#a5fb0571cd62ba1f240daf7850c631e6a" title=" " alt="" coords="164,70,356,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,80,150,80,150,85,116,85"/>
+<area shape="rect" id="Node000003" href="$d5/dce/classcv_1_1detail_1_1GInferInputsTyped.html#a38aa79c0af98c7f3fcf193022bf81579" title=" " alt="" coords="405,5,575,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,67,396,46,397,51,312,73"/>
+<area shape="rect" id="Node000004" href="$d2/daf/namespacecv_1_1detail.html#aed1f238805b4a3a5d7f715b179cb9f5a" title=" " alt="" coords="415,70,565,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="356,80,401,80,401,85,356,85"/>
+<area shape="rect" id="Node000006" href="$d2/daf/namespacecv_1_1detail.html#a2f3b650bb58db1c7b03169735e78994d" title=" " alt="" coords="404,119,576,145"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="320,93,417,114,416,119,319,98"/>
+<area shape="rect" id="Node000005" href="$dc/d02/classcv_1_1GCall.html#a59d99a6b69540532068360be493a90dc" title=" " alt="" coords="624,70,760,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="566,80,610,80,610,85,566,85"/>
+<area shape="rect" id="Node000007" href="$d3/dce/namespacecv_1_1util.html#a71f02f915a836dd4fa73b9dbc76d297b" title=" " alt="" coords="645,119,739,145"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="576,129,630,129,630,135,576,135"/>
+<area shape="rect" id="Node000008" href="$d3/dce/namespacecv_1_1util.html#ad9437cba1b6142cf823005f189259b8c" title=" " alt="" coords="827,94,937,119"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="739,123,813,113,814,118,740,128"/>
+<area shape="rect" id="Node000009" href="$d3/dce/namespacecv_1_1util.html#a40544b3ca23b3917f2a5de6b0273079d" title=" " alt="" coords="808,143,956,169"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="740,135,795,142,794,148,739,141"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="cv::EMDHistogramCostExtractor" name="cv::EMDHistogramCostExtractor">
+<area shape="rect" id="Node000001" title="An EMD based cost extraction. :" alt="" coords="5,572,228,657"/>
+<area shape="rect" id="Node000002" href="$df/d9a/classcv_1_1HistogramCostExtractor.html" title="Abstract base class for histogram cost algorithms." alt="" coords="21,379,213,524"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,537,119,572,114,572,114,537"/>
+<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="43,5,190,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,344,119,379,114,379,114,344"/>
+</map>

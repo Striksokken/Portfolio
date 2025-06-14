@@ -1,0 +1,27 @@
+<map id="cv::cudev::HistogramBody::assignTo" name="cv::cudev::HistogramBody::assignTo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,161,196,201"/>
+<area shape="rect" id="Node000002" href="$df/dfc/group__cudev.html#ga53463fe3324d36cc9528ca29391d2224" title=" " alt="" coords="244,169,427,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,179,231,179,231,184,196,184"/>
+<area shape="rect" id="Node000003" href="$df/dfc/group__cudev.html#gaf5134b03b008a33478c79335946c2746" title=" " alt="" coords="475,169,665,194"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,179,461,179,461,184,427,184"/>
+<area shape="rect" id="Node000004" href="$d3/d1c/classcv_1_1cudev_1_1GpuMat__.html#a9d88407df08c49f1de5d2d062099c1fc" title="allocates new GpuMat data unless the GpuMat already has specified size and type" alt="" coords="733,5,881,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="581,167,634,114,671,83,712,55,724,49,727,53,715,60,675,87,638,118,584,171"/>
+<area shape="rect" id="Node000005" href="$d8/d40/group__cudacore__init.html#ga170b10cc9af4aa8cce8c0afdb4b1d08c" title="checks whether current device supports the given feature" alt="" coords="716,70,899,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="590,166,645,136,712,104,734,97,736,102,714,109,647,140,593,171"/>
+<area shape="rect" id="Node000006" href="$df/dfc/group__cudev.html#gad6dab113b0778bcf03f9d0ebfe78ad10" title=" " alt="" coords="738,119,877,145"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="631,166,732,145,733,150,632,171"/>
+<area shape="rect" id="Node000008" href="$df/dfc/group__cudev.html#gad690da4acd9ac0de7ab244ee1c5394b4" title=" " alt="" coords="734,169,881,194"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="665,179,720,179,720,184,665,184"/>
+<area shape="rect" id="Node000010" href="$d6/df1/structcv_1_1cuda_1_1StreamAccessor.html#a5830d99635f08b462a429771bfad71a9" title=" " alt="" coords="713,219,901,259"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="624,191,712,213,710,218,623,197"/>
+<area shape="rect" id="Node000011" href="$d0/d60/classcv_1_1cuda_1_1GpuMat.html#aa4c50630ceb28bb28cb861a9a96945a1" title="sets some of the GpuMat elements to s (Blocking call)" alt="" coords="719,283,895,309"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="589,192,643,229,714,268,737,277,735,282,712,273,641,234,586,196"/>
+<area shape="rect" id="Node000012" href="$df/dfc/group__cudev.html#gaa3dcb9b45488dc7770dd40609724b531" title=" " alt="" coords="733,333,881,358"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="582,192,634,253,672,289,715,319,727,325,725,330,712,324,668,293,630,257,578,196"/>
+<area shape="rect" id="Node000007" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#a8d71e329800db50f164dd41cc6699f2a" title=" " alt="" coords="954,105,1173,145"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="877,128,940,126,940,131,877,133"/>
+<area shape="rect" id="Node000009" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#abaa5f1be07d953c5035bdbf9c9d8231f" title=" " alt="" coords="950,169,1177,209"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="881,181,936,183,936,188,881,186"/>
+<area shape="rect" id="Node000013" href="$db/d3c/structcv_1_1cudev_1_1PtrTraitsBase.html#a17d5c5dba728eeaa99bbc55f697245d4" title=" " alt="" coords="949,325,1177,365"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="882,343,936,343,936,348,882,348"/>
+</map>

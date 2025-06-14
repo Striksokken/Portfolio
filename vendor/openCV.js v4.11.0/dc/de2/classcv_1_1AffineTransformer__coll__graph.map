@@ -1,0 +1,7 @@
+<map id="cv::AffineTransformer" name="cv::AffineTransformer">
+<area shape="rect" id="Node000001" title="Wrapper class for the OpenCV Affine Transformation algorithm. :" alt="" coords="27,532,179,617"/>
+<area shape="rect" id="Node000002" href="$df/dfe/classcv_1_1ShapeTransformer.html" title="Abstract base class for shape transformation algorithms." alt="" coords="5,379,200,484"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,498,105,532,100,532,100,498"/>
+<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="29,5,176,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,344,105,378,100,378,100,344"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="cv::xfeatures2d::Elliptic_KeyPoint" name="cv::xfeatures2d::Elliptic_KeyPoint">
+<area shape="rect" id="Node000001" title="Elliptic region around an interest point." alt="" coords="281,1348,448,1468"/>
+<area shape="rect" id="Node000002" href="$d2/d29/classcv_1_1KeyPoint.html" title="Data structure for salient point detectors." alt="" coords="365,1113,461,1299"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,1313,381,1348,376,1347,385,1311"/>
+<area shape="rect" id="Node000003" href="$db/d4e/classcv_1_1Point__.html" title=" " alt="" coords="393,663,592,1003"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="459,1004,439,1098,433,1097,454,1003"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="277,318,319,383"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="295,384,281,471,269,578,258,666,249,747,249,858,267,1036,281,1116,300,1195,341,1332,336,1333,295,1196,276,1117,262,1036,244,858,244,747,253,665,263,577,276,470,290,383"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="295,384,282,493,272,656,272,749,278,845,291,942,313,1035,332,1084,358,1129,353,1132,327,1086,307,1037,286,943,273,846,267,749,267,656,277,493,290,383"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="306,383,329,484,347,545,368,606,388,650,383,652,364,608,342,547,324,485,301,384"/>
+<area shape="rect" id="Node000008" href="$d6/d50/classcv_1_1Size__.html" title=" " alt="" coords="5,701,199,966"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="296,384,287,422,273,468,251,514,220,555,204,565,189,567,175,570,163,579,146,603,132,629,114,685,109,684,128,627,141,600,159,575,173,565,188,562,202,560,216,551,246,511,268,466,282,421,291,383"/>
+<area shape="rect" id="Node000010" href="$de/de1/classcv_1_1Matx.html" title=" " alt="" coords="671,631,831,1036"/>
+<area shape="poly" id="edge14_Node000010_Node000004" title=" " alt="" coords="308,383,334,464,356,509,383,552,413,584,452,604,481,613,507,615,556,610,604,609,630,615,659,629,656,633,629,620,603,614,556,616,507,620,480,618,450,609,410,588,379,555,351,512,329,466,303,384"/>
+<area shape="rect" id="Node000005" href="$db/d4e/classcv_1_1Point__.html" title="Template class for 2D points specified by its coordinates x and y." alt="" coords="393,181,592,521"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="495,535,495,663,490,663,490,535"/>
+<area shape="rect" id="Node000006" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="474,5,511,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="495,71,495,164,490,164,490,71"/>
+<area shape="rect" id="Node000009" href="$d6/d50/classcv_1_1Size__.html" title="Template class for specifying the size of an image or rectangle." alt="" coords="13,218,207,483"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="475,47,380,83,322,113,266,150,237,177,209,207,205,204,233,173,263,146,319,108,378,78,473,42"/>
+<area shape="rect" id="Node000011" href="$de/de1/classcv_1_1Matx.html" title="Template class for small matrices whose type and size are known at compilation time." alt="" coords="644,148,803,553"/>
+<area shape="poly" id="edge16_Node000011_Node000006" title=" " alt="" coords="513,53,557,93,605,146,637,190,633,194,601,150,553,97,510,57"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="616,801,647,866"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="636,866,636,903,633,947,623,993,606,1037,579,1077,546,1113,511,1144,476,1169,473,1165,507,1140,542,1109,575,1074,601,1035,618,992,627,946,631,902,631,866"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="95,966,98,1046,110,1133,134,1219,152,1259,175,1297,194,1320,217,1339,268,1370,265,1375,213,1344,190,1324,170,1300,148,1262,129,1221,105,1134,93,1047,90,967"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="80,497,69,578,68,639,74,700,69,700,62,639,63,577,75,497"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="689,1037,662,1091,613,1162,558,1228,501,1288,448,1339,445,1335,497,1285,554,1225,609,1159,657,1088,684,1035"/>
+<area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="739,567,742,630,737,631,733,567"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cv::cuda::bitwise_xor_with_scalar" name="cv::cuda::bitwise_xor_with_scalar">
+<area shape="rect" id="Node000001" title="Performs a per&#45;element bitwise exclusive or operation of a matrix and a scalar." alt="" coords="5,5,163,45"/>
+<area shape="rect" id="Node000002" href="$d8/d34/group__cudaarithm__elem.html#ga3d95d4faafb099aacf18e8b915a4ad8d" title="Performs a per&#45;element bitwise exclusive or operation of two matrices (or of matrix and scalar)." alt="" coords="211,13,368,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,23,197,23,197,28,163,28"/>
+</map>

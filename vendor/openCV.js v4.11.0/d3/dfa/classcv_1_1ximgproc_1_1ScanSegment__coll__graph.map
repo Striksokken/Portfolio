@@ -1,0 +1,5 @@
+<map id="cv::ximgproc::ScanSegment" name="cv::ximgproc::ScanSegment">
+<area shape="rect" id="Node000001" title="Class implementing the F&#45;DBSCAN (Accelerated superpixel image segmentation with a parallelized DBSCAN..." alt="" coords="5,379,207,524"/>
+<area shape="rect" id="Node000002" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="33,5,179,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,344,109,379,103,379,103,344"/>
+</map>

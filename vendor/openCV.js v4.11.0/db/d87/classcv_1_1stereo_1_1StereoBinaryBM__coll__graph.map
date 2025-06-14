@@ -1,0 +1,7 @@
+<map id="cv::stereo::StereoBinaryBM" name="cv::stereo::StereoBinaryBM">
+<area shape="rect" id="Node000001" title="Class for computing stereo correspondence using the block matching algorithm, introduced and contribu..." alt="" coords="5,732,232,1017"/>
+<area shape="rect" id="Node000002" href="$d9/d07/classcv_1_1stereo_1_1StereoMatcher.html" title="Filters off small noise blobs (speckles) in the disparity map." alt="" coords="24,379,213,684"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,697,121,732,116,732,116,697"/>
+<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="45,5,192,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,344,121,379,116,379,116,344"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="cv::dnn::getPlane" name="cv::dnn::getPlane">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,139,56"/>
+<area shape="rect" id="Node000002" href="$d3/d63/classcv_1_1Mat.html#a8b2912f6a6f5d55a3c9a7aae9134d862" title="Returns a pointer to the specified matrix row." alt="" coords="193,5,287,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,31,179,24,180,30,139,36"/>
+<area shape="rect" id="Node000003" href="$d3/d63/classcv_1_1Mat.html#af2d2652e552d7de635988f18a84b53e5" title="Returns the type of a matrix element." alt="" coords="187,55,293,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,50,173,55,173,60,138,55"/>
+</map>

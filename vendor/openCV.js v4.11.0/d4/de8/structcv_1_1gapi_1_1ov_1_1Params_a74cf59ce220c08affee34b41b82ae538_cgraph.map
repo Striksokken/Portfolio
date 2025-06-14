@@ -1,0 +1,14 @@
+<map id="cv::gapi::ov::Params::cfgInputModelLayout" name="cv::gapi::ov::Params::cfgInputModelLayout">
+<area shape="rect" id="Node000001" title="Specifies model layout for an input layer." alt="" coords="5,49,172,89"/>
+<area shape="rect" id="Node000002" href="$dd/dcf/namespacecv_1_1gapi_1_1ov_1_1detail.html#ac664c69c5bdea8330e2739b26bdf74f5" title=" " alt="" coords="220,49,425,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,66,206,66,206,71,172,71"/>
+<area shape="rect" id="Node000003" href="$d3/dce/namespacecv_1_1util.html#a71f02f915a836dd4fa73b9dbc76d297b" title=" " alt="" coords="519,5,614,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,46,505,28,506,33,420,51"/>
+<area shape="rect" id="Node000005" href="$d3/dce/namespacecv_1_1util.html#a40544b3ca23b3917f2a5de6b0273079d" title=" " alt="" coords="708,55,856,80"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="425,66,695,65,695,70,425,71"/>
+<area shape="rect" id="Node000006" href="$d3/dce/namespacecv_1_1util.html#a2d33fc6eb38576b151326991529ce403" title=" " alt="" coords="473,107,660,132"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="420,86,492,101,491,107,419,91"/>
+<area shape="rect" id="Node000004" href="$d3/dce/namespacecv_1_1util.html#ad9437cba1b6142cf823005f189259b8c" title=" " alt="" coords="727,5,837,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="614,15,713,15,713,21,614,21"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="615,26,713,49,712,54,614,31"/>
+</map>

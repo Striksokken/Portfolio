@@ -1,0 +1,19 @@
+<map id="cv::face::StandardCollector" name="cv::face::StandardCollector">
+<area shape="rect" id="Node000001" title="Default predict collector." alt="" coords="172,459,360,664"/>
+<area shape="rect" id="Node000002" href="$da/d6a/classcv_1_1face_1_1PredictCollector.html" title="Abstract base class for all strategies of prediction result handling." alt="" coords="5,291,180,396"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,405,186,457,182,460,140,408"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="211,5,270,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,71,246,213,259,442,254,442,241,213,238,71"/>
+<area shape="rect" id="Node000004" href="$d2/d5a/structcv_1_1face_1_1StandardCollector_1_1PredictResult.html" title=" " alt="" coords="256,133,444,213"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="258,70,283,108,293,120,289,123,279,111,254,72"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="344,214,294,443,289,442,339,213"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="405,296,553,391"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="381,212,421,265,434,281,430,285,417,268,377,215"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="348,5,379,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="363,71,358,117,353,117,358,71"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="435,393,374,455,370,451,432,389"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="468,141,589,206"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="518,220,496,296,490,295,513,219"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="517,5,540,71"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="531,71,531,124,526,124,526,71"/>
+</map>

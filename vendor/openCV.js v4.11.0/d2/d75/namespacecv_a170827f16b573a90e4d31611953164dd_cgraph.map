@@ -1,0 +1,7 @@
+<map id="cv::read" name="cv::read">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,79,56"/>
+<area shape="rect" id="Node000002" href="$de/dd9/classcv_1_1FileNode.html#a0f299820227506079f5b9013dd8c3558" title="returns iterator pointing to the first node element" alt="" coords="127,5,272,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,35,112,29,113,35,79,40"/>
+<area shape="rect" id="Node000003" href="$db/de0/group__core__utils.html#gab93126370b85fda2c8bfaf8c811faeaf" title="Template function for accurate conversion from one primitive type to another." alt="" coords="133,55,265,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="79,46,120,52,119,58,78,51"/>
+</map>

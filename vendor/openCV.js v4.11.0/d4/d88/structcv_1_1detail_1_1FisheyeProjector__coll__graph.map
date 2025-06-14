@@ -1,0 +1,7 @@
+<map id="cv::detail::FisheyeProjector" name="cv::detail::FisheyeProjector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,321,195,407"/>
+<area shape="rect" id="Node000002" href="$dc/d2c/structcv_1_1detail_1_1ProjectorBase.html" title="Base class for warping logic implementation." alt="" coords="15,207,185,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,286,103,321,97,321,97,286"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="79,5,121,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,71,103,190,97,190,97,71"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cv::use_threaded_executor" name="cv::use_threaded_executor">
+<area shape="rect" id="Node000001" title="Ask G&#45;API to use threaded executor when cv::GComputation is compiled via cv::GComputation::compile me..." alt="" coords="5,133,195,219"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="67,5,133,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,71,103,117,97,117,97,71"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="cv::datasets::GR_chalearnObj" name="cv::datasets::GR_chalearnObj">
+<area shape="rect" id="Node000001" title=" " alt="" coords="215,767,419,832"/>
+<area shape="rect" id="Node000002" href="$de/d47/structcv_1_1datasets_1_1Object.html" title=" " alt="" coords="5,587,148,653"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,662,149,702,194,740,235,764,233,769,191,745,146,706,108,665"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="172,587,251,653"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,653,201,698,204,720,212,741,223,754,218,758,208,744,199,722,195,698,200,653"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="146,408,277,488"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="214,502,214,587,209,587,209,502"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="333,251,364,316"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="349,316,322,750,317,750,344,316"/>
+<area shape="rect" id="Node000007" href="$d7/dce/structcv_1_1datasets_1_1groundTruth.html" title=" " alt="" coords="355,415,532,481"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="366,310,419,400,415,403,362,312"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="354,580,530,660"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="417,662,351,755,346,751,412,659"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="444,481,443,512,443,563,438,563,438,512,439,481"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="637,415,759,481"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="625,471,583,489,545,514,537,524,532,534,520,558,496,582,492,578,516,554,527,532,532,521,542,510,581,484,623,466"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="687,580,863,660"/>
+<area shape="poly" id="edge14_Node000010_Node000008" title=" " alt="" coords="736,491,748,511,762,545,771,579,766,581,757,547,744,513,732,493"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="687,251,709,316"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="701,316,701,399,695,399,695,316"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="696,663,603,704,502,745,436,767,434,762,500,740,601,699,694,658"/>
+<area shape="rect" id="Node000011" href="$d4/d66/structcv_1_1datasets_1_1skeleton.html" title=" " alt="" coords="905,415,1059,481"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="980,482,969,521,959,541,945,558,915,582,880,598,877,594,912,577,941,554,954,538,964,519,975,480"/>
+<area shape="rect" id="Node000012" href="$d0/de2/structcv_1_1datasets_1_1join.html" title=" " alt="" coords="920,251,1044,316"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="985,316,985,399,979,399,979,316"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="953,5,1011,71"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="985,71,985,234,979,234,979,71"/>
+</map>

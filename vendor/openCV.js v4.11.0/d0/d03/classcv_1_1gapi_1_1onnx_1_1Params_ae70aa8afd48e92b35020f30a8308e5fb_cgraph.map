@@ -1,0 +1,5 @@
+<map id="cv::gapi::onnx::Params::cfgOptLevel" name="cv::gapi::onnx::Params::cfgOptLevel">
+<area shape="rect" id="Node000001" title="Configures optimization level for ONNX Runtime." alt="" coords="5,5,173,45"/>
+<area shape="rect" id="Node000002" href="$d3/dce/namespacecv_1_1util.html#ae87e1848e5fe5add52bc859f0e1e36b0" title=" " alt="" coords="221,13,391,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,23,208,23,208,28,173,28"/>
+</map>

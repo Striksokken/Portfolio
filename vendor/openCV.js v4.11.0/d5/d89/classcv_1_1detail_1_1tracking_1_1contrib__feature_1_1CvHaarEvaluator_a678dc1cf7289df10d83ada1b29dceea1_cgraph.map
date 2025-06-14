@@ -1,0 +1,8 @@
+<map id="cv::detail::tracking::contrib_feature::CvHaarEvaluator::compute_integral" name="cv::detail::tracking::contrib_feature::CvHaarEvaluator::compute_integral">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,28,252,83"/>
+<area shape="rect" id="Node000002" href="$d7/d1b/group__imgproc__misc.html#ga97b87bec26908237e8ba0f6e96d23e28" title="Calculates the integral of an image." alt="" coords="300,5,395,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,32,286,26,287,31,253,37"/>
+<area shape="rect" id="Node000003" href="$d2/de8/group__core__array.html#ga0547c7fed86152d7e9d0096029c8518a" title="Divides a multi&#45;channel array into several single&#45;channel arrays." alt="" coords="311,79,383,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,73,298,81,297,86,252,78"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="312,80,304,70,308,60,323,54,347,52,378,56,390,65,387,69,376,61,347,57,324,59,312,64,309,70,316,77"/>
+</map>

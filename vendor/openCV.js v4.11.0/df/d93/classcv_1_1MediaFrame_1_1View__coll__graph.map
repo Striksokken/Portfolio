@@ -1,0 +1,18 @@
+<map id="cv::MediaFrame::View" name="cv::MediaFrame::View">
+<area shape="rect" id="Node000001" title="Provides access to the MediaFrame&#39;s underlying data." alt="" coords="87,419,245,484"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,283,57,349"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="37,348,43,372,55,393,75,412,72,416,51,396,38,374,31,349"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="89,276,224,356"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,356,165,402,160,402,157,356"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="22,133,75,199"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="53,198,58,225,70,251,79,263,75,266,65,253,53,227,48,199"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="199,133,314,199"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="189,196,173,209,160,224,152,249,152,276,146,276,147,248,156,221,169,205,185,192"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="284,276,429,356"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="317,207,330,221,343,248,352,275,347,276,338,250,325,224,313,210"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="245,5,268,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="259,71,259,117,254,117,254,71"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="303,358,226,411,223,407,299,354"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="485,133,537,199"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="504,200,492,228,473,254,445,277,441,273,469,250,487,225,499,198"/>
+</map>

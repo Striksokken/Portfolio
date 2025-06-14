@@ -1,0 +1,5 @@
+<map id="cv::cuda::nonLocalMeans" name="cv::cuda::nonLocalMeans">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,189,31"/>
+<area shape="rect" id="Node000002" href="$d1/d79/group__photo__denoise.html#gafa990f16548581987e7e509b435c3648" title="Performs pure non local means denoising without any simplification, and thus it is not fast." alt="" coords="237,5,421,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,15,223,15,223,21,190,21"/>
+</map>

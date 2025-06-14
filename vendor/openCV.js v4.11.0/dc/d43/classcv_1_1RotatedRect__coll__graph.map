@@ -1,0 +1,18 @@
+<map id="cv::RotatedRect" name="cv::RotatedRect">
+<area shape="rect" id="Node000001" title="The class represents rotated (i.e. not up&#45;right) rectangles on a plane." alt="" coords="181,968,322,1153"/>
+<area shape="rect" id="Node000002" href="$db/d4e/classcv_1_1Point__.html" title=" " alt="" coords="5,565,204,905"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,905,178,943,182,952,178,954,173,945,156,907"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="230,285,273,351"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="254,351,254,952,249,952,249,351"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,351,239,415,221,489,194,551,189,549,215,487,234,414,245,351"/>
+<area shape="rect" id="Node000006" href="$d6/d50/classcv_1_1Size__.html" title=" " alt="" coords="328,603,521,868"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="261,350,279,414,303,487,348,587,343,589,298,489,273,416,256,352"/>
+<area shape="rect" id="Node000004" href="$db/d4e/classcv_1_1Point__.html" title="Template class for 2D points specified by its coordinates x and y." alt="" coords="8,148,207,488"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="109,502,108,565,103,565,103,502"/>
+<area shape="rect" id="Node000005" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="231,5,269,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="236,72,204,135,199,132,231,70"/>
+<area shape="rect" id="Node000007" href="$d6/d50/classcv_1_1Size__.html" title="Template class for specifying the size of an image or rectangle." alt="" coords="312,185,505,451"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="271,70,328,170,323,173,266,72"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="356,870,311,954,306,952,352,867"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="417,465,422,602,417,603,412,465"/>
+</map>

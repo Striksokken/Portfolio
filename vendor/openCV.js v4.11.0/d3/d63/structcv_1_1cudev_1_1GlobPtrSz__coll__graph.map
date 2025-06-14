@@ -1,0 +1,11 @@
+<map id="cv::cudev::GlobPtrSz&lt; T &gt;" name="cv::cudev::GlobPtrSz&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Lightweight class encapsulating pitched memory on a GPU and passed to nvcc&#45;compiled code (CUDA kernel..." alt="" coords="59,336,242,401"/>
+<area shape="rect" id="Node000002" href="$d9/d77/structcv_1_1cudev_1_1GlobPtr.html" title="Structure similar to cv::cudev::GlobPtrSz but containing only a pointer and row step." alt="" coords="5,133,173,259"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,271,142,335,137,337,114,273"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="35,5,69,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="53,71,56,109,58,117,53,118,51,110,47,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="102,5,154,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="123,71,111,118,106,117,118,70"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="198,163,229,229"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="204,230,170,322,165,320,199,228"/>
+</map>

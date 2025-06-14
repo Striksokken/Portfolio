@@ -1,0 +1,9 @@
+<map id="cv::QRCodeEncoder::Params" name="cv::QRCodeEncoder::Params">
+<area shape="rect" id="Node000001" title="QR code encoder parameters." alt="" coords="108,148,256,228"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,36,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="26,70,34,97,48,122,69,141,94,157,92,161,66,146,44,126,29,100,21,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="124,5,240,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,71,185,131,179,131,179,71"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="284,5,381,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="330,72,321,99,305,126,272,154,269,149,301,122,316,97,325,70"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cv::TLSData::cleanup" name="cv::TLSData::cleanup">
+<area shape="rect" id="Node000001" title="Release associated thread data." alt="" coords="5,13,163,38"/>
+<area shape="rect" id="Node000002" href="$df/d21/classcv_1_1TLSDataContainer.html#a60db91833dbbbcb7d3406b819de3b272" title="Release created TLS data container objects. It is similar to release() call, but it keeps TLS contain..." alt="" coords="211,5,372,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,23,197,23,197,28,163,28"/>
+</map>

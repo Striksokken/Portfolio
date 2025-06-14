@@ -1,0 +1,9 @@
+<map id="cv::reg::Mapper::sqr" name="cv::reg::Mapper::sqr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,156,80"/>
+<area shape="rect" id="Node000002" href="$d3/d63/classcv_1_1Mat.html#a55ced2c8d844d683ea9a725c60037ad0" title="Allocates new array data if needed." alt="" coords="204,5,323,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,52,201,32,203,37,129,57"/>
+<area shape="rect" id="Node000003" href="$d3/d63/classcv_1_1Mat.html#a385c09827713dc3e6d713bfad8460706" title="Performs an element&#45;wise multiplication or division of the two matrices." alt="" coords="212,55,315,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,65,198,65,198,70,156,70"/>
+<area shape="rect" id="Node000004" href="$d3/d63/classcv_1_1Mat.html#af2d2652e552d7de635988f18a84b53e5" title="Returns the type of a matrix element." alt="" coords="210,104,317,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="129,77,203,98,201,103,128,83"/>
+</map>

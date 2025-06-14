@@ -1,0 +1,9 @@
+<map id="cv::img_hash::BlockMeanHash" name="cv::img_hash::BlockMeanHash">
+<area shape="rect" id="Node000001" title="Image hash based on block mean." alt="" coords="58,568,270,693"/>
+<area shape="rect" id="Node000002" href="$de/d29/classcv_1_1img__hash_1_1ImgHashBase.html" title="The base class for image hash algorithms." alt="" coords="65,393,263,519"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,533,167,568,161,568,161,533"/>
+<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="5,5,152,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,343,148,393,143,394,128,344"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="176,135,325,201"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="244,202,190,378,185,377,239,200"/>
+</map>

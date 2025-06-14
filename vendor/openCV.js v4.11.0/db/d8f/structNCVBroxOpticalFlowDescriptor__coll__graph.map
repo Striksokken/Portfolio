@@ -1,0 +1,7 @@
+<map id="NCVBroxOpticalFlowDescriptor" name="NCVBroxOpticalFlowDescriptor">
+<area shape="rect" id="Node000001" title="Model and solver parameters." alt="" coords="5,163,221,228"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="32,5,75,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,71,49,104,57,138,63,148,58,151,52,140,44,105,45,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="138,5,211,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,72,148,140,143,149,139,147,143,138,165,70"/>
+</map>

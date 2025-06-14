@@ -1,0 +1,9 @@
+<map id="cv::linemod::DepthNormal" name="cv::linemod::DepthNormal">
+<area shape="rect" id="Node000001" title="Modality that computes quantized surface normals from a dense depth map." alt="" coords="108,303,292,488"/>
+<area shape="rect" id="Node000002" href="$d5/d1c/classcv_1_1linemod_1_1Modality.html" title="Interface for modalities that plug into the LINE template matching representation." alt="" coords="5,5,160,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,222,165,301,160,303,127,224"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="185,75,215,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,141,203,286,197,286,197,141"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="354,75,406,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="384,141,378,208,369,245,353,280,332,308,307,332,303,328,328,304,348,277,364,243,373,207,379,141"/>
+</map>

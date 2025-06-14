@@ -1,0 +1,14 @@
+<map id="cv::KeyPoint" name="cv::KeyPoint">
+<area shape="rect" id="Node000001" title="Data structure for salient point detectors." alt="" coords="182,983,278,1168"/>
+<area shape="rect" id="Node000002" href="$db/d4e/classcv_1_1Point__.html" title=" " alt="" coords="131,565,329,905"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,906,233,966,227,966,227,906"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="39,285,82,351"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="54,352,31,449,19,515,11,589,8,668,12,749,26,828,51,904,74,944,104,979,137,1009,170,1034,167,1039,134,1013,100,983,70,947,46,906,21,830,7,749,3,668,6,589,14,514,26,448,49,350"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,350,122,487,148,549,143,551,117,489,68,352"/>
+<area shape="rect" id="Node000004" href="$db/d4e/classcv_1_1Point__.html" title="Template class for 2D points specified by its coordinates x and y." alt="" coords="131,148,329,488"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="233,502,233,565,227,565,227,502"/>
+<area shape="rect" id="Node000005" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="211,5,249,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="233,71,233,131,227,131,227,71"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="353,703,384,768"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="370,768,362,833,355,870,343,906,319,956,290,1002,285,1000,314,954,338,904,349,869,357,832,365,768"/>
+</map>

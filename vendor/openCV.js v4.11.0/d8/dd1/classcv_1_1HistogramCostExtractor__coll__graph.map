@@ -1,0 +1,5 @@
+<map id="cv::HistogramCostExtractor" name="cv::HistogramCostExtractor">
+<area shape="rect" id="Node000001" title="Abstract base class for histogram cost algorithms." alt="" coords="5,379,197,524"/>
+<area shape="rect" id="Node000002" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="28,5,175,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,344,104,379,99,379,99,344"/>
+</map>

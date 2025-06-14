@@ -1,0 +1,7 @@
+<map id="cv::detail::SphericalProjector" name="cv::detail::SphericalProjector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,321,204,407"/>
+<area shape="rect" id="Node000002" href="$dc/d2c/structcv_1_1detail_1_1ProjectorBase.html" title="Base class for warping logic implementation." alt="" coords="19,207,190,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,286,107,321,102,321,102,286"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="83,5,126,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,71,107,190,102,190,102,71"/>
+</map>

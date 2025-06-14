@@ -1,0 +1,7 @@
+<map id="cv::superres::PyrLKOpticalFlow" name="cv::superres::PyrLKOpticalFlow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,527,219,692"/>
+<area shape="rect" id="Node000002" href="$d1/d21/classcv_1_1superres_1_1DenseOpticalFlowExt.html" title=" " alt="" coords="19,379,205,479"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,493,115,527,109,527,109,493"/>
+<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="39,5,185,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,344,115,378,109,378,109,344"/>
+</map>

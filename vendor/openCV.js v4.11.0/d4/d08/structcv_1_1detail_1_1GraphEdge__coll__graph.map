@@ -1,0 +1,7 @@
+<map id="cv::detail::GraphEdge" name="cv::detail::GraphEdge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,157,253"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="27,5,58,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="43,71,43,97,47,123,49,132,44,133,41,125,37,97,37,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="99,5,141,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,72,100,132,95,131,110,70"/>
+</map>

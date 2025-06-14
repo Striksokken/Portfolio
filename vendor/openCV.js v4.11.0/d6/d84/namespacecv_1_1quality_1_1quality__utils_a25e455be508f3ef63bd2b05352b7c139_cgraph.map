@@ -1,0 +1,15 @@
+<map id="cv::quality::quality_utils::get_column_range" name="cv::quality::quality_utils::get_column_range">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,122,191,162"/>
+<area shape="rect" id="Node000002" href="$d3/d63/classcv_1_1Mat.html#aa11336b9ac538e0475d840657ce164be" title="Returns the number of matrix channels." alt="" coords="239,5,373,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,120,173,80,237,40,250,33,253,38,240,44,176,84,125,124"/>
+<area shape="rect" id="Node000003" href="$d3/d63/classcv_1_1Mat.html#a33fd5d125b4c302b0c9aa86980791a77" title="Copies the matrix to another one." alt="" coords="245,55,367,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,119,256,82,257,87,155,124"/>
+<area shape="rect" id="Node000004" href="$d2/de8/group__core__array.html#gacc40fa15eac0fb83f8ca70b7cc0b588d" title="Calculates per&#45;element maximum of two arrays or an array and a scalar." alt="" coords="269,104,343,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,128,255,120,256,125,192,133"/>
+<area shape="rect" id="Node000005" href="$d2/de8/group__core__array.html#ga9af368f182ee76d0463d0d8d5330b764" title="Calculates per&#45;element minimum of two arrays or an array and a scalar." alt="" coords="271,153,341,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="191,150,258,158,257,163,191,155"/>
+<area shape="rect" id="Node000006" href="$d3/d63/classcv_1_1Mat.html#a4b22e1c23af7a7f2eef8fa478cfa7434" title="Creates a matrix header for the specified matrix row." alt="" coords="255,203,357,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="156,160,257,195,255,200,155,165"/>
+<area shape="rect" id="Node000007" href="$d3/d63/classcv_1_1Mat.html#af2d2652e552d7de635988f18a84b53e5" title="Returns the type of a matrix element." alt="" coords="253,252,359,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="126,160,177,198,240,237,255,244,253,249,237,242,174,203,123,164"/>
+</map>

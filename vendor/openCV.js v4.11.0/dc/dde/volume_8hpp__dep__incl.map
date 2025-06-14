@@ -1,0 +1,16 @@
+<map id="opencv2/rgbd/volume.hpp" name="opencv2/rgbd/volume.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="169,5,359,31"/>
+<area shape="rect" id="Node000002" href="$dd/dc8/colored__kinfu_8hpp.html" title=" " alt="" coords="5,167,168,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,39,197,58,167,81,128,126,100,168,95,165,123,122,164,77,194,53,226,35"/>
+<area shape="rect" id="Node000004" href="$d9/dc4/kinfu_8hpp.html" title=" " alt="" coords="177,86,351,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="267,44,267,86,261,86,261,44"/>
+<area shape="rect" id="Node000006" href="$d1/db8/large__kinfu_8hpp.html" title=" " alt="" coords="384,79,531,119"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="306,33,412,76,410,81,304,38"/>
+<area shape="rect" id="Node000003" href="$dd/dd3/rgbd_8hpp.html" title=" " alt="" coords="201,255,340,280"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,209,245,252,242,257,142,214"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="251,125,234,163,231,185,233,206,246,232,262,253,258,256,241,235,228,207,225,185,229,162,246,123"/>
+<area shape="rect" id="Node000005" href="$dc/dcf/dynafu_8hpp.html" title=" " alt="" coords="243,174,429,199"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="284,120,328,172,324,175,280,124"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="320,212,282,256,278,253,315,208"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="463,132,460,171,454,191,443,208,422,229,396,244,341,261,339,256,394,239,418,224,439,205,449,189,455,170,458,132"/>
+</map>

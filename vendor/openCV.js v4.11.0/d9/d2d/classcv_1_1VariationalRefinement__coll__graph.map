@@ -1,0 +1,7 @@
+<map id="cv::VariationalRefinement" name="cv::VariationalRefinement">
+<area shape="rect" id="Node000001" title="Variational optical flow refinement." alt="" coords="5,512,195,877"/>
+<area shape="rect" id="Node000002" href="$df/dde/classcv_1_1DenseOpticalFlow.html" title=" " alt="" coords="23,379,177,464"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,478,103,512,97,512,97,478"/>
+<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="27,5,173,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,345,103,379,97,379,97,345"/>
+</map>

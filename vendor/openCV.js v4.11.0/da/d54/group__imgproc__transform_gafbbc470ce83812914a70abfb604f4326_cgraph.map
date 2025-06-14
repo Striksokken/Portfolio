@@ -1,0 +1,5 @@
+<map id="cv::getRotationMatrix2D" name="cv::getRotationMatrix2D">
+<area shape="rect" id="Node000001" title="Calculates an affine matrix of 2D rotation." alt="" coords="5,5,185,31"/>
+<area shape="rect" id="Node000002" href="$da/d54/group__imgproc__transform.html#gaef89d8cc92350c452b5422c8c6c5f58c" title=" " alt="" coords="233,5,420,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,15,219,15,219,21,186,21"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="cv::cuda::StereoBM" name="cv::cuda::StereoBM">
+<area shape="rect" id="Node000001" title="Class computing stereo correspondence (disparity map) using the block matching algorithm...." alt="" coords="31,1065,169,1131"/>
+<area shape="rect" id="Node000002" href="$d9/dba/classcv_1_1StereoBM.html" title="Class for computing stereo correspondence using the block matching algorithm, introduced and contribu..." alt="" coords="13,732,187,1017"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,1031,103,1065,97,1065,97,1031"/>
+<area shape="rect" id="Node000003" href="$d2/d6e/classcv_1_1StereoMatcher.html" title="The base class for stereo correspondence algorithms." alt="" coords="5,379,195,684"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,697,103,732,97,732,97,697"/>
+<area shape="rect" id="Node000004" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="27,5,173,331"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,344,103,379,97,379,97,344"/>
+</map>

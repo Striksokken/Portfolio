@@ -1,0 +1,7 @@
+<map id="cv::fastcv::FCVMSER::ContourData" name="cv::fastcv::FCVMSER::ContourData">
+<area shape="rect" id="Node000001" title="Structure containing additional information about found contour." alt="" coords="29,163,176,243"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,72,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,71,35,104,43,138,48,148,43,150,37,140,30,105,30,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="139,5,197,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,72,141,140,137,149,132,147,136,138,158,70"/>
+</map>

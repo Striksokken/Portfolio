@@ -1,0 +1,5 @@
+<map id="cv::wechat_qrcode::WeChatQRCode::detectAndDecode" name="cv::wechat_qrcode::WeChatQRCode::detectAndDecode">
+<area shape="rect" id="Node000001" title="Both detects and decodes QR code. To simplify the usage, there is a only API: detectAndDecode." alt="" coords="5,5,252,45"/>
+<area shape="rect" id="Node000002" href="$dc/d84/group__core__basic.html#gad9287b23bba2fed753b36ef561ae7346" title="Returns an empty InputArray or OutputArray." alt="" coords="300,13,395,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,23,286,23,286,28,253,28"/>
+</map>

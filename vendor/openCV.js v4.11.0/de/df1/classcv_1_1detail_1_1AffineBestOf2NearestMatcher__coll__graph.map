@@ -1,0 +1,16 @@
+<map id="cv::detail::AffineBestOf2NearestMatcher" name="cv::detail::AffineBestOf2NearestMatcher">
+<area shape="rect" id="Node000001" title="Features matcher similar to cv::detail::BestOf2NearestMatcher which finds two best matches for each f..." alt="" coords="5,620,239,720"/>
+<area shape="rect" id="Node000002" href="$d4/d26/classcv_1_1detail_1_1BestOf2NearestMatcher.html" title="Features matcher which finds two best matches for each feature and leaves the best one only if the ra..." alt="" coords="206,431,401,571"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,582,177,622,173,618,217,578"/>
+<area shape="rect" id="Node000003" href="$da/d87/classcv_1_1detail_1_1FeaturesMatcher.html" title="Feature matchers base class." alt="" coords="96,133,287,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,350,276,429,271,432,238,352"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="58,5,101,71"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="81,71,81,189,86,338,99,481,115,603,110,604,94,481,81,339,76,189,76,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="100,69,127,118,123,120,95,72"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="311,203,341,269"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="322,269,307,363,305,414,299,414,302,362,317,269"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="471,203,530,269"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="506,269,505,300,501,337,491,374,474,408,448,436,417,458,414,454,444,432,469,405,486,372,496,336,500,300,500,269"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="595,196,766,276"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="686,276,685,308,680,343,668,378,648,408,632,421,610,433,553,453,486,471,417,484,416,479,484,465,552,448,608,428,629,417,644,405,663,376,675,342,680,307,681,276"/>
+</map>

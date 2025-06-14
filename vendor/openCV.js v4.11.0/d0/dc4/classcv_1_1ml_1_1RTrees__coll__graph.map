@@ -1,0 +1,9 @@
+<map id="cv::ml::RTrees" name="cv::ml::RTrees">
+<area shape="rect" id="Node000001" title="The class implements the random forest predictor." alt="" coords="5,1005,221,1271"/>
+<area shape="rect" id="Node000002" href="$d8/d89/classcv_1_1ml_1_1DTrees.html" title="The class represents a single decision tree or a collection of decision trees." alt="" coords="18,652,209,957"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,971,116,1005,111,1005,111,971"/>
+<area shape="rect" id="Node000003" href="$db/d7d/classcv_1_1ml_1_1StatModel.html" title="Base class for statistical models in OpenCV ML." alt="" coords="50,379,177,604"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,618,116,651,111,651,111,618"/>
+<area shape="rect" id="Node000004" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="40,5,187,331"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="116,345,116,378,111,378,111,345"/>
+</map>

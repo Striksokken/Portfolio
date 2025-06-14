@@ -1,0 +1,5 @@
+<map id="cv::ml::StatModel" name="cv::ml::StatModel">
+<area shape="rect" id="Node000001" title="Base class for statistical models in OpenCV ML." alt="" coords="15,379,142,604"/>
+<area shape="rect" id="Node000002" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="5,5,152,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,345,81,378,76,378,76,345"/>
+</map>

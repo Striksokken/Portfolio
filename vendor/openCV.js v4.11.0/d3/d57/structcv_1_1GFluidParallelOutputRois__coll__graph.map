@@ -1,0 +1,18 @@
+<map id="cv::GFluidParallelOutputRois" name="cv::GFluidParallelOutputRois">
+<area shape="rect" id="Node000001" title="This structure forces Fluid backend to generate multiple parallel output regions in the graph...." alt="" coords="166,984,365,1049"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="162,841,369,921"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,921,268,968,263,968,263,921"/>
+<area shape="rect" id="Node000003" href="$d9/d17/structcv_1_1GFluidOutputRois.html" title="This structure allows to control the output image region which Fluid backend will produce in the grap..." alt="" coords="133,713,283,779"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="218,778,230,816,235,826,230,828,226,818,213,780"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="116,585,287,651"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="206,651,208,697,203,697,200,651"/>
+<area shape="rect" id="Node000005" href="$d2/d44/classcv_1_1Rect__.html" title="Template class for 2D rectangles." alt="" coords="5,177,200,523"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="91,522,106,560,116,573,112,576,102,563,86,524"/>
+<area shape="rect" id="Node000006" href="$d1/dd7/class__Tp.html" title=" " alt="" coords="84,5,121,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="105,71,105,161,100,161,100,71"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="243,317,365,383"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="315,396,326,477,333,583,329,701,321,760,308,818,297,842,292,840,303,816,316,759,324,700,328,583,321,477,310,397"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="282,396,246,466,215,547,207,586,202,585,209,546,242,463,277,393"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="293,5,315,71"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="307,71,307,301,301,301,301,71"/>
+</map>

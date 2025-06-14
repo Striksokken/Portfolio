@@ -1,0 +1,21 @@
+<map id="cv::cann::AscendStream::Impl" name="cv::cann::AscendStream::Impl">
+<area shape="rect" id="Node000001" title="Warpper of CANN streams." alt="" coords="58,547,227,667"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,411,96,477"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,476,78,522,85,532,80,535,74,524,56,478"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="121,411,164,477"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,477,145,530,140,530,140,477"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="188,404,337,484"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="254,485,236,524,227,536,223,533,231,521,250,483"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="82,261,259,327"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="193,326,232,388,227,391,188,328"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="48,133,99,199"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="100,197,138,246,134,250,96,201"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="123,133,272,199"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="190,213,180,262,175,260,185,211"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="186,5,209,71"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="200,71,200,117,195,117,195,71"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="284,261,385,327"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="316,340,284,405,279,403,311,338"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="323,133,346,199"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="337,199,337,245,332,245,332,199"/>
+</map>

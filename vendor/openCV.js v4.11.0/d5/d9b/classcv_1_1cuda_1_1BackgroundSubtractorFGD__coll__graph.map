@@ -1,0 +1,7 @@
+<map id="cv::cuda::BackgroundSubtractorFGD" name="cv::cuda::BackgroundSubtractorFGD">
+<area shape="rect" id="Node000001" title="The class discriminates between foreground and background pixels by building and maintaining a model ..." alt="" coords="5,512,252,577"/>
+<area shape="rect" id="Node000002" href="$d7/df6/classcv_1_1BackgroundSubtractor.html" title="Base class for background/foreground segmentation. :" alt="" coords="39,379,219,464"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,478,131,512,126,512,126,478"/>
+<area shape="rect" id="Node000003" href="$d3/d46/classcv_1_1Algorithm.html" title="This is a base class for all more or less complex algorithms in OpenCV." alt="" coords="55,5,202,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,345,131,379,126,379,126,345"/>
+</map>

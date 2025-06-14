@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['scalar_0',['Scalar',['../dc/d84/group__core__basic.html#ga599fe92e910c027be274233eccad7beb',1,'cv']]],
+  ['schar_1',['schar',['../d1/d1b/group__core__hal__interface.html#ga0fd9ce9d735064461bebfe6037026093',1,'interface.h']]],
+  ['second_5fargument_5ftype_2',['second_argument_type',['../d6/ddf/structcv_1_1cudev_1_1binary__function.html#aec4c648c86f5883f88009bf078d32104',1,'cv::cudev::binary_function']]],
+  ['setup_3',['Setup',['../d1/d16/namespacecv_1_1gapi_1_1python.html#a9014f085fa9e7d538b06a55532e22212',1,'cv::gapi::python']]],
+  ['setupf_4',['SetupF',['../df/d27/classcv_1_1GCPUKernel.html#aaf43aa0ee9a078c17dd38ca4d6c5781a',1,'cv::GCPUKernel']]],
+  ['siftdescriptorextractor_5',['SiftDescriptorExtractor',['../d5/d51/group__features2d__main.html#ga89ce54823df44e7be4e43511c1d44553',1,'cv']]],
+  ['siftfeaturedetector_6',['SiftFeatureDetector',['../d5/d51/group__features2d__main.html#gab5eeb05ac493f07b9495f5571ca421c7',1,'cv']]],
+  ['size_7',['Size',['../dc/d84/group__core__basic.html#ga346f563897249351a34549137c8532a0',1,'cv']]],
+  ['size2d_8',['Size2d',['../dc/d84/group__core__basic.html#gaff96e5bec8019ca9917fd1e4c0cf8267',1,'cv']]],
+  ['size2f_9',['Size2f',['../dc/d84/group__core__basic.html#gab34496d2466b5f69930ab74c70f117d4',1,'cv']]],
+  ['size2i_10',['Size2i',['../dc/d84/group__core__basic.html#ga5ef7f5978948e0cb3c3a3d4172594aec',1,'cv']]],
+  ['size2l_11',['Size2l',['../dc/d84/group__core__basic.html#ga153b6b90ce30f84239c9a39613e836d3',1,'cv']]],
+  ['size_5ftype_12',['size_type',['../d3/d3f/classcv_1_1Allocator.html#a191a884e32dcbf84d373cc26bd81ba15',1,'cv::Allocator']]],
+  ['sizearray_13',['SizeArray',['../d2/d0f/classcv_1_1cuda_1_1GpuMatND.html#a02420c069482deee85b0f111d3edd3d3',1,'cv::cuda::GpuMatND']]],
+  ['state_14',['State',['../de/dbd/classcv_1_1GCPUStKernelImpl.html#a34eeda0a663551770a0add30b081af75',1,'cv::GCPUStKernelImpl']]],
+  ['steparray_15',['StepArray',['../d2/d0f/classcv_1_1cuda_1_1GpuMatND.html#a200e362b6ffa85296e917a3a7baf5397',1,'cv::cuda::GpuMatND']]],
+  ['stepst_16',['stepsT',['../de/db0/classcv_1_1RMat_1_1View.html#ab609c96af6c1fd86ee15feef92a76e7b',1,'cv::RMat::View']]],
+  ['storaget_17',['StorageT',['../d5/dce/classcv_1_1detail_1_1GInferInputsTyped.html#a50757a4e2455452d48f8b6e92af0638a',1,'cv::detail::GInferInputsTyped']]],
+  ['streamcallback_18',['StreamCallback',['../d9/df3/classcv_1_1cuda_1_1Stream.html#a7056bbe925634ad044040e90add17db2',1,'cv::cuda::Stream']]],
+  ['strides_19',['Strides',['../d4/d68/classcv_1_1MediaFrame_1_1View.html#a39d0b79950b1b792498205d450280bfc',1,'cv::MediaFrame::View']]],
+  ['string_20',['String',['../dc/d84/group__core__basic.html#ga1f6634802eeadfd7245bc75cf3e216c2',1,'cv']]],
+  ['strip_5ftype_21',['strip_type',['../da/d1b/structcv_1_1detail_1_1GTypeTraits_3_01cv_1_1GArray_3_01T_01_4_01_4.html#acdb454d1c6a7b3529ca54a5094034d51',1,'cv::detail::GTypeTraits&lt; cv::GArray&lt; T &gt; &gt;::strip_type'],['../da/de0/structcv_1_1detail_1_1GTypeTraits_3_01cv_1_1GOpaque_3_01T_01_4_01_4.html#a77a6e7c7f3160d00a6a41f720200932c',1,'cv::detail::GTypeTraits&lt; cv::GOpaque&lt; T &gt; &gt;::strip_type']]],
+  ['sum_5ftype_22',['sum_type',['../dd/d1d/structcv_1_1V__TypeTraits_3_01uchar_01_4.html#a9aeacc343f9fe00a2ed09517aaae9ab5',1,'cv::V_TypeTraits&lt; uchar &gt;::sum_type'],['../d0/d9d/structcv_1_1V__TypeTraits_3_01schar_01_4.html#a11d67702487c44a581df611f5c681041',1,'cv::V_TypeTraits&lt; schar &gt;::sum_type'],['../d6/dd5/structcv_1_1V__TypeTraits_3_01ushort_01_4.html#a12108c83477ed018c3e4dd64b151890f',1,'cv::V_TypeTraits&lt; ushort &gt;::sum_type'],['../de/dc3/structcv_1_1V__TypeTraits_3_01short_01_4.html#a33695ea7a97404fd2deaea4109ae69e9',1,'cv::V_TypeTraits&lt; short &gt;::sum_type'],['../d3/d8c/structcv_1_1V__TypeTraits_3_01unsigned_01_4.html#aca2ed8252474a30a202514fa026f5f38',1,'cv::V_TypeTraits&lt; unsigned &gt;::sum_type'],['../da/d19/structcv_1_1V__TypeTraits_3_01float_01_4.html#ab18b10e8661378489ba87d01b642284d',1,'cv::V_TypeTraits&lt; float &gt;::sum_type'],['../d2/d4d/structcv_1_1V__TypeTraits_3_01uint64_01_4.html#ad5188b738d329a717aeb3204992792de',1,'cv::V_TypeTraits&lt; uint64 &gt;::sum_type'],['../db/d59/structcv_1_1V__TypeTraits_3_01int64_01_4.html#a92503776593e80c0daef70df3acc97f9',1,'cv::V_TypeTraits&lt; int64 &gt;::sum_type'],['../d5/d9e/structcv_1_1V__TypeTraits_3_01double_01_4.html#a2f349accdc7bcc6dd6d7399dfb774a6b',1,'cv::V_TypeTraits&lt; double &gt;::sum_type']]],
+  ['surfdescriptorextractor_23',['SurfDescriptorExtractor',['../d2/dca/group__xfeatures2d__nonfree.html#ga4a54d552fe0a5b05a00d1b49c7b5340c',1,'cv::xfeatures2d']]],
+  ['surffeaturedetector_24',['SurfFeatureDetector',['../d2/dca/group__xfeatures2d__nonfree.html#ga6af725cc4317bde8fe1176b04fe93d41',1,'cv::xfeatures2d']]]
+];
