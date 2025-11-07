@@ -45,7 +45,7 @@ canvas {
     border-radius: 1rem;
     margin: 0.5rem;
     box-shadow: 0 25px 45px rgba(3, 9, 20, 0.55);
-    width: min(90vw, 1280px);
+    width: min(90vw, 960px);
     height: auto;
 }
 
