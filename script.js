@@ -1,48 +1,24 @@
 const toggleButton = document.getElementById('togglemode');
-const icon = document.getElementById('navlinks');
-const some = document.getElementById('some-links');
-const tools = document.getElementById('tools');
 
-// Initial light/dark mode
 function setInitialMode() {
     const savedMode = localStorage.getItem('theme');
-    if (savedMode === 'light') {
-        document.body.classList.add('light-mode');
-        toggleButton.src = 'assets/darkmode.svg';
-        toggleButton.title = 'Skift til mørk-tilstand';
-        setFilters(true);
-    } else {
-        document.body.classList.remove('light-mode');
-        toggleButton.src = 'assets/lightmode.svg';
-        toggleButton.title = 'Skift til lys-tilstand';
-        setFilters(false);
-    }
+    const isLightMode = savedMode === 'light';
+    document.body.classList.toggle('light-mode', isLightMode);
+    updateThemeIcon(isLightMode);
 }
 
-// Skift mellem dark og light mode
 function toggleMode() {
     const isLightMode = document.body.classList.toggle('light-mode');
-    //sæt cookie, hvis cookies er accepteret.
     if (localStorage.getItem('cookieConsent') === 'accepted') {
         localStorage.setItem('theme', isLightMode ? 'light' : 'dark');
     }
-    toggleButton.src = isLightMode ? 'assets/darkmode.svg' : 'assets/lightmode.svg';
-    toggleButton.title = isLightMode ? 'Skift til mørk-tilstand' : 'Skift til lys-tilstand';
-    setFilters(isLightMode);
+    updateThemeIcon(isLightMode);
 }
 
-function setFilters(isLightMode) {
-    const lightFilter = 'invert(70%) brightness(0%) contrast(100%)';
-    const darkFilter = 'invert(0%) brightness(70%) contrast(100%)';
-    const grayscaleFilter = 'grayscale(100%) brightness(70%) invert(100%)';
-    
-    icon.style.filter = isLightMode ? lightFilter : darkFilter;
-    if (some != null) {
-        some.style.filter = isLightMode ? 'grayscale(0%) invert(0%)' : grayscaleFilter;
-    }
-    if (tools != null) {
-        tools.style.filter = isLightMode ? 'grayscale(0%) invert(0%)' : grayscaleFilter;
-    }
+function updateThemeIcon(isLightMode) {
+    if (!toggleButton) return;
+    toggleButton.src = isLightMode ? 'assets/darkmode.svg' : 'assets/lightmode.svg';
+    toggleButton.title = isLightMode ? 'Skift til mørk-tilstand' : 'Skift til lys-tilstand';
 }
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -71,17 +47,16 @@ document.addEventListener("DOMContentLoaded", function () {
     const acceptBtn = document.getElementById("accept-cookies");
     const rejectBtn = document.getElementById("reject-cookies");
     const consent = localStorage.getItem("cookieConsent");
-    if (!consent) banner.style.display = "block";
+    if (!consent && banner) banner.style.display = "block";
 
     acceptBtn?.addEventListener("click", () => {
         localStorage.setItem("cookieConsent", "accepted");
-        banner.style.display = "none";
+        if (banner) banner.style.display = "none";
         console.log("Cookies accepteret.");
     });
 
     rejectBtn?.addEventListener("click", () => {
-        //localStorage.setItem("cookieConsent", "rejected");
-        banner.style.display = "none";
+        if (banner) banner.style.display = "none";
         console.log("Cookies afvist.");
     });
 });

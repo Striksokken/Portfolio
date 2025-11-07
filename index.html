@@ -3,142 +3,256 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jakob B. Gugel - Developer - Haderslev, DK</title>
+    <title>Jakob B. Gugel · Udvikler i Haderslev</title>
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <!-- Navigation Bar -->
-    <nav class="navbar">
-        <ul class="nav-links" id="navlinks">
-            <li title="Hjem"><a href="#home"><img src="assets/home.svg"></a></li>
-            <li title="Om mig"><a href="#about"><img src="assets/person.svg"></a></li>
-            <li title="Mine projekter"><a href="#projects"><img src="assets/menu_book.svg"></a></li>
-            <li title="Værktøjskassen"><a href="#skills"><img src="assets/tools.svg"></a></li>
-            <li title="Kontakt mig"><a href="#contact"><img src="assets/mail.svg"></a></li>
-            <li title="Skift sidens udseende til lys-tilstand"><img id="togglemode" src="assets/lightmode.svg"></li>
-        </ul>
-    </nav>      
-    <section id="home" class="home">
-        <div><img src="profileimage.jpg" alt="ProfileImage" class="image"></div>
-    </section>
-    <section id="about" class="about">
-        <h2>Hvem er udvikleren Jakob?</h2>
-        <div class="aboutcontainer">
-            <div class="description">
-                <p>Jeg er en alsidig udvikler med erfaring i både backend og frontend programmering. 
-                    <br>Jeg udvikler apps, automatisering og scripts til såvel interne som eksterne formål. 
-                    <br><br>Jeg arbejder primært med PHP, MySQL, JavaScript og har fokus på integrationer,<br> 
-                    bl.a. med Microsoft Business Central. Jeg trives med at løse komplekse udfordringer og skabe løsninger, 
-                    der er både effektive og brugervenlige.
+    <header class="navbar">
+        <div class="nav-inner">
+            <a class="logo" href="#home">Jakob B. Gugel</a>
+            <ul class="nav-links" id="navlinks">
+                <li><a href="#home">Forside</a></li>
+                <li><a href="#about">Om mig</a></li>
+                <li><a href="#projects">Projekter</a></li>
+                <li><a href="#skills">Værktøjskasse</a></li>
+                <li><a href="#contact">Kontakt</a></li>
+                <li class="nav-theme">
+                    <button type="button" class="theme-button" aria-label="Skift sideudseende">
+                        <img id="togglemode" src="assets/lightmode.svg" alt="Skift tema">
+                    </button>
+                </li>
+            </ul>
+        </div>
+    </header>
+
+    <main>
+        <section id="home" class="section hero">
+            <div class="hero-content">
+                <p class="eyebrow">Full stack-udvikler · Integrationer · Automatisering</p>
+                <h1>Jeg bygger pragmatiske løsninger med høj driftsikkerhed.</h1>
+                <p class="lead">
+                    Jeg hjælper teams og virksomheder med at udvikle apps, integrationer og scripts der automatiserer hverdagen.
+                    Jeg går efter tydelig værdi, klare interfaces og dokumentation som alle kan følge.
                 </p>
-            </div>
-            <div class="descriptionI">
-                <p>Når jeg ikke sidder foran computeren, 
-                    bruger jeg tid på cykling, hvor jeg konstant arbejder på at forbedre min form og mine resultater. 
-                    <br><br>Jeg går altid efter at kombinere innovation, performance og effektivitet 
-                    <br>&ndash; både i mit arbejde og i min træning.
+                <p class="availability-note">
+                    Åben for projektbaserede samarbejder. Jeg har CVR-nummer og kan fakturere løbende, hvis du ikke søger en traditionel ansættelse.
                 </p>
-            </div>
-            <div class="description">
-                <p>Uddannelsesmæssigt har jeg baggrund i landbruget. Jeg er faglært landmand i februar 2015. 
-                    <br>Senere er det suppleret op med en regnskabsmæssig uddannelse i form af en HD i regnskab og økonomistyring.
-                    <br><br>&ndash;Jeg har arbejdet som regnskabsrådgiver fra 2019 -> 2024. Fra juli 2024 er jeg udvikler på fuld tid.
-                </p>
-            </div>
-            <div class="funfacts">
-                <h3 class="funfactshead">Fun facts:</h3>
-                <ul>
-                    <li>Altid at finde i et par strikkede strømper</li>
-                    <li>Bruger mere tid på min cykel end jeg gør med min ægtefælle</li>
-                    <li>Min Raspberry Pi styrer flere ting hjemme end jeg selv gør.</li>
+                <div class="hero-cta">
+                    <a class="btn primary" href="#projects">Se projekter</a>
+                    <a class="btn ghost" href="CV.pdf" download="Jakob-Gugel-CV.pdf">Download CV</a>
+                </div>
+                <ul class="hero-highlights">
+                    <li>
+                        <span>Primære sprog</span>
+                        <strong>PHP · JavaScript · Python</strong>
+                    </li>
+                    <li>
+                        <span>Fokus</span>
+                        <strong>Integrationer til Business Central</strong>
+                    </li>
+                    <li>
+                        <span>Placering</span>
+                        <strong>Haderslev, DK</strong>
+                    </li>
                 </ul>
             </div>
-            <div class="download">
-                <a href="CV.pdf" download="CV.pdf">
-                    <button type="button">Download mit CV som PDF</button>
-                </a>                
+            <div class="hero-media">
+                <div class="hero-frame">
+                    <img src="profileimage.jpg" alt="Portræt af Jakob B. Gugel" class="hero-portrait">
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="section about">
+            <div class="section-intro">
+                <p class="eyebrow">Bag kulissen</p>
+                <h2>Hvem er udvikleren Jakob?</h2>
+                <p class="lead">
+                    Jeg elsker at omsætte komplekse krav til løsninger der bare virker. Med erfaring fra både backend og frontend
+                    spænder mit arbejde fra scripts og automatisering til tunge integrationer og webapps.
+                </p>
+            </div>
+            <div class="about-grid">
+                <article class="info-card">
+                    <h3>Udviklingsprofil</h3>
+                    <p>
+                        Jeg er en alsidig udvikler med erfaring i både backend og frontend. Jeg bygger apps, automations og værktøjer
+                        til interne og eksterne teams og har et særligt fokus på integrationer til Microsoft Business Central.
+                    </p>
+                </article>
+                <article class="info-card">
+                    <h3>Arbejdsstil</h3>
+                    <p>
+                        Jeg trives i krydsfeltet mellem data, kode og drift. Når jeg ikke sidder foran skærmen, sidder jeg på cyklen
+                        og jagter bedre tider – den samme kombination af performance og effektivitet bringer jeg ind i projekterne.
+                    </p>
+                </article>
+                <article class="info-card">
+                    <h3>Baggrund</h3>
+                    <p>
+                        Jeg er faglært landmand (2015) og har en HD i regnskab og økonomistyring. Efter fem år som regnskabsrådgiver
+                        skiftede jeg i 2024 fuldtid til udvikling. Det giver mig en stærk forretningsforståelse og jordnære løsninger.
+                    </p>
+                </article>
+                <article class="funfacts-card">
+                    <h3>Fun facts</h3>
+                    <ul>
+                        <li>Ses oftest i strikkede strømper.</li>
+                        <li>Bruger flere timer på cyklen end i sofaen.</li>
+                        <li>Min Raspberry Pi styrer flere ting hjemme end jeg selv gør.</li>
+                    </ul>
+                </article>
+            </div>
+            <div class="about-cta">
+                <div>
+                    <p class="eyebrow small">Lær mig bedre at kende</p>
+                    <ul class="social-list some-links" id="some-links">
+                        <li><a href="https://github.com/Striksokken" target="_blank" rel="noreferrer noopener" aria-label="Github"><img src="assets/github-mark.svg" alt="Github"></a></li>
+                        <li><a href="https://www.linkedin.com/in/jakobbgugel/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn"><img src="assets/linkedin.svg" alt="LinkedIn"></a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects" class="section projects">
+            <div class="section-intro">
+                <p class="eyebrow">Udvalgte projekter</p>
+                <h2>Fra reverse engineering til autopilot</h2>
+                <p class="lead">
+                    Jeg bygger løsninger der står distancen. Her er et udsnit af projekter hvor jeg har leveret både kode,
+                    arkitektur og implementering.
+                </p>
+            </div>
+            <div class="project-grid">
+                <article class="project-card">
+                    <div class="project-meta">
+                        <span class="project-year">Sommer 2025</span>
+                        <span class="project-tag">Klubløsning</span>
+                    </div>
+                    <h3>Tidtagning til Haderslev BMX</h3>
+                    <p>
+                        Klubben havde hardware men manglede fleksibel software. Via reverse engineering udlæstes signaler
+                        og visualiseres på en Raspberry Pi, så trænere kan tilgå tiderne via et lokalt WiFi uden abonnement.
+                    </p>
+                    <p class="project-tools">Python · Linux · Netværk · HTML/CSS/JS</p>
+                </article>
+                <article class="project-card">
+                    <div class="project-meta">
+                        <span class="project-year">Jan 2025</span>
+                        <span class="project-tag">Automation</span>
+                    </div>
+                    <h3>Automatiseret “Giv et praj”</h3>
+                    <p>
+                        Ugentlig indrapportering til kommunen blev automatiseret med et simpelt script og Windows scheduled tasks.
+                        En vedvarende manuel opgave blev reduceret til ren overvågning.
+                    </p>
+                    <p class="project-tools">Python · Windows Scheduled Tasks</p>
+                </article>
+                <article class="project-card">
+                    <div class="project-meta">
+                        <span class="project-year">2024</span>
+                        <span class="project-tag">Web</span>
+                    </div>
+                    <h3>Denne portfolio</h3>
+                    <p>
+                        Design, udvikling og hosting af en personlig platform der viser mit arbejde, kodefilosofi og kontaktpunkter.
+                    </p>
+                    <p class="project-tools">HTML · CSS · JavaScript · PHP</p>
+                </article>
+                <article class="project-card">
+                    <div class="project-meta">
+                        <span class="project-year">2019</span>
+                        <span class="project-tag">Finans</span>
+                    </div>
+                    <h3>Beregning af ejendomsavance</h3>
+                    <p>
+                        Komplet værktøj der beregner ejendomsavance, genvundne afskrivninger og indregner tal i årsopgørelsen.
+                        Udviklet som eksamensforberedelse.
+                    </p>
+                    <p class="project-tools">Excel · VBA</p>
+                </article>
+                <article class="project-card">
+                    <div class="project-meta">
+                        <span class="project-year">2016</span>
+                        <span class="project-tag">Gaming</span>
+                    </div>
+                    <h3>Tilpasninger til Farming Simulator</h3>
+                    <p>
+                        Min første udvidelse var en vægtklods modelleret efter virkeligheden. Senere fulgte flere maskiner
+                        bygget i Autodesk Maya med scripting i LUA.
+                    </p>
+                    <p class="project-tools">Autodesk Maya · Photoshop · LUA · Giants Editor</p>
+                </article>
+            </div>
+        </section>
+
+        <section id="skills" class="section skills">
+            <div class="section-intro">
+                <p class="eyebrow">Værktøjskasse</p>
+                <h2>Teknologi der matcher behovet</h2>
+                <p class="lead">
+                    Jeg vælger værktøjer efter opgaven og bygger bro mellem eksisterende systemer og nye flows.
+                </p>
+            </div>
+            <div class="skills-content">
+                <ul class="skill-pills">
+                    <li>Integrationer til Business Central</li>
+                    <li>Webapps og dashboards</li>
+                    <li>Data pipelines og rapportering</li>
+                    <li>Automatisering & scripts</li>
+                    <li>CI/CD og monitorering</li>
+                </ul>
+                <ul class="skill-icons" id="tools">
+                    <li><img src="assets/python.svg" alt="Python"><span>Python</span></li>
+                    <li><img src="assets/html5.svg" alt="HTML5"><span>HTML5</span></li>
+                    <li><img src="assets/css3.svg" alt="CSS3"><span>CSS3</span></li>
+                    <li><img src="assets/sql.svg" alt="SQL"><span>SQL</span></li>
+                    <li><img src="assets/js.svg" alt="Javascript"><span>JavaScript</span></li>
+                    <li><img src="assets/Powershell.svg" alt="Powershell"><span>Powershell</span></li>
+                    <li><img src="assets/mspowerplatform.svg" alt="Microsoft Power Platform"><span>Power Platform</span></li>
+                    <li><img src="assets/excel.svg" alt="Excel og VBA"><span>Excel & VBA</span></li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="contact" class="section contact">
+            <div class="section-intro">
+                <p class="eyebrow">Kontakt</p>
+                <h2>Lad os bygge noget sammen</h2>
+                <p class="lead">
+                    Beskriv kort din idé, udfordring eller stack – jeg arbejder også projektbaseret og kan fakturere med eget CVR-nummer.
+                </p>
+            </div>
+            <form id="contactForm" class="contact-form">
+                <label for="name">Navn</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="telefon">Telefon</label>
+                <input type="tel" id="telefon" name="telefon" required>
+
+                <label for="message">Besked</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+
+                <button type="submit" class="btn primary">Send besked</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <div id="cookie-banner" class="cookie-banner" style="display: none;">
+            <p>
+                Jeg bruger din browsers localstorage til at håndtere dine personlige præferencer.<br>
+                Du kan acceptere alle cookies eller afvise dem. En afvisning betyder, at siden ikke husker dine valg.
+            </p>
+            <div class="cookie-actions">
+                <button id="accept-cookies" class="btn primary">Accepter alle</button>
+                <button id="reject-cookies" class="btn ghost">Afvis</button>
             </div>
         </div>
-        <h3>Lær mig bedre at kende på mine sociale medier</h3>
-        <ul class="some-links" id="some-links">
-            <li title="Github"><a href="https://github.com/Striksokken"><img src="assets/github-mark.svg"></a></li>
-            <li title="Linkedin"><a href="https://www.linkedin.com/in/jakobbgugel/"><img src="assets/linkedin.svg"></a></li>
-        </ul>
-    </section>
-    <section id="projects" class="projects">
-        <h2>Udvalgte projekter gennem tiden:</h2>
-        <div id="projectitem" class="projectitem">
-            <h3 class="projectyear">Sommer 2025</h3>
-            <p class="projecthead">Tidtagning i Haderslev BMX</p>
-            <p class="projectbread">Haderslev BMX havde i forvejen købt noget hardware som bruges i forbindelse med stævner. De kunne købe noget dyrt software med månedlig licens, men i stedet byggede vi det i fællesskab. <br><br>Ved hjælp af reverse engineering lykkedes det at hive signalerne ud af systemet og visualisere data på et lokalt system styret af en raspberry pi.<br><br>Systemet fungerer uden brug af abonnement eller behov for internetforbindelse. <br>Systemet laver et lokalt WIFI-netværk som kan tilgås via mobile enheder. Derved har trænere også mulighed for at bruge tidtagningerne aktivt på banen.</p>
-            <p class="projecttools">Værktøjer brugt: Python, Linux programmering, Netværksopsætning, HTML, CSS og Javascript</p>
-        </div>
-        <div id="projectitemII" class="projectitemII">
-            <h3 class="projectyear">Jan. 2025</h3>
-            <p class="projecthead">Automatisering af en træls opgave</p>
-            <p class="projectbread">Jeg lavet et script som opretter en ny "giv et praj" hver uge. <br><br>Baggrunden er vi i flere år har bøvlet med kommunen i forhold til en ny opkørsel til vores hus. Alle forsøg var uden held.<br><br>- Det blev ret hurtigt løst med lidt automatisering.</p>
-            <p class="projecttools">Værktøjer brugt: Python, Windows scheduled tasks</p>
-        </div>
-        <div id="projectitem" class="projectitem">
-            <h3 class="projectyear">2024</h3>
-            <p class="projecthead">Denne portfolie-webside</p>
-            <p class="projectbread"></p>
-            <p class="projecttools">Værktøjer brugt: HTML, CSS, Javascript, PHP</p>
-        </div>
-        <div id="projectitemII" class="projectitemII">
-            <h3 class="projectyear">2019</h3>
-            <p class="projecthead">Beregning af ejendomsavance på landbrugsejendomme</p>
-            <p class="projectbread">Fuldt værktøj som kunne beregne ejendomsavance, genvundne afskrivninger og indregne tallene i en skatteyders årsopgørelse. <br><br>Projektet blev lavet som forberedelse til en eksamen.</p>
-            <p class="projecttools">Værktøjer brugt: Microsoft Excel og Visual Basic for Applications (VBA)</p>
-        </div>
-        <div id="projectitem" class="projectitem">
-            <h3 class="projectyear">2016</h3>
-            <p class="projecthead">Udgav jeg min første tilpasning til spillet Farming Simulator</p>
-            <p class="projectbread">Tilpasningen var en vægtklods som kunne bruges på maskinerne i spillet. <br>Vægtklodsen var tegnet efter en jeg havde set i virkeligheden.<br><br>Siden dengang er det blevet til flere maskiner.</p>
-            <p class="projecttools">Værktøjer brugt: Autodesk Maya, Photoshop, lua-scripting og Giants editor</p>
-        </div>
-    </section>
-    <section id="skills" class="skills">
-        <h2>Hvilke værktøjer findes blandt andet i værktøjskassen?</h2>
-        <ul class="tools" id="tools">
-            <li title="Python"><img src="assets/python.svg" alt="Python"></li>
-            <li title="HTML"><img src="assets/html5.svg" alt="HTML"></li>
-            <li title="CSS"><img src="assets/css3.svg" alt="CSS"></li>
-            <li title="SQL"><img src="assets/sql.svg" alt="SQL"></li>
-            <li title="Javascript"><img src="assets/js.svg" alt="Javascript"></li>
-            <li title="Powershell"><img src="assets/Powershell.svg" alt="Powershell"></li>
-            <li title="Microsoft Power Platform, herunder PowerBi, PowerApps og Power Automate"><img src="assets/mspowerplatform.svg" alt="Microsoft Power Platform, herunder PowerBi, PowerApps og Power Automate"></li>
-            <li title="Excel og Visual Basic for Applications"><img src="assets/excel.svg" alt="Excel og VBA"></li>
-        </ul>
-    </section>
-    <section id="contact" class="contact">
-        <h2>Kontakt mig</h2>
-        <form id="contactForm">
-            <label for="name">Navn</label>
-            <input type="text" id="name" name="name" required>
-        
-            <label for="email">Email</label>
-            <input type="email" id="email" name="email" required>
-            
-            <label for="telefon">Telefon</label>
-            <input type="telefon" id="telefon" name="telefon" required>
-
-            <label for="message">Besked</label>
-            <textarea id="message" name="message" required></textarea>
-        
-            <button type="submit">Send</button>
-        </form>        
-    </section>
-    <footer>
-        <div id="cookie-banner" style="display: none;">
-            <p>
-              Jeg bruger din browsers localstorage til at håndtere dine personlige præferencer.<br>Du kan acceptere alle cookies eller 
-              afvise dem. En afvisning vil betyde at siden ikke husker dine personlige ændringer.
-            </p>
-            <button id="accept-cookies">Accepter alle</button>
-            <button id="reject-cookies">Afvis</button>
-          </div>
         <p class="signature">Jakob Brodersen Gugel</p>
     </footer>
 
