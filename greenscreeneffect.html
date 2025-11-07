@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Greenscreen effect - Jakob B. Gugel - DK</title>
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-    <link rel="stylesheet" href="style.css"> <!--Main stylesheet-->
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="greenscreeneffect.css">
 </head>
 <body>
@@ -19,8 +19,17 @@
         <h1>Webcam-baseret person-segmentering</h1>
   </section>
   <section id="canvas" class="canvas">
-        <video id="video" width="640" height="480" autoplay muted></video>
-        <canvas id="output" width="640" height="480"></canvas>
+        <p class="lead">
+            Aktiver dit webcam, så maskerer jeg baggrunden med en grøn kulisse, klar til virtuelle optagelser.
+        </p>
+        <div class="greenscreen-stage">
+            <canvas id="output" width="1280" height="720"></canvas>
+            <div class="reference-feed">
+                <p>Live preview (det du holder foran kameraet)</p>
+                <video id="video" width="1280" height="720" autoplay muted playsinline></video>
+            </div>
+        </div>
+        <p id="greenscreen-status" class="status"></p>
   </section>
   <footer>
       <div id="cookie-banner" style="display: none;">
@@ -33,8 +42,9 @@
         </div>
       <p class="signature">Jakob Brodersen Gugel</p>
   </footer>
-  <script src="script.js"></script> <!--Main JS-->
-  <script src="greenscreeneffect.js"></script>
-  <script async src="vendor/openCV.js v4.11.0/dist/opencv.js"></script>
+  <script defer src="script.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/@mediapipe/selfie_segmentation/selfie_segmentation.js"></script>
+  <script defer src="greenscreeneffect.js"></script>
 </body>
 </html>

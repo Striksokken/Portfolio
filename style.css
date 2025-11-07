@@ -405,6 +405,17 @@ main {
     color: var(--color-text-muted);
 }
 
+.project-link {
+    margin-top: auto;
+    font-weight: 600;
+    color: var(--color-accent);
+    text-decoration: none;
+}
+
+.project-link:hover {
+    text-decoration: underline;
+}
+
 .skills-content {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
