@@ -560,11 +560,6 @@ footer {
         justify-content: center;
     }
 
-    .about-cta {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
     .contact {
         padding: 2rem;
     }
